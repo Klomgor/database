@@ -12249,6 +12249,8 @@ K08OUD3.us,K08OU-D3,,3ABN Dare to Dream,Edge Spectrum,US,religious,FALSE,,,,
 K08OUD4.us,K08OU-D4,,3ABN Latino,Edge Spectrum,US,religious,FALSE,,,,
 K08OWD21.us,K08OW-D 2.1,Q2;KTVQ-DT,CBS,Treasure County T.V. District,US,general,FALSE,,,,
 K08PFD91.us,K08PF-D 9.1,UEN-TV;KUEN-HD,First Nations Experience,Millard County,US,general,FALSE,,,,
+K09AAKD122.us,K09AAK-D 12.2,COZI,COZI TV,Gray Television Licensee LLC,US,entertainment,FALSE,,,,
+K09AAKD491.us,K09AAK-D 49.1,Fox 12 Plus;Fox12+,MyN,Gray Television Licensee LLC,US,general,FALSE,1993-06-10,,,https://transition.fcc.gov/fcc-bin/tvq?facid=34863
 K09DFD41.us,K09DF-D 4.1,KXLY ABC 4 HD;KXLY-HD,ABC,Juliaetta Television Association,US,general,FALSE,,,,
 K09QPD92.us,K09QP-D 9.2,AKPTV,KTOO 360TV,State of Alaska,US,education,FALSE,,,,
 K09YHD271.us,K09YH-D 27.1,Fox 27;KLWY,FOX,VW License LLC,US,general,FALSE,,,,
@@ -12345,6 +12347,10 @@ K17JID122.us,K17JI-D 12.2,K17JI-D,3ABN,HC2 Station Group Inc.,US,religious,FALSE
 K17JID123.us,K17JI-D 12.3,K17JI-D,Infomercials,HC2 Station Group Inc.,US,religious,FALSE,,,,
 K17JID124.us,K17JI-D 12.4,K17JI-D,Shop LC,HC2 Station Group Inc.,US,religious,FALSE,,,,https://3abnlatino.tv/
 K17KXD41.us,K17KX-D 4.1,KCNC-TV;CBS Colorado,CBS,Region 1 Translator Association,US,general,FALSE,,,,
+K17PMD171.us,K17PM-D 17.1,Fox West Texas;KXVA DT,FOX,LSB Broadcasting Inc.,US,general,FALSE,1992-11-20,,,https://transition.fcc.gov/fcc-bin/tvq?facid=58559
+K17PMD172.us,K17PM-D 17.2,MyNet,MyN,LSB Broadcasting Inc.,US,entertainment,FALSE,,,,
+K17PMD173.us,K17PM-D 17.3,COZI,COZI TV,LSB Broadcasting Inc.,US,entertainment,FALSE,,,,
+K17PMD174.us,K17PM-D 17.4,Quest,Quest,LSB Broadcasting Inc.,US,travel,FALSE,,,,
 K18BND181.us,K18BN-D 18.1,NOST,Nostalgia Network,Valley County Television District #1,US,entertainment,FALSE,,,,https://www.getafteritmedia.com/heartland
 K18BND182.us,K18BN-D 18.2,BINGE,Binge TV,Valley County Television District #1,US,entertainment,FALSE,,,,
 K18BND3.us,K18BN-D3,,REV'N,Valley County TV District 1,US,auto,FALSE,,,,
@@ -12393,6 +12399,7 @@ K20JXD191.us,K20JX-D 19.1,GoodNws,Good News TV,Amazing Facts Inc.,US,religious,F
 K20JXD192.us,K20JX-D 19.2,GNTVLat,GNTV Latino,Amazing Facts Inc.,US,religious,FALSE,,,,
 K20JXD193.us,K20JX-D 19.3,GNTVKid,GNTV Kids,Amazing Facts Inc.,US,religious,FALSE,,,,
 K20JXD194.us,K20JX-D 19.4,K19IP-D,Amazing Facts TV,Amazing Facts Inc.,US,religious,FALSE,,,,
+K20PGD201.us,K20PG-D 20.1,KRTX-LD,Heartland,Digital Networks-Southwest LLC,US,entertainment,FALSE,,,,https://www.getafteritmedia.com/heartland
 K21AMD71.us,K21AM-D 7.1,KAKM;KAKM-HD,PBS,Alaska Public Media,US,education,FALSE,,,,
 K21AMD72.us,K21AM-D 7.2,Create,Create,Alaska Public Media,US,education,FALSE,,,,
 K21AMD73.us,K21AM-D 7.3,360TV,KTOO 360TV,Alaska Public Media,US,education;documentary,FALSE,,,,
@@ -12427,6 +12434,10 @@ K22JAD472.us,K22JA-D 47.2,KDF-TV;KDF,Independent,Scripps Broadcasting Holdings L
 K22JJD1.us,K22JJ-D1,,CBS,Citizens TV Inc,US,general,FALSE,,,,
 K22JJD2.us,K22JJ-D2,,GetTV,Citizens TV Inc,US,entertainment,FALSE,,,,
 K22JJD3.us,K22JJ-D3,,Bounce,Citizens TV Inc,US,entertainment,FALSE,,,,
+K22PHD301.us,K22PH-D 30.1,CW 30;KUCW-HD,CW,Nexstar Media Inc.,US,entertainment,FALSE,2003-06-11,,,https://transition.fcc.gov/fcc-bin/tvq?facid=70960
+K22PHD302.us,K22PH-D 30.2,Mystery,ION Mystery,Nexstar Media Inc.,US,entertainment,FALSE,,,,
+K22PHD303.us,K22PH-D 30.3,Defy,Defy TV,Nexstar Media Inc.,US,entertainment,FALSE,,,,
+K22PHD304.us,K22PH-D 30.4,Shop-LC,Shop LC,Nexstar Media Inc.,US,shop,FALSE,,,,
 K23CUD231.us,K23CU-D 23.1,3ABN TV,3ABN,Christ Loves You Broadcasting Inc.,US,religious,FALSE,,,,
 K23CUD232.us,K23CU-D 23.2,Amazing,Amazing Facts TV,Christ Loves You Broadcasting Inc.,US,religious,FALSE,,,,
 K23CUD233.us,K23CU-D 23.3,Hope,Hope Channel,Christ Loves You Broadcasting Inc.,US,religious,FALSE,,,,
@@ -12550,6 +12561,12 @@ K30JDD54.us,K30JD-D 5.4,Shop LC,Shop LC,Gray Television Licensee LLC,US,entertai
 K30JED111.us,K30JE-D 11.1,PBS Hawaii;KHET-1,PBS,Hawaii Public Television Foundation,US,education,FALSE,,,,
 K30JMD1.us,K30JM-D1,,NBC,Scripps Broadcasting Holdings LLC;Scripps Media Inc.;The E.W. Scripps Company,US,general,FALSE,,,,
 K30KQD411.us,K30KQ-D 41.1,ION,ION,Cooperative TelevisION Association of Southern Minnesota,US,entertainment,FALSE,,,,
+K30RFD301.us,K30RF-D 30.1,HRTLND,Heartland,Digital Networks-Wichita LLC,US,entertainment,FALSE,1992-01-01,,,https://www.getafteritmedia.com/heartland
+K30RFD302.us,K30RF-D 30.2,RTV,Retro TV,Digital Networks-Wichita LLC,US,entertainment,FALSE,,,,
+K30RFD303.us,K30RF-D 30.3,REVN,Rev'n,Digital Networks-Wichita LLC,US,auto,FALSE,,,,
+K30RFD304.us,K30RF-D 30.4,Action,Action Channel,Digital Networks-Wichita LLC,US,entertainment,FALSE,,,,
+K30RFD305.us,K30RF-D 30.5,Family,The Family Channel,Digital Networks-Wichita LLC,US,family,FALSE,,,,
+K30RFD306.us,K30RF-D 30.6,Revival,Revival TV Network,Digital Networks-Wichita LLC,US,shop,FALSE,,,,
 K31CTD5.us,K31CT-D5,,France 24,Southwest Colorado TV Translator Assoication,US,news,FALSE,,,,
 K31CTD609.us,K31CT-D 60.9,KVOD,Audio,Southwest Colorado TV Translator Association,US,general,FALSE,,,,
 K31CTD8.us,K31CT-D8,,RT,Southwest Colorado TV Translator Assoication,US,documentary,FALSE,,,,
@@ -12583,6 +12600,9 @@ K31NFD311.us,K31NF-D 31.1,GoodNws,Good News TV,Good News Broadcasting Network In
 K31NFD312.us,K31NF-D 31.2,GNTVLat,GNTV Latino,Good News Broadcasting Network Inc.,US,religious,FALSE,,,,
 K31NFD313.us,K31NF-D 31.3,GNTVKid,GNTV Kids,Good News Broadcasting Network Inc.,US,religious,FALSE,,,,
 K31NFD314.us,K31NF-D 31.4,K19IP-D,Amazing Facts TV,Good News Broadcasting Network Inc.,US,religious,FALSE,,,,
+K31QKD41.us,K31QK-D 4.1,KXLY ABC 4 HD;KXLY-HD,ABC,Spokane Television Inc.,US,general,FALSE,2007-12-26,,,https://transition.fcc.gov/fcc-bin/tvq?facid=167859
+K31QKD42.us,K31QK-D 4.2,KXLY4.2,Me-TV,Spokane Television Inc.,US,entertainment,FALSE,,,,
+K31QKD43.us,K31QK-D 4.3,KXLY4.3,Heroes & Icons,Spokane Television Inc.,US,documentary,FALSE,,,,
 K32CWD181.us,K32CW-D 18.1,Rocky Mountain PBS;KRMJ-DT,PBS,Rocky Mountain Public Media Inc.,US,education,FALSE,,,,
 K32DED61.us,K32DE-D 6.1,KOIN Local 6;KOIN-HD,CBS,Rural Oregon Wireless Television Inc.,US,general,FALSE,,,,
 K32DED62.us,K32DE-D 6.2,GetTV,GREAT,Rural Oregon Wireless Television Inc.,US,entertainment,FALSE,,,,
@@ -12621,9 +12641,15 @@ K34JRD82.us,K34JR-D 8.2,Quest,Quest,Rural Oregon Wireless Television Inc.,US,ent
 K34JRD83.us,K34JR-D 8.3,Crime,True Crime Network,Rural Oregon Wireless Television Inc.,US,entertainment,FALSE,,,,
 K34KKD51.us,K34KK-D 5.1,PBS Reno;KNPB HD,PBS,Honey Lake Community TV Corp.,US,education,FALSE,,,,
 K34QBD1.us,K34QB-D1,,Independent,Deerfield Media,US,general,FALSE,,,,https://www.tv8vail.com/watch-live
+K34RKD152.us,K34RK-D 15.2,MyNet,MyN,LSB Broadcasting Inc.,US,entertainment,FALSE,,,,
+K34RKD153.us,K34RK-D 15.3,COZI,COZI TV,LSB Broadcasting Inc.,US,entertainment,FALSE,,,,
 K35BWD61.us,K35BW-D 6.1,KHQ 6;KHQ-HD,NBC,KHQ Incorporated,US,general,FALSE,,,,
 K35GUD32.us,K35GU-D 3.2,KENW tv3;KENW HD,PBS,Eastern New Mexico University,US,education,FALSE,,,,
 K35LDD321.us,K35LD-D 32.1,Portland's CW 32;KRCW,CW,Sinclair Portland Licensee LLC,US,general,FALSE,,,,
+K35PVD461.us,K35PV-D 46.1,MontanaPBS;KUKL-HD,PBS,Montana State University,US,education,FALSE,1998-01-12,,,https://transition.fcc.gov/fcc-bin/tvq?facid=40102
+K35PVD463.us,K35PV-D 46.3,MontanaPBS Create;KUKL-C,Create,Montana State University,US,education,FALSE,,,,
+K35PVD464.us,K35PV-D 46.4,MontanaPBS World;KUKL-W,World Channel,Montana State University,US,documentary,FALSE,,,,
+K35PVD465.us,K35PV-D 46.5,MontanaPBS Legislative;KUKL-L,Montana Legislature,Montana State University,US,legislative,FALSE,,,,
 K36ABD361.us,K36AB-D 36.1,OETA;OETA-HD,PBS,Oklahoma Educational Television Authority,US,education,FALSE,,,,
 K36ACD471.us,K36AC-D 47.1,CBS,CBS,Region 1 Translator Association,US,education,FALSE,,,,
 K36BWD42.us,K36BW-D 4.2,SNDRS-TV,PBS,Thompson Falls TV District,US,education,FALSE,,,,
@@ -14065,10 +14091,6 @@ KevinHartsLOLNetwork.us,Kevin Hart's LOL! Network,,Pluto TV,,US,comedy,FALSE,,,,
 KEVNDT1.us,KEVN-DT1,,FOX,Gray Television,US,,FALSE,,,,http://www.kevn.com/
 KEVNLD71.us,KEVN-LD 7.1,Black Hills Fox;FOX-HD,FOX,Gray Television Licensee LLC,US,general,FALSE,2016-02-01,,,http://www.kevn.com/
 KEVUCD231.us,KEVU-CD 23.1,MyTV 23;KEVUHD,MyN,Oregon Broadcasting Licenses LLC,US,entertainment,FALSE,1984-01-16,,,http://www.oregonsfox.com/kevu.html
-KEXILD1.us,KEXI-LD1,,PBS,Montana State University,US,education,FALSE,1998-01-12,,,https://transition.fcc.gov/fcc-bin/tvq?facid=40102
-KEXILD3.us,KEXI-LD3,,Create,Montana State University,US,education,FALSE,,,,
-KEXILD4.us,KEXI-LD4,,PBS World,Montana State University,US,documentary,FALSE,,,,
-KEXILD5.us,KEXI-LD5,,Montana Legislature,Montana State University,US,legislative,FALSE,,,,
 KEXTCD1.us,KEXT-CD1,,UniMás,,US,,FALSE,,,,
 KEXTV.fi,KEXTV,,,,FI,general,FALSE,,,,https://www.kextv.fi/
 KEYCTV121.us,KEYC-TV 12.1,News 12;KEYC-HD,CBS,Gray Television Licensee LLC,US,general,FALSE,1960-10-05,,,http://www.keyc.tv/
@@ -14398,11 +14420,11 @@ KGUNTV93.us,KGUN-TV 9.3,Antenna TV;Antenna,Antenna TV,Scripps Broadcasting Holdi
 KGUNTV94.us,KGUN-TV 9.4,Bounce,Bounce TV,Scripps Broadcasting Holdings LLC,US,entertainment,FALSE,,,,
 KGUNTV95.us,KGUN-TV 9.5,ION,ION,Scripps Broadcasting Holdings LLC,US,entertainment,FALSE,,,,https://www.kgun9.com/
 KGUNTV96.us,KGUN-TV 9.6,Scripps News;Busted,Busted,Scripps Broadcasting Holdings LLC,US,news,FALSE,,,,https://www.kgun9.com/
-KGWCTV141.us,KGWC-TV 14.1,KGWC,CBS,Bhtv License LLC,US,general,FALSE,1980-08-12,,,https://www.yourwyominglink.com/
-KGWCTV142.us,KGWC-TV 14.2,K2 TV;KTWO,ABC,Bhtv License LLC,US,general,FALSE,,,,
 KGW81.us,KGW 8.1,KGW 8;KGW,NBC,Sander Operating Co. III LLC D/B/A KGW Television,US,general,FALSE,1956-12-15,,,https://www.kgw.com/
 KGW82.us,KGW 8.2,Quest,Quest,Sander Operating Co. III LLC D/B/A KGW Television,US,,FALSE,,,,
 KGW83.us,KGW 8.3,Crime,True Crime Network,Sander Operating Co. III LLC D/B/A KGW Television,US,,FALSE,,,,
+KGWCTV141.us,KGWC-TV 14.1,KGWC,CBS,Bhtv License LLC,US,general,FALSE,1980-08-12,,,https://www.yourwyominglink.com/
+KGWCTV142.us,KGWC-TV 14.2,K2 TV;KTWO,ABC,Bhtv License LLC,US,general,FALSE,,,,
 KGWDT4.us,KGW-DT4,,True Crime Network,Tegna Inc,US,documentary,FALSE,,,,
 KGWLTV51.us,KGWL-TV 5.1,KGWL-DT,CBS,Bhtv License LLC,US,general,FALSE,1982-03-29,,,https://transition.fcc.gov/fcc-bin/tvq?facid=63162
 KGWNTV51.us,KGWN-TV 5.1,CBS 5 Newschannel;KGWN-HD,CBS,Marquee Broadcasting West Inc.,US,general,FALSE,1954-03-22,,,http://www.kgwn.tv/
@@ -14601,12 +14623,6 @@ KidsTalkTalkPlus.kr,Kids Talk Talk Plus,키즈톡톡 플러스;Kids Talk Talk,,,
 KidsTV.gr,Kids TV,,,Multichoice,GR,kids,FALSE,,2001-01-01,,
 KidsTV.id,Kids TV,,,MNC Vision Networks,ID,kids,FALSE,2015-01-01,,,https://www.mncchannels.com/micro/Kids-TV
 KidsZone.pk,Kids Zone,,,Mediacon Network Pvt Ltd,PK,kids,FALSE,2018-12-01,,,
-KIDULD1.us,KIDU-LD1,,FOX,Tegna Inc,US,general,FALSE,1992-11-20,,,https://transition.fcc.gov/fcc-bin/tvq?facid=58559
-KIDULD2.us,KIDU-LD2,,My Network TV,Tegna Inc,US,entertainment,FALSE,,,,
-KIDULD3.us,KIDU-LD3,,Cozi TV,Tegna Inc,US,entertainment,FALSE,,,,
-KIDULD4.us,KIDU-LD4,,Quest,Tegna Inc,US,travel,FALSE,,,,
-KIDVLD2.us,KIDV-LD2,,My Network TV,Tegna Inc,US,entertainment,FALSE,,,,
-KIDVLD3.us,KIDV-LD3,,Cozi TV,Tegna Inc,US,entertainment,FALSE,,,,
 KIDY61.us,KIDY 6.1,Fox West Texas;KIDY-DT,FOX,LSB Broadcasting Inc.,US,general,FALSE,1984-05-12,,,http://www.myfoxzone.com/
 KIDY62.us,KIDY 6.2,My Abilene;MyNet,MyN,LSB Broadcasting Inc.,US,entertainment,FALSE,,,,
 KIDY63.us,KIDY 6.3,COZI,COZI TV,LSB Broadcasting Inc.,US,entertainment,FALSE,,,,
@@ -15273,9 +15289,6 @@ KMNETV72.us,KMNE-TV 7.2,NE-W,World Channel,Nebraska Educational Telecommunicatio
 KMNETV73.us,KMNE-TV 7.3,NE-C,Create,Nebraska Educational Telecommunications Commission,US,education,FALSE,,,,https://nebraskapublicmedia.org/en/
 KMNETV74.us,KMNE-TV 7.4,NE-KIDS,PBS Kids 24/7,Nebraska Educational Telecommunications Commission,US,education;kids,FALSE,,,,https://nebraskapublicmedia.org/en/
 KMNETV75.us,KMNE-TV 7.5,FNX;NE-FNX,First Nations Experience,Nebraska Educational Telecommunications Commission,US,culture,FALSE,,,,https://nebraskapublicmedia.org/en/
-KMNZLD1.us,KMNZ-LD1,,ABC,Morgan Murphy Media,US,general,FALSE,2007-12-26,,,https://transition.fcc.gov/fcc-bin/tvq?facid=167859
-KMNZLD2.us,KMNZ-LD2,,MeTV,Morgan Murphy Media,US,entertainment,FALSE,,,,
-KMNZLD3.us,KMNZ-LD3,,H&I,Morgan Murphy Media,US,documentary,FALSE,,,,
 KMOHDT1.us,KMOH-DT1,,MeTV,Weigel Broadcasting,US,entertainment,FALSE,1992-06-05,,,https://enterpriseefiling.fcc.gov/dataentry/public/tv/publicFacilityDetails.html?facilityId=168349
 KMOHDT2.us,KMOH-DT2,,H&I,Weigel Broadcasting,US,documentary,FALSE,,,,
 KMOHDT3.us,KMOH-DT3,,MeTV+,Weigel Broadcasting,US,entertainment,FALSE,,,,
@@ -16320,7 +16333,6 @@ KRTNTV331.us,KRTN-TV 33.1,KRTN-TV,TeleXitos,NBC Telemundo License LLC,US,,FALSE,
 KRTV.ru,KRTV,КРТВ,,,RU,general,FALSE,,,,https://krtv.tv/
 KRTV31.us,KRTV 3.1,KRTV 3;KRTV,CBS,Scripps Broadcasting Holdings LLC,US,general,FALSE,1969-02-01,,,https://www.krtv.com/
 KRTV32.us,KRTV 3.2,MTN,MTN,Scripps Broadcasting Holdings LLC,US,general,FALSE,,,,
-KRTXLD1.us,KRTX-LD1,,Heartland,Digital Networks,US,entertainment,FALSE,,,,https://www.getafteritmedia.com/heartland
 KruiskykTV.za,Kruiskyk TV,,,,ZA,news,FALSE,,,,https://kruiskyk.tv/
 KrusnaTV.cz,Krusna TV,Krušná TV,,,CZ,general,FALSE,,,,https://krusna.tv/
 KRVULD461.us,KRVU-LD 46.1,UNIV,Univision,Sinclair-California Licensee LLC,US,entertainment,FALSE,1993-09-02,,,https://transition.fcc.gov/fcc-bin/tvq?facid=40203
@@ -16483,12 +16495,6 @@ KSLMLD12.us,KSLM-LD12,,Youtoo America,,US,,FALSE,,,,
 KSLMLD13.us,KSLM-LD13,,Azteca,,US,,FALSE,,,,
 KSLMLD371.us,KSLM-LD 37.1,Azteca,Estrella TV,Michael Mattson,US,religious,FALSE,2008-09-01,,,https://enterpriseefiling.fcc.gov/dataentry/public/tv/publicFacilityDetails.html?facilityId=129164
 KSMCTV.ng,KSMC TV,,,Kaduna State Media Corporation,NG,news,FALSE,,,,
-KSMILD1.us,KSMI-LD1,,Heartland,Get After It Media,US,entertainment,FALSE,1992-01-01,,,https://www.getafteritmedia.com/heartland
-KSMILD2.us,KSMI-LD2,,Retro TV,Get After It Media,US,entertainment,FALSE,,,,
-KSMILD3.us,KSMI-LD3,,REV'N,Get After It Media,US,auto,FALSE,,,,
-KSMILD4.us,KSMI-LD4,,Action,Get After It Media,US,entertainment,FALSE,,,,
-KSMILD5.us,KSMI-LD5,,The Family Channel,Get After It Media,US,family,FALSE,,,,
-KSMILD6.us,KSMI-LD6,,HSN,Get After It Media,US,shop,FALSE,,,,
 KSMN201.us,KSMN 20.1,Pioneer PBS;KSMN-HD,PBS,West Central Minnesota Educational TV Corp.,US,education,FALSE,1997-01-01,,,http://www.pioneer.org/
 KSMN202.us,KSMN 20.2,KSMN-CR,Create,West Central Minnesota Educational TV Corp.,US,education,FALSE,,,,
 KSMN203.us,KSMN 20.3,KSMN-MN,MN Channel,West Central Minnesota Educational TV Corp.,US,legislative,FALSE,,,,
@@ -17195,8 +17201,6 @@ KUBETV576.us,KUBE-TV 57.6,Mi Raza,Spanish Independent,RNN National LLC,US,shop,F
 KUBETV577.us,KUBE-TV 57.7,VietSky,VietSky,RNN National LLC,US,shop,FALSE,,,,
 KUBETV578.us,KUBE-TV 57.8,JTV,Jewelry TV,RNN National LLC,US,shop,FALSE,,,,
 KUBETV579.us,KUBE-TV 57.9,UChurch;FUBOSPT,Fubo Sports,RNN National LLC,US,religious,FALSE,1988-05-18,,,https://www.rnntv.com/
-KUBNLD1.us,KUBN-LD1,,Fox,Gray Television,US,general,FALSE,1993-06-10,,,https://transition.fcc.gov/fcc-bin/tvq?facid=34863
-KUBNLD2.us,KUBN-LD2,,Cozi TV,Gray Television,US,entertainment,FALSE,,,,
 KUCLLD261.us,KUCL-LD 26.1,KUCL-LD,Hope Channel,Christian Life Broadcasting,US,religious,FALSE,1992-04-07,,,https://transition.fcc.gov/fcc-bin/tvq?facid=11063
 KUCLLD262.us,KUCL-LD 26.2,3ABN-EN,3ABN,Christian Life Broadcasting,US,religious,FALSE,,,,
 KUCLLD263.us,KUCL-LD 26.3,LLBN,LLBN,Christian Life Broadcasting,US,religious,FALSE,,,,
@@ -17444,10 +17448,6 @@ KuvoTV.ba,Kuvo TV,,,Bono d.o.o.,BA,general,FALSE,,,,https://www.kuvo.tv/
 KUVSDT191.us,KUVS-DT 19.1,Univision 19;KUVS-DT,Univision,KUVS License Partnership G.P.,US,general,FALSE,1966-08-26,,,https://www.univision.com/
 KUVSDT3.us,KUVS-DT3,,UniMas,TelevisaUnivision,US,entertainment,FALSE,,,,
 KUVSDT642.us,KUVS-DT 64.2,KTFK-HD,UniMás,KUVS License Partnership G.P.,US,entertainment,FALSE,,,,
-KUWBLD1.us,KUWB-LD1,,CW,Nexstar Media,US,entertainment,FALSE,2003-06-11,,,https://transition.fcc.gov/fcc-bin/tvq?facid=70960
-KUWBLD2.us,KUWB-LD2,,Ion Mystery,Nexstar Media,US,entertainment,FALSE,,,,
-KUWBLD3.us,KUWB-LD3,,Defy TV,Nexstar Media,US,entertainment,FALSE,,,,
-KUWBLD4.us,KUWB-LD4,,Shop LC,Nexstar Media,US,shop,FALSE,,,,
 KUWBLD5.us,KUWB-LD5,KJZZ 14,Independent,Nexstar Media,US,music,FALSE,,,,
 Kuzbass1.ru,Kuzbass 1,Кузбасс 1,,,RU,general,FALSE,,,,https://kuzbass1.ru/
 Kuzbass24.ru,Kuzbass 24,Кузбасс 24,,,RU,news,FALSE,,,,http://ctc-kuzbass.ru/k24-online
@@ -33033,6 +33033,8 @@ W07DCD442.us,W07DC-D 44.2,PBSKids,PBS Kids 24/7,Tegna Broadcast Holdings LLC,US,
 W08BPD1.us,W08BP-D1,,CBS,,US,,FALSE,,,,
 W08EDD1.us,W08ED-D1,,Estrella,,US,,FALSE,,,,
 W08EMD1.us,W08EM-D1,,EWTN,,US,,FALSE,,,,
+W08EWD81.us,W08EW-D 8.1,ESTRELA,Estrella TV,Estrella Television License LLC,US,,FALSE,,,,
+W08EWD82.us,W08EW-D 8.2,E-NEWS,Shop LC,Estrella Television License LLC,US,,FALSE,,,,
 W09ASD2.us,W09AS-D2,,Movies!,,US,,FALSE,,,,
 W10CPD441.us,W10CP-D 44.1,WVIA;WVIA-HD,PBS,Tegna Broadcast Holdings LLC,US,,FALSE,,,,
 W11AHD2.us,W11AH-D2,,Movies!,,US,,FALSE,,,,
@@ -33071,6 +33073,8 @@ W16CCD164.us,W16CC-D 16.4,W16CC-D,365BLK,HC2 Station Group Inc.,US,,FALSE,,,,
 W16CCD166.us,W16CC-D 16.6,Tropik Network;W16CC-D,Ethnic,HC2 Station Group Inc.,US,,FALSE,,,,
 W16DOD1.us,W16DO-D1,,Retro TV,,US,,FALSE,,,,
 W17DGD1.us,W17DG-D1,,Estrella,,US,,FALSE,,,,
+W17EXD381.us,W17EX-D 38.1,WINM HD,TCT,Tri-State Christian TV Inc.,US,,FALSE,,,,
+W17EYD161.us,W17EY-D 16.1,WCEE-HD,Quiero TV,Norsan Consulting & Management LLC,US,,FALSE,,,,
 W18BBD181.us,W18BB-D 18.1,W18BB-1,YouToo America,Elizabeth City State University,US,,FALSE,,,,
 W18EGD1.us,W18EG-D1,,CBS,,US,,FALSE,,,,
 W19COD191.us,W19CO-D 19.1,W19CO-D,HSN,Ventana Television Inc.,US,,FALSE,,,,
@@ -33080,6 +33084,10 @@ W20CQD202.us,W20CQ-D 20.2,W20CQ-D,Esperanza,7thday Adventist Community Health Se
 W20CTD1.us,W20CT-D1,,PBS,,US,,FALSE,,,,
 W20DED1.us,W20DE-D1,,HSN,,US,,FALSE,,,,
 W21AUD1.us,W21AU-D1,,Nuestra Vision,,US,,FALSE,,,,
+W21EUD192.us,W21EU-D 19.2,CourtTV,Court TV,Zebra Media LLC,US,,FALSE,,,,
+W21EUD193.us,W21EU-D 19.3,Mystery,ION Mystery,Zebra Media LLC,US,,FALSE,,,,
+W21EUD194.us,W21EU-D 19.4,StartTV,Start TV,Zebra Media LLC,US,,FALSE,,,,
+W21EUD195.us,W21EU-D 19.5,Heroes,Heroes & Icons,Zebra Media LLC,US,,FALSE,,,,
 W22CID1.us,W22CI-D1,,PBS,,US,,FALSE,,,,
 W22DOD241.us,W22DO-D 24.1,WCNY;WCNY-HD,PBS,The Public Broadcasting Council of Central New York Inc.,US,,FALSE,,,,
 W23BVD231.us,W23BV-D 23.1,W23BV-D,3ABN,Bethel Sanitarium Inc.,US,,FALSE,,,,
@@ -33105,6 +33113,7 @@ W24CSD692.us,W24CS-D 69.2,WFMZ-WC,Weather,Maranatha Broadcasting Company Inc.,US
 W24DBD241.us,W24DB-D 24.1,Fox 56;FOX,FOX,Wolf Licensee LLC,US,,FALSE,,,,
 W24ECD241.us,W24EC-D 24.1,Weather,WeatherNation,Lawrence F. Loeschsole Proprietorship,US,,FALSE,,,,
 W24ECD242.us,W24EC-D 24.2,HSN,HSN,Lawrence F. Loeschsole Proprietorship,US,,FALSE,,,,
+W24FJD217.us,W24FJ-D 21.7,,Court TV,Gray Television Licensee LLC,US,,FALSE,,,,
 W25AQD1.us,W25AQ-D1,,PBS,,US,,FALSE,,,,
 W25ATD251.us,W25AT-D 25.1,Mountain Lake PBS;MLPBSHD,PBS,Mountain Lake Public Telecommunications Council,US,,FALSE,,,,
 W25BTD251.us,W25BT-D 25.1,Mountain Lake PBS;MLPBSHD,PBS,Mountain Lake Public Telecommunications Council,US,,FALSE,,,,
@@ -33114,6 +33123,16 @@ W25DWD5.us,W25DW-D5,,LATV,,US,,FALSE,,,,
 W25DWD6.us,W25DW-D6,,Almavision,,US,,FALSE,,,,
 W25DWD7.us,W25DW-D7,,Peace TV,,US,,FALSE,,,,
 W25DWD9.us,W25DW-D9,,ONTV4U,,US,,FALSE,,,,
+W25GDD502.us,W25GD-D 50.2,WBN,Religious,Word Broadcasting Network Inc.,US,,FALSE,,,,
+W25GDD503.us,W25GD-D 50.3,SBN,SonLife,Word Broadcasting Network Inc.,US,,FALSE,,,,
+W25GDD504.us,W25GD-D 50.4,Ace,ACE TV,Word Broadcasting Network Inc.,US,,FALSE,,,,
+W25GDD505.us,W25GD-D 50.5,CATCHYC,Catchy Comedy,Word Broadcasting Network Inc.,US,,FALSE,,,,
+W25GDD506.us,W25GD-D 50.6,Hosanna,Right Now TV,Word Broadcasting Network Inc.,US,,FALSE,,,,
+W25GDD507.us,W25GD-D 50.7,GEB,GEB Network,Word Broadcasting Network Inc.,US,,FALSE,,,,
+W25GDD508.us,W25GD-D 50.8,GET TV,Flashpoint Network,Word Broadcasting Network Inc.,US,,FALSE,,,,
+W25GED261.us,W25GE-D 26.1,WTLJ HD,TCT,TCT of Michigan Inc.,US,,FALSE,,,,
+W25GED262.us,W25GE-D 26.2,SBN,SonLife,Tct of Michigan Inc.,US,,FALSE,,,,
+W25GED263.us,W25GE-D 26.3,HSTV,Healing Streams TV,Tct of Michigan Inc.,US,,FALSE,,,,
 W26BBD261.us,W26BB-D 26.1,W26BB-D,3ABN,Edge Spectrum Inc.,US,,FALSE,,,,
 W26CQD1.us,W26CQ-D1,,PBS,,US,,FALSE,,,,
 W26CVD441.us,W26CV-D 44.1,WVIA;WVIA-HD,PBS,Tegna Broadcast Holdings LLC,US,,FALSE,,,,
@@ -33146,14 +33165,24 @@ W30BUD4.us,W30BU-D4,,3ABN Latino,,US,,FALSE,,,,
 W30BWD1.us,W30BW-D1,,Retro TV,,US,,FALSE,,,,
 W30CVD301.us,W30CV-D 30.1,WHHI;WHHI-HD,Local,Byrne Acquisition Group LLC,US,,FALSE,,,,
 W30DGD1.us,W30DG-D1,,HSN,,US,,FALSE,,,,
+W30FHD351.us,W30FH-D 35.1,Bounce,Bounce TV,Zebra Media LLC,US,,FALSE,,,,
 W31AND331.us,W31AN-D 33.1,PBS North Carolina;PBS NC,PBS,University of North Carolina,US,,FALSE,,,,
 W31CZD1.us,W31CZ-D1,,Enlace,,US,,FALSE,,,,
 W31DID581.us,W31DI-D 58.1,PBS North Carolina;PBS NC,PBS,University of North Carolina,US,,FALSE,,,,
+W31FMD511.us,W31FM-D 51.1,TBN,Daystar,Center Point Broadcasting Company LLC,US,,FALSE,,,,
+W31FMD512.us,W31FM-D 51.2,Fam.Net,FamilyNet,Center Point Broadcasting Company LLC,US,,FALSE,,,,
+W31FMD513.us,W31FM-D 51.3,SOAC,Smile of a Child,Center Point Broadcasting Company LLC,US,,FALSE,,,,
+W31FMD514.us,W31FM-D 51.4,TCC,TBN Inspire,Center Point Broadcasting Company LLC,US,,FALSE,,,,
+W31FMD515.us,W31FM-D 51.5,FaithTV,The Family Channel,Center Point Broadcasting Company LLC,US,,FALSE,,,,
+W31FMD516.us,W31FM-D 51.6,TBN,TBN,Center Point Broadcasting Company LLC,US,,FALSE,,,,
 W32DJD1.us,W32DJ-D1,,Three Angels,,US,,FALSE,,,,
 W32DJD3.us,W32DJ-D3,,3ABN Latino,,US,,FALSE,,,,
 W33AYD1.us,W33AY-D1,,HSN,,US,,FALSE,,,,
 W33CRD1.us,W33CR-D1,,PBS,,US,,FALSE,,,,
 W33CRD4.us,W33CR-D4,,PBS Kids 24/7,,US,,FALSE,,,,
+W33FFD241.us,W33FF-D 24.1,WILM 10;WILM HD,Independent,Capitol Broadcasting Company Inc.,US,,FALSE,,,,
+W33FFD242.us,W33FF-D 24.2,WILM ME,Me-TV,Capitol Broadcasting Company Inc.,US,,FALSE,,,,
+W33FFD243.us,W33FF-D 24.3,WILM 3,Heroes & Icons,Capitol Broadcasting Company Inc.,US,,FALSE,,,,
 W34BJD2.us,W34BJ-D2,,Retro TV,,US,,FALSE,,,,
 W34BJD4.us,W34BJ-D4,,Heartland,,US,,FALSE,,,,https://www.getafteritmedia.com/heartland
 W34DQD111.us,W34DQ-D 11.1,NH PBS;NHPBS,PBS,New Hampshire Public Broadcasting,US,,FALSE,,,,
@@ -33640,13 +33669,6 @@ WBNGTV123.us,WBNG-TV 12.3,WBNGME,Me-TV,Gray Television Licensee LLC,US,,FALSE,,,
 WBNGTV124.us,WBNG-TV 12.4,CourtTV,Court TV,Gray Television Licensee LLC,US,,FALSE,,,,
 WBNGTV125.us,WBNG-TV 12.5,Grit,Grit,Gray Television Licensee LLC,US,,FALSE,,,,
 WBNMLD1.us,WBNML-D1,,Buzzr TV,,US,,FALSE,,,,
-WBNMLD2.us,WBNM-LD2,,GEB America,,US,,FALSE,,,,
-WBNMLD3.us,WBNM-LD3,,SonLife Network,,US,,FALSE,,,,
-WBNMLD4.us,WBNM-LD4,,Dabl,,US,,FALSE,,,,
-WBNMLD5.us,WBNM-LD5,,Decades,,US,,FALSE,,,,
-WBNMLD6.us,WBNM-LD6,,Right Now TV,,US,,FALSE,,,,
-WBNMLD7.us,WBNM-LD7,,NewsNet,,US,,FALSE,,,,
-WBNMLD8.us,WBNM-LD8,,GetTV,,US,,FALSE,,,,
 WBNSTV101.us,WBNS-TV 10.1,10TV;WBNS TV,CBS,WBNS-TV Inc.,US,,FALSE,,,,https://www.10tv.com/
 WBNSTV102.us,WBNS-TV 10.2,MeTV,Me-TV,WBNS-TV Inc.,US,,FALSE,,,,
 WBNSTV103.us,WBNS-TV 10.3,Dabl,Dabl,WBNS-TV Inc.,US,,FALSE,,,,
@@ -33852,7 +33874,6 @@ WCCVTV541.pr,WCCV-TV 54.1,La Cadena del Milagro;WCCV-DT,Religious,Asociacion Eva
 WCDCDT1.us,WCDC-DT1,,ABC,,US,,FALSE,,,,http://www.wten.com/
 WCDNLD531.us,WCDN-LD 53.1,DAYSTAR,Daystar,Word of God Fellowship Inc.,US,,FALSE,,,,
 WCEALD.us,WCEA-LD,Cuencavision,,C&M Broadcasting Corporation,US,general,FALSE,,,,https://cuencavisiontv.com/
-WCEELD1.us,WCEE-LD1,,Estrella,,US,,FALSE,,,,
 WCESTV201.us,WCES-TV 20.1,GPB;WCES-DT,PBS,Georgia Public Telecommunications Commission,US,,FALSE,,,,http://www.gpb.org/public/
 WCESTV202.us,WCES-TV 20.2,CREATE,Create,Georgia Public Telecommunications Commission,US,,FALSE,,,,
 WCESTV203.us,WCES-TV 20.3,GPB Knowledge;KNOWLED,World Channel,Georgia Public Telecommunications Commission,US,,FALSE,,,,
@@ -34044,7 +34065,6 @@ WCWWLD253.us,WCWW-LD 25.3,TOONS,Me-TV Toons,WCWW-TV Limited Partnership,US,,FALS
 WCYBTV51.us,WCYB-TV 5.1,WCYB-TV 5;WCYB-DT,NBC,Sinclair Media Licensee LLC,US,,FALSE,,,,http://www.wcyb.com/
 WCYBTV52.us,WCYB-TV 5.2,CW 4;CW-HD,CW,Sinclair Media Licensee LLC,US,,FALSE,,,,
 WCYBTV53.us,WCYB-TV 5.3,Fox Tri-Cities;FOX,FOX,Sinclair Media Licensee LLC,US,,FALSE,,,,
-WCZSLD1.us,WCZS-LD1,,Cornerstone,,US,,FALSE,,,,
 WCZULD391.us,WCZU-LD 39.1,WCZU-LD,365BLK,DTV America Corporation,US,,FALSE,,,,
 WCZULD392.us,WCZU-LD 39.2,WCZU-LD,BUZZR,DTV America Corporation,US,,FALSE,,,,
 WCZULD393.us,WCZU-LD 39.3,WCZU-LD,Black Vision TV,DTV America Corporation,US,,FALSE,,,,
@@ -34318,7 +34338,6 @@ WEHT254.us,WEHT 25.4,Rewind,Rewind TV,Nexstar Media Inc.,US,,FALSE,,,,
 WeihaiComprehensiveNewsChannel.cn,Weihai Comprehensive News Channel,新闻综合频道,,,CN,news,FALSE,,,,http://lv.weihai.tv/live_13705e35636b2136b590e5a015bb801c.html
 WeihaiOceanChannel.cn,Weihai Ocean Channel,海洋频道,,,CN,lifestyle,FALSE,,,,http://lv.weihai.tv/live_6dffaf124b89957024f9f31de302d183.html
 WeihaiPublicChannel.cn,Weihai Public Channel,公共频道,,,CN,general,FALSE,,,,http://lv.weihai.tv/live_8bfc704cbba598e76540f5d4f61a0e03.html
-WEIJLD1.us,WEIJ-LD1,,TCT,,US,,FALSE,,,,
 WeinanNewsChannel.cn,Weinan News Channel,新闻频道,,,CN,news,FALSE,,,,http://www.wntvs.com/
 WeinanPublicChannel.cn,Weinan Public Channel,公共频道,,,CN,education;lifestyle;family,FALSE,,,,http://www.wntvs.com/
 WeinanPublicEducationChannel.cn,Weinan Public Education Channel,公共教育频道,,,CN,education,FALSE,,,,http://www.wntvs.com/
@@ -34781,8 +34800,6 @@ WGDVLD325.us,WGDV-LD 32.5,Mystery,ION Mystery,Marquee Broadcasting Inc.,US,,FALS
 WGEMTV101.us,WGEM-TV 10.1,WGEM;WGEMNBC,NBC,Gray Television Licensee LLC,US,,FALSE,,,,
 WGEMTV102.us,WGEM-TV 10.2,Tri-States CW;WGEM CW,CW+,Gray Television Licensee LLC,US,,FALSE,,,,
 WGEMTV103.us,WGEM-TV 10.3,WGEM FOX;WGEMFOX,FOX,Gray Television Licensee LLC,US,,FALSE,,,,
-WGENLD1.us,WGEN-LD1,,Estrella,,US,,FALSE,,,,
-WGENLD2.us,WGEN-LD2,,Azteca,,US,,FALSE,,,,
 WGENTV81.us,WGEN-TV 8.1,ESTRELA,Estrella TV,Estrella Television License LLC,US,,FALSE,,,,
 WGENTV82.us,WGEN-TV 8.2,E-NEWS,Shop LC,Estrella Television License LLC,US,,FALSE,,,,
 WGFL281.us,WGFL 28.1,CBS 4;CBS,CBS,WGFL Licensee LLC,US,,FALSE,,,,http://www.mygtn.tv/
@@ -35033,10 +35050,6 @@ WHLVTV522.us,WHLV-TV 52.2,Merit,Merit TV,Trinity Broadcasting of Texas Inc.,US,,
 WHLVTV523.us,WHLV-TV 52.3,Inspire,TBN Inspire,Trinity Broadcasting of Texas Inc.,US,,FALSE,,,,
 WHLVTV524.us,WHLV-TV 52.4,ONTV4U,Infomercials,Trinity Broadcasting of Texas Inc.,US,,FALSE,,,,
 WHLVTV525.us,WHLV-TV 52.5,POSITIV,Positiv,Trinity Broadcasting of Texas Inc.,US,,FALSE,,,,
-WHLZLD2.us,WHLZ-LD2,,Court TV,,US,,FALSE,,,,
-WHLZLD3.us,WHLZ-LD3,,Ion Mystery,,US,,FALSE,,,,
-WHLZLD4.us,WHLZ-LD4,,Grit TV,,US,,FALSE,,,,
-WHLZLD5.us,WHLZ-LD5,,Bounce,,US,,FALSE,,,,
 WHMBTV401.us,WHMB-TV 40.1,Univision 40 Indianapolis;WHMB-HD,Univision,Family Entertainment Television Inc.,US,,FALSE,,,,https://whmbtv40.com/
 WHMBTV402.us,WHMB-TV 40.2,CHSN,CHSN,Family Entertainment Television Inc.,US,,FALSE,,,,
 WHMBTV403.us,WHMB-TV 40.3,QVC,QVC,Family Entertainment Television Inc.,US,,FALSE,,,,
@@ -35221,9 +35234,6 @@ WILLTV123.us,WILL-TV 12.3,Create,Create,The Board of Trustees of the University 
 WILMLD101.us,WILM-LD 10.1,WILM 10;WILM HD,Independent,WILM Inc.,US,,FALSE,,,,
 WILMLD102.us,WILM-LD 10.2,WILM ME,Me-TV,WILM Inc.,US,,FALSE,,,,
 WILMLD103.us,WILM-LD 10.3,WILM 3,Heroes & Icons,WILM Inc.,US,,FALSE,,,,
-WILTLD1.us,WILT-LD1,,,,US,,FALSE,,,,
-WILTLD2.us,WILT-LD2,,MeTV,,US,,FALSE,,,,
-WILTLD3.us,WILT-LD3,,H&I,,US,,FALSE,,,,
 WILXTV101.us,WILX-TV 10.1,WILX 10;WILX-DT,NBC,Gray Television Licensee LLC,US,,FALSE,,,,http://www.wilx.com/
 WILXTV102.us,WILX-TV 10.2,MeTV,Me-TV,Gray Television Licensee LLC,US,,FALSE,,,,
 WILXTV103.us,WILX-TV 10.3,H & I,Heroes & Icons,Gray Television Licensee LLC,US,,FALSE,,,,
@@ -35451,9 +35461,6 @@ WJFWTV122.us,WJFW-TV 12.2,COZI,COZI TV,Northland Television LLC,US,,FALSE,,,,
 WJFWTV123.us,WJFW-TV 12.3,Antenna,Antenna TV,Northland Television LLC,US,,FALSE,,,,
 WJFWTV124.us,WJFW-TV 12.4,HSN,HSN,Northland Television LLC,US,,FALSE,,,,
 WJFWTV125.us,WJFW-TV 12.5,QVC,QVC,Northland Television LLC,US,,FALSE,,,,
-WJGPLD1.us,WJGP-LD1,,Tri-State Christian TV,,US,,FALSE,,,,
-WJGPLD2.us,WJGP-LD2,,TCT HD,,US,,FALSE,,,,
-WJGPLD3.us,WJGP-LD3,,The Grio,,US,,FALSE,,,,
 WJHGTV71.us,WJHG-TV 7.1,NewsChannel 7;NBC,NBC,Gray Television Licensee LLC,US,,FALSE,,,,http://www.wjhg.com/
 WJHGTV72.us,WJHG-TV 7.2,MeTV,Me-TV,Gray Television Licensee LLC,US,,FALSE,,,,
 WJHGTV73.us,WJHG-TV 7.3,WECP-TV;CBS SD,CBS,Gray Television Licensee LLC,US,,FALSE,,,,
@@ -35717,7 +35724,6 @@ WKSOTV291.us,WKSO-TV 29.1,KET,PBS,Kentucky Authority for Educational TV,US,,FALS
 WKSOTV292.us,WKSO-TV 29.2,KET2,PBS Encore,Kentucky Authority for Educational TV,US,,FALSE,,,,
 WKSOTV293.us,WKSO-TV 29.3,KET KY,Kentucky Channel,Kentucky Authority for Educational TV,US,,FALSE,,,,
 WKSOTV294.us,WKSO-TV 29.4,KETKIDS,PBS Kids 24/7,Kentucky Authority for Educational TV,US,,FALSE,,,,
-WKSYLD7.us,WKSY-LD7,,Court TV,,US,,FALSE,,,,
 WKTBCD1.us,WKTB-CD1,,,,US,,FALSE,,,,
 WKTBCD472.us,WKTB-CD 47.2,TMDO,Telemundo,Gray Television Licensee LLC,US,,FALSE,,,,
 WKTBCD473.us,WKTB-CD 47.3,TELEX,TeleXitos,Gray Television Licensee LLC,US,,FALSE,,,,
@@ -35901,7 +35907,7 @@ WLNYTV553.us,WLNY-TV 55.3,HSN2,HSN2,CBS Litv LLC,US,,FALSE,,,,
 WLNYTV554.us,WLNY-TV 55.4,HSN,HSN,CBS Litv LLC,US,,FALSE,,,,
 WLNYTV555.us,WLNY-TV 55.5,NOSEY,Nosey,CBS Litv LLC,US,,FALSE,,,,
 WLOO351.us,WLOO 35.1,My 35;WLOO-HD,MyN,Tougaloo College,US,,FALSE,,,,
-WLOO352.us,WLOO 35.2,H &amp;,Heroes & Icons,Tougaloo College,US,,FALSE,,,,
+WLOO352.us,WLOO 35.2,H & I,Heroes & Icons,Tougaloo College,US,,FALSE,,,,
 WLOO353.us,WLOO 35.3,StartTV,Start TV,Tougaloo College,US,,FALSE,,,,
 WLOO354.us,WLOO 35.4,Catchy,Catchy Comedy,Tougaloo College,US,,FALSE,,,,
 WLOO355.us,WLOO 35.5,MeToons,Me-TV Toons,Tougaloo College,US,,FALSE,,,,
@@ -37300,12 +37306,6 @@ WSFA122.us,WSFA 12.2,Bounce,Bounce TV,Gray Television Licensee LLC,US,,FALSE,,,,
 WSFA123.us,WSFA 12.3,GCSEN,Gulf Coast SEN,Gray Television Licensee LLC,US,,FALSE,,,,
 WSFA124.us,WSFA 12.4,Grit,Grit,Gray Television Licensee LLC,US,,FALSE,,,,
 WSFDLD1.us,WSFD-LD1,,YouToo America,,US,,FALSE,,,,
-WSFGLD1.us,WSFG-LD1,,Daystar,,US,,FALSE,,,,
-WSFGLD2.us,WSFG-LD2,,The Cowboy Channel,,US,,FALSE,,,,
-WSFGLD3.us,WSFG-LD3,,Smile,,US,,FALSE,,,,
-WSFGLD4.us,WSFG-LD4,,Hillsong,,US,,FALSE,,,,
-WSFGLD5.us,WSFG-LD5,,Family Channel USA,,US,,FALSE,,,,
-WSFGLD6.us,WSFG-LD6,,TBN,,US,,FALSE,,,,
 WSFJTV511.us,WSFJ-TV 51.1,WSFJ,Bounce TV,ION Television License LLC,US,,FALSE,,,,
 WSFJTV512.us,WSFJ-TV 51.2,WSFJ,ION Mystery,ION Television License LLC,US,,FALSE,,,,
 WSFLTV391.us,WSFL-TV 39.1,SFL;WSFL-DT,Independent,Scripps Broadcasting Holdings LLC,US,,FALSE,,,,https://www.wsfltv.com/
