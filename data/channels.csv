@@ -3630,6 +3630,7 @@ CadenaSalvacion.us,Cadena Salvacion,Cadena Salvación,,,US,religious,FALSE,,,,ht
 CadenaSurMultimedios.mx,Cadena Sur Multimedios,,,,MX,general,FALSE,,,,http://cadenasurmultimedios.mx/site/
 CadenaTV.pe,Cadena TV,,,,PE,,FALSE,,,,http://www.cadenatv.com.pe/
 CadenaVIVO.ar,Cadena VIVO,Cadena V!VO,,,AR,,FALSE,,,,https://cadenavivo.com/
+CADTV.py,CAD TV,,,,PY,general,FALSE,,,,https://www.concepcionaldia.com/
 CAFDILTV.gh,CAFDIL TV,,,Cardinal Foundation For Distance Learning,GH,education,FALSE,,,,https://cafdil.com/
 CafeClub.rs,Cafe&Club,Muzzik Cafe&Club,,Original Film d.o.o.,RS,,FALSE,,,,https://www.muzzik.tv/
 CafeFilm.ir,Cafe Film,,,,IR,movies,FALSE,,,,
@@ -3895,6 +3896,7 @@ Canal2Ceres.ar,Canal 2 Ceres,,,,AR,general,FALSE,,,,
 Canal2Choconta.co,Canal 2 Choconta,Canal 2 Chocontá;Chocontá TV,Asociación Parabólica Chocontá,Asociación Parabólica Chocontá,CO,general,FALSE,,,,https://asociacionparabolicachoconta.com/
 Canal2CPTV.ar,Canal 2 CPTV,,,Carlos Paz Televisión S.A.,AR,general,FALSE,,,,https://cptv.com.ar/
 Canal2DeanFunes.ar,Canal 2 Dean Funes,Canal 2 Deán Funes,,,AR,general,FALSE,,,,https://canal2deanfunes.com/
+Canal2deMeloTVCable.uy,Canal 2 de Melo TV Cable,,,Melo TV Cable,UY,general,FALSE,,,,https://melotvcable.com.uy/
 Canal2deUshuaia.ar,Canal 2 de Ushuaia,,,,AR,general,FALSE,,,,https://www.canal2.com.ar/
 Canal2Gualeguay.ar,Canal 2 Gualeguay,,,,AR,general,FALSE,,,,https://canal2gualeguay.com.ar/
 Canal2International.cm,Canal 2 International,,,Groupe TV+,CM,general,FALSE,,,,http://www.canal2international.net/
@@ -7566,7 +7568,7 @@ DongThapTV.vn,Dong Thap TV,,,,VN,general,FALSE,,,,http://thdt.vn/
 DonmatiasTeVe.co,Donmatias TeVe,Donmatías TeVe,,,CO,general,FALSE,,,,https://donmatiasteve.com/
 DonnaShopping.it,Donna Shopping,,,,IT,shop,FALSE,,,,https://donnashoppingtv.it/
 DonnaTV.it,Donna TV,,,,IT,series,FALSE,,,,https://www.donnatv.com/
-DontTellTheBride.us,Don't Tell The Bride,,,,US,series,FALSE,,,,https://watch.plex.tv/live-tv/channel/dont-tell-the-bride
+DontTellTheBride.uk,Don't Tell The Bride,,,Little Dot Studios Limited;All3Media Limited;RedBird IMI;International Media Investments (IMI) Holdings FZ LLC,UK,series,FALSE,,,,https://www.littledotstudios.com/en-us/channels
 DooneeTV.th,Doonee TV,,,,TH,entertainment,FALSE,,,,https://www.doonee.com/
 DopaChannel.th,Dopa Channel,,,,TH,general,FALSE,,,,http://www.comdopa.com/dopachannel/
 Dorama.ru,Dorama,Дорама,,,RU,movies,FALSE,2017-10-01,,,https://dorama-tv.com/
@@ -8213,6 +8215,7 @@ Enlace13TV.mx,Enlace 13 TV,,,Grupo de Comunicaciones CJ,MX,general,FALSE,,,,http
 EnlaceJuvenil.cr,Enlace Juvenil,,,,CR,religious,FALSE,,,,https://ejtv.tv/
 EnlaceTBN.us,Enlace TBN,,TBN,Trinity Broadcasting Network,US,religious,FALSE,1988-09-09,,,https://www.enlace.org
 EnlaceTelevision.co,Enlace Television,Enlace Televisión,,,CO,general,FALSE,,,,https://enlacetelevision.com/
+EnLenguadeSenasTV.py,En Lengua de Senas TV,En Lengua de Señas TV,,,PY,education,FALSE,,,,https://enlenguadesenastv.com/
 EnlightNews.in,Enlight News,,,,IN,news,FALSE,,,,https://enlightnews.com/
 EnnaharTV.dz,Ennahar TV,النهار تي في,,Ennahar Group,DZ,news,FALSE,2012-03-06,,,https://www.ennaharonline.com/
 EnnstalTV.at,Ennstal TV,,,,AT,general,FALSE,,,,https://ennstal.tv/
@@ -8249,8 +8252,13 @@ EnumclawCityTelevision.us,Enumclaw City Television,ECTV,,,US,legislative,FALSE,,
 EOTCTV.et,EOTC TV,Ethiopian Orthodox Tewahedo Church Television,,Ethiopian Orthodox Tewahedo Church,ET,religious,FALSE,,,,https://www.ethiopianorthodox.org/
 eoTV.de,eo TV,,,Jurgen Horner,DE,entertainment,FALSE,2015-12-22,2021-06-19,,
 EparhiyskiGlasTV.bg,Eparhiyski Glas TV,Епархийски глас TV,,Sofiyska Mitropoliya,BG,religious,FALSE,,,,https://mitropolia-sofia.org/glastv/
+EpicBharat.in,Epic Bharat,Nazara,Epic,,IN,entertainment,FALSE,,,,https://www.epicon.in/live-tv/nazara-live-tv
+EpicBhojpuri.in,Epic Bhojpuri,Filamchi Bhojpuri,Epic,IN10 Media Network,IN,movies,FALSE,2021-01-01,,,https://www.epicon.in/live-tv/filamchi-live-tv
 EpicDrama.uk,Epic Drama,,,ViaSat,UK,series,FALSE,,,,https://epicdrama.eu/
-EpicTV.in,Epic TV,,,Rohit Khattar,IN,entertainment,FALSE,2014-11-19,,,https://www.epicon.in/
+EpicKids.in,Epic Kids,Gubbare,Epic,,IN,kids,FALSE,,,,https://www.in10media.com/gubbare
+EpicMusic.in,Epic Music,ShowBox,Epic,,IN,music,FALSE,,,,https://www.showboxchannel.com/
+EpicParivar.in,Epic Parivar,Ishara,Epic,IN10 Media Network,IN,entertainment,FALSE,,,,https://www.isharachannel.com/contact-us/
+EpicTV.in,Epic TV,,Epic,Rohit Khattar,IN,entertainment,FALSE,2014-11-19,,,https://www.epicon.in/
 EpilogesTV.gr,Epiloges TV,Ειδήσεις,,,GR,general,FALSE,,,,https://epiloges.tv/
 Epiqa.it,Epiqa,,,,IT,,FALSE,,,,
 EpirusTV1.gr,Epirus TV1,Ήπειρος TV1,,Radiotelevision Operations Epirus S.A.,GR,general,FALSE,1990-01-01,,,https://www.epirustv1.eu/
@@ -9041,7 +9049,6 @@ Fightstream.nl,Fightstream,,,,NL,sports,FALSE,,,,https://spiintl.com/channels/fi
 FijiOne.fj,Fiji One,,,Fiji Television,FJ,general,FALSE,1994-06-15,,,https://fijionenews.com.fj/
 FijiTV.fj,Fiji TV,,,,FJ,general,FALSE,,,,
 Filamchi.in,Filamchi,,,IN10 Media Network,IN,movies,FALSE,,,,
-FilamchiBhojpuri.in,Filamchi Bhojpuri,,,IN10 Media Network,IN,movies,FALSE,2021-01-01,,,https://www.epicon.in/live-tv/filamchi-live-tv
 FilAmTVNetwork.us,FilAmTV Network,,,,US,general,FALSE,,,,https://filamtv.us
 FilinfoTV.bf,Filinfo TV,,,Filinfo Group,BF,news,FALSE,2025-09-01,,,https://filinfos.net/
 FilipinoTV.ca,Filipino TV,,,Ethnic Channels Group,CA,culture,FALSE,2004-06-23,,,http://www.myfilipinotv.com/
@@ -10263,7 +10270,6 @@ GuatusoTV.cr,Guatuso TV,,,,CR,general,FALSE,,,,https://www.grupodgrajal.com/guat
 GuaTV.gt,GuaTV,,,,GT,legislative,FALSE,,,,https://guatemala.gob.gt/guatemala-tv/
 GuayapeTV.hn,Guayape TV,,,,HN,general,FALSE,,,,https://guayapetv.hn/
 GuaymateTV.do,Guaymate TV,,,,DO,culture,FALSE,2017-01-01,,,https://guaymatetvdigital.blogspot.com/2022/04/guayumate-tv-digital.html
-Gubbare.in,Gubbare,,,,IN,kids,FALSE,,,,https://www.in10media.com/gubbare
 GuberniaKhabarovsk.ru,Gubernia Khabarovsk,Губерния,,,RU,general,FALSE,,,,https://www.gubernia.com/
 GuberniaSamara.ru,Gubernia Samara,Губерния,,,RU,general,FALSE,2005-01-01,,,https://sovainfo.ru/tv/
 Guberniya33.ru,Guberniya 33,Губерния 33,,,RU,general,FALSE,,,,https://trc33.ru/
@@ -10752,7 +10758,7 @@ History2Nordic.us,History 2 Nordic,,,,US,documentary,FALSE,,,,https://www.histor
 HistoryAfrica.us,History Africa,,,A&E Television Networks LLC;Hearst Communications Inc.;The Walt Disney Company,US,documentary,FALSE,2003-12-01,,,https://www.historytv.africa/
 HistoryAsia.us,History Asia,,,,US,documentary,FALSE,,,,http://www.historyasia.com/
 HistoryenEspanol.us,History en Espanol,History en Español,A+E Networks,A&E Television Networks LLC;Hearst Communications Inc.;The Walt Disney Company,US,documentary,FALSE,,,,http://www.historyenespanol.com/
-HistoryHit.us,History Hit,,,,US,,FALSE,,,,https://www.historyhit.com/
+HistoryHit.uk,History Hit,,,Hit Networks Ltd.;Little Dot Studios Limited;All3Media Limited;RedBird IMI;International Media Investments (IMI) Holdings FZ LLC,UK,documentary,FALSE,2022-10-01,,,https://www.historyhit.com/
 HistoryLab.it,History Lab,,,,IT,documentary,FALSE,,,,
 HistoryLatinAmerica.us,History Latin America,,,,US,documentary,FALSE,,,,https://www.historyplay.tv/
 HistoryMiddleEast.us,History Middle East,,,,US,documentary,FALSE,,,,http://www.historymiddleeast.com/
@@ -11674,7 +11680,6 @@ IschonchTV.uz,Ischonch TV,,,,UZ,general,FALSE,,,,
 ISD191.us,ISD 191,,,,US,education,FALSE,,,,https://burnsvillemn.gov/484/Burnsville-Community-Media
 ISD194LETV.us,ISD 194 LETV,,,,US,education,FALSE,,,,https://isd194letv.viebit.com/player_live.php?hash=2fe895bc-19d4-4b03-a4bd-7f755072b49b
 IsfahanTV.ir,Isfahan TV,,,,IR,general,FALSE,,,,http://isfahan.irib.ir/tv
-IsharaTV.in,Ishara TV,,,IN10 Media Network,IN,entertainment,FALSE,,,,https://www.isharachannel.com/contact-us/
 IsharaTV.sr,Ishara TV,,,,SR,music,FALSE,,,,http://www.isharafm.com/
 IshtarTV.iq,Ishtar TV,,,,IQ,general,FALSE,,,,https://www.ishtartv.com/en/about.html
 IshushoTV.rw,Ishusho TV,,,,RW,culture;sports,FALSE,,,,https://ishushotv.online/
@@ -20943,7 +20948,6 @@ NaxatraNews.in,Naxatra News,,,NK Media Ventures,IN,news,FALSE,,,,http://www.naxa
 NaxcivanTV.az,Naxcivan TV,NTV,,Government of Azerbaijan,AZ,general,FALSE,1963-03-12,,,https://ntv.az/
 NayaritComunica.mx,Nayarit Comunica,,,,MX,general,FALSE,,,,https://nayaritcomunica.com/
 NazalisHDTV.cg,Nazalis HDTV,NHDTV,,,CG,entertainment,FALSE,2023-02-01,,,
-Nazara.in,Nazara,,,,IN,entertainment,FALSE,,,,https://www.epicon.in/live-tv/nazara-live-tv
 NazarenasTV.pe,Nazarenas TV,,,,PE,religious,FALSE,,,,https://www.nazarenas.tv/
 NazarethTV.gh,Nazareth TV,,,,GH,religious,FALSE,,,,
 NazranaMusic.in,Nazrana Music,,,,IN,music,FALSE,,,,
@@ -24303,6 +24307,7 @@ RadioMontBlanc.fr,Radio Mont Blanc,,,Groupe Mont Blanc Médias,FR,general,FALSE,
 RadioMonteCarloTV.it,Radio Monte Carlo TV,,,Mediaset,IT,,FALSE,2011-01-01,,,https://www.radiomontecarlo.net/
 RadioMonumentalTV.ec,Radio Monumental TV,,,,EC,music,FALSE,,,,https://www.radiomonumental1510.com/
 RadioMusicaTV.it,RadioMusica TV,,,,IT,music;news,FALSE,,,,https://radiomusicatv.it/
+RadioNacionaldelParaguay.py,Radio Nacional del Paraguay,,,Government of Paraguay,PY,general,FALSE,,,,https://www.radionacional.gov.py/
 RadioNationaleVisuelle.tn,Radio Nationale Visuelle,,,,TN,,FALSE,,,,http://www.radionationale.tn/
 Radionica.co,Radionica,Radiónica,RTVC Sistema de Medios Públicos,Government of Colombia,CO,music,FALSE,2005-10-15,,,https://www.radionica.rocks/en-vivo/video
 RadioNLTV.nl,RadioNL TV,,,,NL,music,FALSE,,,,https://www.radionl.tv/
@@ -24659,7 +24664,7 @@ RealMusicTV.gr,Real Music TV,,,,GR,music,FALSE,,,,http://www.realmusic.gr/
 RealNewsKerala.in,Real News Kerala,,,,IN,news,FALSE,,,,
 RealNosey.us,Real Nosey,,,,US,,FALSE,,,,https://www.xumo.tv/networks/real-nosey/99991388
 RealProOnline.cl,RealPro Online,,,,CL,,FALSE,,,,https://www.realpro.cl/
-RealStories.uk,Real Stories,,,,UK,documentary,FALSE,,,,
+RealStories.uk,Real Stories,,,Little Dot Studios Limited;All3Media Limited;RedBird IMI;International Media Investments (IMI) Holdings FZ LLC,UK,documentary,FALSE,2021-02-26,,,https://www.littledotstudios.com/en-us/channels
 RealTelevision.pe,Real Television,Real Televisión,,Corporación de Comunicación Canal Real S.A.C.,PE,general,FALSE,,,,
 RealTime.it,Real Time,,,Warner Bros. Discovery,IT,,FALSE,2005-10-01,,,https://www.realtime.it/
 RealTimeAfrica.us,Real Time Africa,,,Warner Bros. Discovery EMEA,US,,FALSE,,,,https://guide.dstv.com/channels
@@ -24670,7 +24675,7 @@ RealTV.mg,Real TV,,,Onitiana Realy,MG,general,FALSE,,,,https://www.realtvfm.com/
 REALTV.tg,REAL TV,Radio Télévision Evangile Albarka,,,TG,religious,FALSE,,,,
 RealTV.tt,Real TV,,,ZMB Communications Limited,TT,entertainment,FALSE,,,,https://real-tv.live/
 RealVision.us,Real Vision,,,,US,business,FALSE,,,,
-RealWild.us,Real Wild,,,,US,,FALSE,,,,https://watch.plex.tv/live-tv/channel/real-wild
+RealWild.uk,Real Wild,,,Little Dot Studios Limited;All3Media Limited;RedBird IMI;International Media Investments (IMI) Holdings FZ LLC,UK,,FALSE,,,,https://www.littledotstudios.com/en-us/channels
 Rebel.cz,Rebel,,,,CZ,,FALSE,,,,https://www.tvrebel.cz/
 REBTV.cd,REB-TV,,,,CD,religious,FALSE,,,,https://rebtv.org/
 ReceitasFast.br,Receitas Fast,,,Canais Globo,BR,,FALSE,,,,https://receitas.globo.com/canal-receitas.ghtml
@@ -25359,11 +25364,11 @@ RTP2.pt,RTP 2,,,Rádio e Televisão de Portugal,PT,general,FALSE,,,,http://www.r
 RTPA.cd,RTPA,Radio Télévision Patriarcale d’Afrique,,Église Évangélique du Rite Africain,CD,general,FALSE,,,,https://www.rtpa.cd/
 RTPAcores.pt,RTP Acores,RTP Açores,,Rádio e Televisão de Portugal,PT,general,FALSE,1975-08-10,,,https://acores.rtp.pt/
 RTPAfrica.pt,RTP Africa,RTP África,,Rádio e Televisão de Portugal,PT,general,FALSE,,,,https://africa.rtp.pt/
+RTPMadeira.pt,RTP Madeira,,,Rádio e Televisão de Portugal,PT,general,FALSE,1972-08-06,,,https://madeira.rtp.pt/
 RTPmAmerica.pt,RTPm America,RTPi América,,Rádio e Televisão de Portugal,PT,general,FALSE,,,,https://mundo.rtp.pt/
 RTPmAsia.pt,RTPm Asia,RTPi América,,Rádio e Televisão de Portugal,PT,general,FALSE,,,,https://mundo.rtp.pt/
-RTPMundo.pt,RTP Mundo,RTP Internacional,,Rádio e Televisão de Portugal,PT,general,FALSE,1992-06-10,,,https://mundo.rtp.pt/
-RTPMadeira.pt,RTP Madeira,,,Rádio e Televisão de Portugal,PT,general,FALSE,1972-08-06,,,https://madeira.rtp.pt/
 RTPMemoria.pt,RTP Memoria,RTP Memória,,Rádio e Televisão de Portugal,PT,general,FALSE,2004-10-04,,,http://www.rtp.pt/rtpmemoria/
+RTPMundo.pt,RTP Mundo,RTP Internacional,,Rádio e Televisão de Portugal,PT,general,FALSE,1992-06-10,,,https://mundo.rtp.pt/
 RTPNoticias.pt,RTP Noticias,RTP 3,,Rádio e Televisão de Portugal,PT,news,FALSE,,,,https://www.rtp.pt/noticias/
 RTPTelevision.co,RTP Television,RTP Televisión,,,CO,general,FALSE,,,,
 RTQQueretaro.mx,RTQ Queretaro,,,,MX,,FALSE,,,,
@@ -26375,7 +26380,6 @@ Shots.uk,Shots!,,,,UK,,FALSE,,,,https://www.shotstv.com
 ShotTV.ru,Shot TV,,,,RU,movies,FALSE,,,,http://www.shot-tv.com/
 ShoutCult.us,Shout! Cult,,,,US,,FALSE,,,,https://shoutfactorytvlive.com/shout-cult
 ShoutFactoryTV.us,Shout! Factory TV,,Pluto TV,,US,general,FALSE,,,,https://pluto.tv/en/live-tv/shout-factory-tv
-ShowBox.in,ShowBox,,,,IN,music,FALSE,,,,https://www.showboxchannel.com/
 Showcase.au,Showcase,FOX Showcase,,Foxtel,AU,,FALSE,2007-12-01,,,http://www.foxshowcase.com.au/
 Showcase.ca,Showcase,,,,CA,,FALSE,1995-01-01,,,http://showcase.ca/
 ShowcaseMovies.my,Showcase Movies,,,,MY,movies,FALSE,,,,https://www.astro.com.my/
@@ -29266,6 +29270,7 @@ TeleZoukla.mq,Tele Zoukla,Télé Zoukla,,,MQ,music,FALSE,,,,https://www.telezouk
 TeleZuri.ch,TeleZuri,TeleZüri,,,CH,,FALSE,1994-10-03,,,https://www.telezueri.ch/
 TelileTV.ca,Telile TV,,,,CA,,FALSE,,,,http://www.telile.tv/
 telKE.sk,telKE,,,,SK,general,FALSE,,,,https://www.telke.sk/
+Telkom247.id,Telkom 24/7,,,Edge Channels,ID,,TRUE,2026-04-01,,,https://edge.renderforestsites.com/Telkom_247/
 Tellytrack1.za,Tellytrack 1,,,,ZA,sports,FALSE,,,,https://www.tellytrack.com/
 Tellytrack2.za,Tellytrack 2,,,,ZA,sports,FALSE,,,,https://www.tellytrack.com/
 Tellytrack3.za,Tellytrack 3,,,,ZA,sports,FALSE,,,,https://www.tellytrack.com/
@@ -31154,7 +31159,7 @@ TVLiberal.br,TV Liberal,,,,BR,,FALSE,,,,http://redeglobo.globo.com/pa/tvliberal/
 TVLiberdade.br,TV Liberdade,,,,BR,,FALSE,,,,
 TVLibertad.mx,TV Libertad,,,,MX,general,FALSE,,,,https://tvlibertad.mx/
 TVLibertes.fr,TVLibertes,TVLibertés,,Philippe Milliau;Martial Bild,FR,news,FALSE,,,,https://tvl.fr
-TVLibre.uy,TV Libre,,,,UY,,FALSE,,,,
+TVLibre.uy,TV Libre,,,Diario La República,UY,news,FALSE,2003-05-05,,,
 TVLifeAmerica.br,TV Life America,,,,BR,culture,FALSE,,,,https://tvlifeamerica.com/
 TVLimburg.be,TV Limburg,,,,BE,,FALSE,,,,http://www.tvlimburg.be/
 TVLiptov.sk,TV Liptov,,,,SK,general,FALSE,,,,http://www.tvliptov.sk
@@ -31164,7 +31169,7 @@ TVLobo.mx,TV Lobo,,,,MX,,FALSE,,,,
 TVLocAll.sk,TV LocAll,,,,SK,,FALSE,,,,https://www.tvlocall.eu/
 TVLotelPlus.rs,TV Lotel Plus,ТВ Лотел Плус,,Dragan Mandić,RS,,FALSE,,,,http://www.lotel.rs/
 TVLourdes.fr,TV Lourdes,,,,FR,religious,FALSE,,,,https://directfromlourdes.com/
-TVLPando.uy,TVL Pando,,,,UY,general,FALSE,,,,
+TVLPando.uy,TVL Pando,,,,UY,general,FALSE,1994-08-01,,,https://telespectaculo.uy/
 TVLuna.it,TV Luna,,,,IT,general,FALSE,,,,https://tvluna.it/
 TVLux.be,TV Lux,,,,BE,,FALSE,,,,https://www.tvlux.be/
 TVLux.sk,TV Lux,,,,SK,,FALSE,2008-05-04,,,https://www.tvlux.sk/
@@ -32216,6 +32221,7 @@ UranioTV.pe,Uranio TV,,,,PE,,FALSE,,,,https://uraniotv.pe/
 UrbanAfricaTV.sn,Urban Africa TV,,,Urban Media Group,SN,music,FALSE,,,,https://urbanmedia.group/urbanafricatv/
 UrbanaPublicTelevision.us,Urbana Public Television,UPTV,,,US,general,FALSE,1995-01-01,,,https://urbanaillinois.us/UPTV
 UrbanaTeVe.ar,Urbana TeVe,,,,AR,,FALSE,,,,https://www.urbanateve.com/
+UrbanaTV.py,Urbana TV,,,Hispanoamérica TV del Paraguay,PY,music,FALSE,,,,https://www.urbana.com.py/
 UrbancristTV.do,Urbancrist TV,,,,DO,religious,FALSE,,,,https://www.urbancrist.com/p/urbancristv-en-vivo.html
 UrbancristTV2.do,Urbancrist TV 2,,,,DO,religious;music,FALSE,,,,
 UrbanDocs.br,Urban Docs,,,,BR,documentary,FALSE,,,,https://urbantv.com.br/
