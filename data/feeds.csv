@@ -21699,7 +21699,9 @@ MpumalangaBroadcastingTVStation.za,SD,SD,,TRUE,c/ZA,Africa/Johannesburg,eng,576i
 MQTV.do,SD,SD,,TRUE,c/DO,America/Santo_Domingo,spa,480i
 MQTV.id,SD,SD,,TRUE,s/ID-JB,Asia/Jakarta,ind,576i
 MrBeanAnimated.uk,English,English,,TRUE,c/UK;c/US;c/IN;c/AU;c/NZ;c/CA,Europe/London,eng,1080p
-MrBeanAnimated.uk,Italy,Italy,Italian,FALSE,c/IT,Europe/London,ita,1080p
+MrBeanAnimated.uk,ES,ES,espanol;español,FALSE,c/ES,Europe/London,spa,1080p
+MrBeanAnimated.uk,FR,FR,Français,FALSE,c/FR,Europe/London,fra,1080p
+MrBeanAnimated.uk,IT,IT,Italian,FALSE,c/IT,Europe/London,ita,1080p
 MrBeanLiveAction.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,1080p
 MRCTV.cd,SD,SD,,TRUE,c/CD,Africa/Lubumbashi,fra,576i
 MrezaTV.hr,SD,SD,,TRUE,c/HR,Europe/Zagreb,hrv,576i
@@ -22505,6 +22507,7 @@ NativityTV.ps,SD,SD,,TRUE,c/PS,Africa/Johannesburg,ara,576i
 NATTV.us,SD,SD,,TRUE,c/US;c/TH,America/New_York,tha,480i
 NaturalTV.tr,SD,SD,,TRUE,c/TR,Europe/Istanbul,eng;fra,576i
 NaturaTVInternacional.ni,SD,SD,,TRUE,c/NI,America/Managua,spa,480i
+NatureTime.ca,AU,AU,,FALSE,c/AU;c/NZ,America/Toronto,eng,1080p
 NatureTime.ca,BR,BR,,FALSE,c/BR,America/Toronto,por,1080p
 NatureTime.ca,ES,ES,espanol;español,FALSE,c/ES,Europe/London,spa,1080p
 NatureTime.ca,France,France,,FALSE,c/FR,Europe/Paris,fra,720p
@@ -31964,6 +31967,7 @@ TheBurbankChannel.us,SD,SD,,TRUE,ct/USBUR,America/New_York,eng,480i
 TheCarolBurnettShow.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
 TheChallenge.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
 TheChannelTV.ca,SD,SD,,TRUE,c/CA,America/Toronto,ben;eng,480i
+TheChatShowChannel.uk,SD,SD,,TRUE,c/UK;c/NZ;c/AU;r/NORD;c/NL;c/US,Europe/London,eng,1080p
 TheChurchTV.ng,SD,SD,,TRUE,c/NG,Africa/Lagos,eng,576i
 TheCinema.jp,SD,SD,,TRUE,c/JP,Asia/Tokyo,jpn,480i
 TheCinema4K.jp,SD,SD,,TRUE,c/JP,Asia/Tokyo,jpn,480i
@@ -39461,11 +39465,11 @@ WorldPokerTour.us,US,US,,TRUE,c/US,America/New_York,eng,480i
 WorldTurkTV.tr,SD,SD,,TRUE,c/TR,Europe/Istanbul,tur,576i
 WorldTV.mx,SD,SD,,TRUE,c/MX,America/Mexico_City,spa,480i
 WorldTV.tw,SD,SD,,TRUE,c/TW,Asia/Taipei,zho,480i
-WorldVybzTV.jm,SD,SD,,TRUE,c/JM,America/Jamaica,spa,480i
 WORLDWIDEMUZZIK.rs,SD,SD,,TRUE,c/RS,Europe/Belgrade,srp,576i
+WorlVybzTV.jm,SD,SD,,TRUE,c/JM,America/Jamaica,spa,480i
+WORODT131.pr,HD,HD,,TRUE,c/PR,America/Puerto_Rico,spa,1080i
 WORODT132.pr,SD,SD,,TRUE,c/PR,America/Puerto_Rico,spa,480i
 WORODT133.pr,SD,SD,,TRUE,c/PR,America/Puerto_Rico,spa,480i
-WORODT381.pr,HD,HD,,TRUE,c/PR,America/Puerto_Rico,spa,720p
 WORODT4.pr,SD,SD,,TRUE,c/PR,America/Puerto_Rico,spa,480i
 WorshipTV.ug,SD,SD,,TRUE,c/UG,Africa/Kampala,eng,576i
 WorTV.fi,SD,SD,,TRUE,ct/FIVOR,Europe/Helsinki,swe,576i
