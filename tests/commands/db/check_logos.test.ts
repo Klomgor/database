@@ -1,4 +1,4 @@
-import { describe, it, expect, afterAll, beforeAll } from 'vitest'
+import { describe, it, expect, afterAll, beforeAll, vi } from 'vitest'
 import { createServer } from 'node:http'
 import { checkAll } from '../../../scripts/commands/db/check_logos.ts'
 
@@ -8,6 +8,8 @@ let server: ReturnType<typeof createServer>
 let baseUrl: string
 
 beforeAll(async () => {
+  if (process.env.DEBUG !== 'true') vi.spyOn(console, 'log').mockImplementation(() => {})
+
   server = createServer((req, res) => {
     const path = req.url
 
@@ -37,6 +39,7 @@ beforeAll(async () => {
 })
 
 afterAll(() => {
+  vi.restoreAllMocks()
   server?.close()
 })
 
@@ -82,7 +85,7 @@ describe('check_logos', () => {
   it('handles a mix of alive and dead URLs', async () => {
     const rows = [
       { channel: 'alive', url: REMOTE_IMAGE },
-      ...makeRows(['/not-found', '/forbidden', '/server-error']),
+      ...makeRows(['/not-found', '/forbidden', '/server-error'])
     ]
     const dead = await checkAll(rows, 3, 10000, 0, '')
     expect(dead).toHaveLength(3)
