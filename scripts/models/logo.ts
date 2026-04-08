@@ -25,7 +25,7 @@ export class Logo extends sdk.Models.Logo implements Validator {
     })
 
     logo.line = row.line
-    logo.in_use = !!row.data.in_use
+    logo.in_use = row.data.in_use === false ? row.data.in_use : true
 
     return logo
   }
