@@ -117,7 +117,8 @@ export async function loadIssues(props?: {
       'New Logo URL': 'new_logo_url',
       'City Name': 'city_name',
       'City Code': 'city_code',
-      'Wikidata ID': 'wikidata_id'
+      'Wikidata ID': 'wikidata_id',
+      'In Use': 'in_use'
     })
 
     const fields = typeof issue.body === 'string' ? issue.body.split('###') : []
@@ -279,7 +280,8 @@ export async function parseCSV(data: string): Promise<Collection<CSVRow>> {
       tags: listParser,
       width: numberParser,
       height: numberParser,
-      parent: stringParser
+      parent: stringParser,
+      in_use: boolParser
     }
   }
 
