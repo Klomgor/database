@@ -1072,6 +1072,7 @@ AJNetNews.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,mal,576i
 AjoieTV.ch,SD,SD,,TRUE,c/CH,Europe/Zurich,fra,576i
 AjwaTV.id,SD,SD,,TRUE,c/ID,Asia/Jakarta,ind,576i
 AjyalTV.ps,SD,SD,,TRUE,c/PS,Asia/Hebron,ara,576i
+AjyalTV.sa,SD,SD,,TRUE,c/SA,Asia/Riyadh,ara,576i
 AkaalChannel.uk,SD,SD,,TRUE,c/UK,Europe/London,pan;eng,576i
 Akademiya.ua,SD,SD,,TRUE,c/UA,Europe/Kyiv,ukr,576i
 Akaku53.us,SD,SD,,TRUE,ct/USOGG,America/New_York,eng,480i
@@ -12900,7 +12901,6 @@ InvestigationDiscoveryLatinAmerica.us,Mexico,Mexico,,FALSE,c/MX,America/Mexico_C
 InvestigationDiscoveryLatinAmerica.us,Panregional,Panregional,,TRUE,r/LATAM;r/CARIB,America/New_York,spa,480i
 InvestigationDiscoveryLatinAmerica.us,South,South,,FALSE,c/AR;c/PY;c/UY,America/New_York,spa,480i
 InvestirTV.bj,SD,SD,,TRUE,c/BJ,Africa/Porto-Novo,fra,576i
-InWild.it,SD,SD,,TRUE,c/IT,Europe/Rome,eng,576i
 INWILD.nl,SD,SD,,TRUE,c/IN;c/US;c/CA;r/SAS;r/SEA,Europe/Amsterdam,eng,1080p
 InWonder.nl,SD,SD,,TRUE,c/NL,Europe/Amsterdam,eng,576i
 INXPrime.za,SD,SD,,TRUE,c/ZA,Africa/Johannesburg,eng,576i
@@ -22494,7 +22494,7 @@ NationalGeographicWildLatinAmerica.us,Panregional,Panregional,,TRUE,r/LATAM,Amer
 NationalGeographicWildMiddleEast.uk,SD,SD,,TRUE,r/ARAB;r/MAGHREB,Europe/London,eng,576i
 NationalGeographicWildSouthAfrica.za,SD,SD,,TRUE,c/ZA,Africa/Johannesburg,eng,576i
 NationalGoldTV.np,SD,SD,,TRUE,c/NP,Asia/Kathmandu,nep,576i
-NationalIranianCongressTV.us,SD,SD,,TRUE,c/US;c/IR,Asia/Tehran,fas,720p
+NationalIranianCongressTV.us,SD,SD,,TRUE,c/IR,Asia/Tehran,fas,720p
 NationalTV.mn,SD,SD,,TRUE,c/MN,Asia/Ulaanbaatar,mon,576i
 NationalTV.ro,SD,SD,,TRUE,c/RO,Europe/Bucharest,ron,576i
 NationFirst.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
@@ -26591,7 +26591,8 @@ RBCOkinawaNews24.jp,SD,SD,,TRUE,c/JP,Asia/Tokyo,jpn,480i
 RBCTV.ae,SD,SD,,TRUE,c/AE,Asia/Dubai,ara,576i
 RBDRadioMultimedia.ar,SD,SD,,TRUE,s/AR-C,America/Argentina/Buenos_Aires,spa,576i
 RBITV.br,SD,SD,,TRUE,c/BR,America/Sao_Paulo,por,480i
-RBKTV.ru,SD,SD,,TRUE,c/RU,Europe/Moscow,rus,576i
+RBKTV.ru,HD,HD,,TRUE,c/RU,Europe/Moscow,rus,1080p
+RBKTV.ru,SD,SD,,FALSE,c/RU,Europe/Moscow,rus,576i
 RBNTV.sr,SD,SD,,TRUE,c/SR,America/Paramaribo,eng;nld;hin;srn,480i
 RBRTV.mq,SD,SD,,TRUE,c/MQ,America/Martinique,fra,480i
 RBSTVCaxiasdoSul.br,SD,SD,,TRUE,c/BR,America/Sao_Paulo,por,480i

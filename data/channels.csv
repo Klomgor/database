@@ -904,6 +904,7 @@ AJNetNews.in,AJ Net News,,,,IN,news,FALSE,,,,https://ajnetnews.com/
 AjoieTV.ch,Ajoie TV,,,Editions L'Ajoie SA,CH,general,FALSE,2019-03-21,,,https://www.journal-lajoie.ch/
 AjwaTV.id,Ajwa TV,,,Surya Citra Media,ID,general,FALSE,2020-10-29,,,http://www.ieg.id/tv-channel/ajwa-tv/
 AjyalTV.ps,Ajyal TV,,,,PS,general,FALSE,,,,https://arn.ps/arn-tv
+AjyalTV.sa,Ajyal TV,TV5 Saudi Ajyal,,Saudi Broadcasting Authority,SA,kids,FALSE,2009-09-29,2018-07-23,SBC.sa,
 AkaalChannel.uk,Akaal Channel,,,Amrik Singh Kooner,UK,religious,FALSE,,,,https://akaalchannel.tv/
 Akademiya.ua,Akademiya,Академия;Академія,,Shchelkunova Svetlana Bogdanovna,UA,education,FALSE,1996-01-01,,,http://ak.od.ua/
 Akaku53.us,Akaku 53,,,,US,general,FALSE,,,,https://www.akaku.org/watch/
@@ -11543,7 +11544,7 @@ InspectorGadget.us,Inspector Gadget,,Pluto TV,,US,series,FALSE,,,,https://pluto.
 Inspira.ee,Inspira,,,Telia,EE,entertainment,FALSE,,,,https://www.telia.ee/en/era/tv/inspira/
 Inspirasi.my,Inspirasi,,,,MY,lifestyle,FALSE,,,,https://unifi.com.my/tv
 InspirationTV.us,Inspiration TV,,,INSP LLC,US,religious,FALSE,1978-01-01,,,https://inspirationtv.com/
-InspiraTV.id,Inspira TV,,,,ID,general,FALSE,2013-09-01,2026-02-25,,https://inspira.tv/
+InspiraTV.id,Inspira TV,,,,ID,general,FALSE,2013-09-01,2026-02-25,StaraTV.id,https://inspira.tv/
 InstantSaga.us,Instant Saga,,,,US,series,FALSE,,,,
 InstaTV.rs,Insta TV,,,Pink Media Group d.o.o.,RS,entertainment,FALSE,,,,https://www.instagram.com/narodnatv.rs/
 Insync.in,Insync,,,,IN,music,FALSE,,,,http://www.insyncmusic.net/
@@ -11601,7 +11602,6 @@ InvestigationDiscoveryAfrica.us,Investigation Discovery Africa,,,Warner Bros. Di
 InvestigationDiscoveryEurope.us,Investigation Discovery Europe,,,Warner Bros. Discovery Inc.,US,documentary,FALSE,,,,http://www.investigationdiscovery.com/
 InvestigationDiscoveryLatinAmerica.us,Investigation Discovery Latin America,,,Warner Bros. Discovery Inc.,US,documentary,FALSE,1996-10-07,,,http://id.tudiscovery.com/
 InvestirTV.bj,Investir TV,,,,BJ,business,FALSE,,,,https://www.investir-tv.bj/
-InWild.it,InWild,,,,IT,shop;outdoor,FALSE,,,,https://www.inwild.com/
 INWILD.nl,INWILD,,Insight TV,TV Entertainment Reality Network B.V.,NL,documentary,FALSE,,,,https://www.in.tv/channel/inwild
 InWonder.nl,InWonder,,Insight TV,TV Entertainment Reality Network B.V.,NL,science,FALSE,,,,https://in.tv/channel/inwonder
 INXPrime.za,INX Prime,,,,ZA,lifestyle,FALSE,2022-08-05,,,https://inxprime.com/
@@ -20912,7 +20912,7 @@ NationalGeographicWildLatinAmerica.us,National Geographic Wild Latin America,,,N
 NationalGeographicWildMiddleEast.uk,National Geographic Wild Middle East,,,National Geographic Society,UK,documentary,FALSE,,,,http://natgeotv.com/me
 NationalGeographicWildSouthAfrica.za,National Geographic Wild South Africa,,,,ZA,documentary,FALSE,,,,http://www.natgeotv.com/za/wild
 NationalGoldTV.np,National Gold TV,,,,NP,general,FALSE,,,,https://nationalgoldhd.com/
-NationalIranianCongressTV.us,National Iranian Congress TV,تلویزیون کنگره ملی ایران,National Iranian Congress,National Iranian Congress,US,news,FALSE,,,,https://iraniancongress.com
+NationalIranianCongressTV.us,National Iranian Congress TV,تلویزیون کنگره ملی ایرانیان,National Iranian Congress,National Iranian Congress,US,news,FALSE,,,,https://iraniancongress.com
 NationalTV.mn,National TV,NTV,,Media Group LLC,MN,general,FALSE,2006-01-01,,,http://www.ntv.mn/
 NationalTV.ro,National TV,Național TV,,Centrul Național Media,RO,general,FALSE,,,,https://www.nationaltv.ro/
 NationFirst.in,Nation First,,,,IN,news,FALSE,,,,
@@ -26693,8 +26693,8 @@ SkyNetUptoDate.mm,Sky Net Up to Date,,,,MM,news,FALSE,,,,
 SkyNetWorldMovies.mm,Sky Net World Movies,,,,MM,movies,FALSE,,,,
 SkyNews.ie,Sky News,,,,IE,news,FALSE,,,,
 SkyNews.uk,Sky News,,,Sky Group,UK,news,FALSE,1989-02-05,,,https://news.sky.com/
-SkyNewsArabia.ae,Sky News Arabia,سكاي نيوز عربية;Sky News عربية,,,AE,news,FALSE,2012-05-06,,,https://www.skynewsarabia.com/
-SkyNewsArabiaVertical.ae,Sky News Arabia Vertical,Sky News عربية Vertical,,,AE,news,FALSE,2012-05-06,,,https://www.skynewsarabia.com/
+SkyNewsArabia.ae,Sky News Arabia,سكاي نيوز عربية;Sky News عربية,,Sky News Arabia FZ LLC;International Media Investments (IMI) Holdings FZ LLC;Sky Limited,AE,news,FALSE,2012-05-06,,,https://www.skynewsarabia.com/
+SkyNewsArabiaVertical.ae,Sky News Arabia Vertical,Sky News عربية Vertical,,Sky News Arabia FZ LLC;International Media Investments (IMI) Holdings FZ LLC;Sky Limited,AE,news,FALSE,2012-05-06,,,https://www.skynewsarabia.com/
 SkyNewsAustralia.au,Sky News Australia,,,Australian News Channel,AU,news,FALSE,1996-02-19,,,https://www.skynews.com.au/
 SkyNewsExtra.au,Sky News Extra,,,Foxtel,AU,news,FALSE,2009-01-20,,,https://www.skynews.com.au/page/extra
 SkyNewsExtra1.au,Sky News Extra 1,,,,AU,news,FALSE,,,,https://www.skynews.com.au/page/extra
@@ -39088,17 +39088,17 @@ ZeeBollywood.in,Zee Bollywood,,Z,Zee Entertainment Enterprises Limited,IN,movies
 ZeeBusiness.in,Zee Business,,Zee Media,Zee Media Corporation Limited (ZMCL);The Essel Group,IN,business,FALSE,,,,https://www.zeebiz.com/
 ZeeCafe.in,Zee Cafe,Zee Café,Z,Zee Entertainment Enterprises Limited,IN,series,FALSE,2000-03-15,,,https://zeecafe.zee5.com/
 ZeeChitramandir.in,Zee Chitramandir,,Z,Zee Entertainment Enterprises Limited,IN,movies,FALSE,,2026-04-01,,
-ZeeCineClassic.in,Zee Cine Classic,,Z,Zee Entertainment Enterprises Limited,IN,classic,FALSE,,,,
+ZeeCineClassic.in,Zee Cine Classic,Z Cine Classic,ZEE5,Zee Entertainment Enterprises Limited,IN,classic,FALSE,2025-10-06,,,
 ZeeCinema.in,Zee Cinema,,Z,Zee Entertainment Enterprises Limited,IN,movies,FALSE,,,,https://zeecinema.zee5.com/
 ZeeCinemalu.in,Zee Cinemalu,,Z,Zee Entertainment Enterprises Limited,IN,movies,FALSE,,,,http://www.zeecinemalu.com/
 ZeeClassic.in,Zee Classic,,Z,Zee Entertainment Enterprises Limited,IN,classic,FALSE,,,,http://www.zeeclassic.com/
-ZeeComedyNation.in,Zee Comedy Nation,,Z,Zee Entertainment Enterprises Limited,IN,comedy,FALSE,,,,
+ZeeComedyNation.in,Zee Comedy Nation,Z Comedy Nation,ZEE5,Zee Entertainment Enterprises Limited,IN,comedy,FALSE,2025-10-06,,,
 ZeeDelhiNCRHaryana.in,Zee Delhi NCR Haryana,,Zee Media,Zee Media Corporation Limited (ZMCL);The Essel Group,IN,news,FALSE,2022-03-15,,,https://www.zee5.com/global/live-tv/zee-delhi-ncr-haryana/0-9-zeekalinganews
-ZeeDilSe.in,Zee Dil Se,,Z,Zee Entertainment Enterprises Limited,IN,entertainment,FALSE,,,,
+ZeeDilSe.in,Zee Dil Se,Z Dil Se,ZEE5,Zee Entertainment Enterprises Limited,IN,entertainment,FALSE,2025-10-06,,,
 ZeeDunia.in,Zee Dunia,,Z,Zee Entertainment Enterprises Limited,IN,entertainment,FALSE,,,,
 ZeeETCBollywood.in,Zee ETC Bollywood,ETC,Z,Zee Entertainment Enterprises Limited,IN,movies;music,FALSE,,2020-10-17,ZeeVajwa.in,http://www.etc.in/
 ZeeGanga.in,Zee Ganga,Big Ganga,Z,Zee Entertainment Enterprises Limited,IN,entertainment,FALSE,,2024-04-26,AnmolCinema2.in,
-ZeeHorrorNights.in,Zee Horror Nights,,Z,Zee Entertainment Enterprises,IN,entertainment,FALSE,,,,
+ZeeHorrorNights.in,Zee Horror Nights,Z Horror Nights,ZEE5,Zee Entertainment Enterprises Limited,IN,entertainment,FALSE,2025-10-06,,,
 ZeeKannada.in,Zee Kannada,,Z,Zee Entertainment Enterprises Limited,IN,entertainment,FALSE,2006-05-11,,,https://zeekannada.zee5.com/
 ZeeKannadaNews.in,Zee Kannada News,Zee ಕನ್ನಡ News;ಜೀ ಕನ್ನಡ ನ್ಯೂಸ್‌,Zee Media,Zee Media Corporation Limited (ZMCL);The Essel Group,IN,news,FALSE,2023-04-11,,,https://zeenews.india.com/kannada/
 ZeeKeralam.in,Zee Keralam,,Z,Zee Entertainment Enterprises Limited,IN,entertainment,FALSE,2018-11-26,,,https://zeekeralam.zee5.com/
@@ -39121,7 +39121,7 @@ ZeePunjabi.in,Zee Punjabi,,Z,Zee Entertainment Enterprises Limited,IN,entertainm
 ZeeRajasthan.in,Zee Rajasthan,,Zee Media,Zee Media Corporation Limited (ZMCL);The Essel Group,IN,news,FALSE,,,,https://zeenews.india.com/hindi/india/rajasthan
 ZeeSarthak.in,Zee Sarthak,,Z,Zee Entertainment Enterprises Limited,IN,entertainment,FALSE,,,,https://zeesarthak.zee5.com/
 ZeeSmile.us,Zee Smile,,,,US,,FALSE,,2016-01-15,,http://www.zeetelevision.com/
-ZeeSouthFlix.in,Zee South Flix,,Z,Zee Entertainment Enterprises Limited,IN,movies,FALSE,,,,
+ZeeSouthFlix.in,Zee South Flix,Z South Flix,ZEE5,Zee Entertainment Enterprises Limited,IN,movies,FALSE,2025-10-06,,,
 ZeeTalkies.in,Zee Talkies,,Z,Zee Entertainment Enterprises Limited,IN,movies,FALSE,,,,http://www.zeetalkies.tv/
 ZeeTamil.in,Zee Tamil,,Z,Zee Entertainment Enterprises Limited,IN,entertainment,FALSE,,,,http://zeetamil.zee5.com/
 ZeeTelugu.in,Zee Telugu,,Z,Zee Entertainment Enterprises Limited,IN,entertainment,FALSE,,,,https://zeetelugu.zee5.com/
