@@ -1271,6 +1271,7 @@ AlSharqiyaNews.iq,Al Sharqiya News,الشرقية للأخبار,,,IQ,news,FALSE
 AlShoub.eg,AlShoub,الشعوب,,,EG,general,FALSE,,,,https://alshoub.tv
 AlShoubTV.uk,Al-Shoub TV,,,,UK,general,FALSE,,,,https://alshoub.tv/
 AlsirTV.dz,Alsir TV,,,Komas Group,DZ,general,FALSE,,,,https://alsirtv.live/
+AlSouriyaTV.sy,Al-Souriya TV,السورية;Syrian Satellite Channel,,General Organization of Radio and TV,SY,family,FALSE,1995-01-01,,,http://www.ortas.online//SyrianTV/
 Alsumaria.iq,Alsumaria,السومرية,,Ghazwan Jassem,IQ,general,FALSE,2004-01-01,,,https://www.alsumaria.tv/
 AlSunnahAlNabawiyahTV.sa,Al Sunnah Al Nabawiyah TV,,,Saudi Broadcasting Authority,SA,religious,FALSE,,,,https://www.aloula.sa/en/live/sunnatvsa
 AltaghierTV.jo,Altaghier TV,قناة التغيير الفضائية,,,JO,news,FALSE,,,,https://altaghier.tv/
@@ -7813,6 +7814,7 @@ EagleOneNews.us,Eagle One News,,,,US,news,FALSE,,,,
 EaglesTV.ng,Eagles TV,,,,NG,news,FALSE,,,,
 EakkalukThaiTV.th,Eakkaluk Thai TV,,,,TH,,FALSE,,,,
 EAMGTV.rw,EAMG TV,,,East Africa Media Group,RW,entertainment,FALSE,,,,https://new.eamgtv.com/
+EarthDay365.ca,EarthDay 365,,,Stingray Group Inc.;K2 Studios,CA,documentary;outdoor,FALSE,2024-02-05,,,
 earthTV.de,earthTV,,,,DE,outdoor;education;relax,FALSE,1998-01-01,,,https://www.earthtv.com/en
 EarthxTV.us,EarthxTV,,,EarthX,US,education,FALSE,,,,https://earthxtv.com/
 EastHartfordCommunityTelevision.us,East Hartford Community Television,EHCT,,,US,general,FALSE,,,,https://ehct.viebit.com/index.php?folder=ALL
@@ -22454,6 +22456,7 @@ OrangeTV.us,Orange TV,,,,US,legislative,FALSE,,,,https://www.orangecountyfl.net/
 OrangeTV3.us,Orange TV3,,,,US,general,FALSE,,,,https://www.cityoforange.org/residents/orange-tv3-live
 OrasngHimala.ph,Oras ng Himala,,,,PH,religious,FALSE,,,,https://www.miraclehour.org/tv_radio
 OraTV.al,Ora TV,,,Ylli Ndroqi,AL,general,FALSE,,,,https://www.oranews.tv/
+OrbitaChileTV.cl,Orbita Chile TV,Órbita Chile TV,Concepción,,CL,movies;music,FALSE,2012-02-21,,,https://orbitachiletv.org/
 OrbitaFM.sv,Orbita FM,Órbita FM,,Jorge Hernández,SV,music,FALSE,,,,https://orbitafm.com.sv/
 OrbitaTV.sv,Orbita TV,Órbita TV,,Jorge Hernández,SV,news,FALSE,2015-02-01,,,https://orbitatv.com.sv/
 OrbitaTV.ua,Orbita TV,Орбіта ТВ,,,UA,general,FALSE,,,,http://orbita.dn.ua/
@@ -28363,7 +28366,6 @@ SyriaDrama.sy,Syria Drama,,,,SY,movies,FALSE,,,,http://www.ortas.online//DramaTV
 SyriaDrama24.sy,Syria Drama 24,,,,SY,series,FALSE,,,,
 SyrianEducationalTV.sy,Syrian Educational TV,,,,SY,education,FALSE,,,,http://www.ortas.online//SEduTV/
 SyrianNewsChannel.sy,Syrian News Channel,,ORTAS,RTV Syria,SY,news,FALSE,2010-12-15,,,
-SyrianSatelliteChannel.sy,Syrian Satellite Channel,,,General Organization of Radio and TV,SY,general,FALSE,1995-01-01,,,http://www.ortas.online//SyrianTV/
 SyriaOne.sy,Syria One,,,,SY,,FALSE,,,,
 SyriaSportsTV.sy,Syria Sports TV,,,,SY,sports,FALSE,,,,
 SyriaTV.sy,Syria TV,,,Fadaat Media,SY,news,FALSE,2018-03-03,,,https://www.syria.tv/
@@ -29474,7 +29476,7 @@ TheNewsForum.ca,The News Forum,,,,CA,news,FALSE,,,,
 TheNowNetwork.us,The Now Network,,,,US,religious,FALSE,,,,
 TheOutdoorCookingChannel.us,The Outdoor Cooking Channel,,,,US,cooking,FALSE,,,,
 ThePapareTV.lk,ThePapare TV,,,,LK,news,FALSE,,,,https://www.thepapare.com/
-TheParliamentaryChannel.bs,The Parliamentary Channel,,,,BS,legislative,FALSE,,,,https://znsbahamas.com/parliament/
+TheParliamentaryChannel.bs,The Parliamentary Channel,,,,BS,legislative,FALSE,,,,https://www.bahamas.gov.bs/parliamentary-live
 TheParliamentChannel.tt,The Parliament Channel,,,,TT,legislative,FALSE,2006-08-18,,,https://www.ttparliament.org/
 TheParliamentofGuyana.gy,The Parliament of Guyana,,,,GY,legislative,FALSE,,,,https://parliament.gov.gy/
 ThePeninsulaChannel.us,The Peninsula Channel,,,,US,legislative,FALSE,,,,https://accessmediaproductions.org/
@@ -29605,6 +29607,7 @@ TiszaTV.hu,Tisza TV,,,,HU,,FALSE,,,,https://www.tiszatv.hu/
 TitanChannel.es,Titan Channel,,,,ES,,FALSE,,,,https://titanchannel.com/
 TitanicoTV.do,Titanico TV,Titánico TV,,,DO,,FALSE,,,,https://www.titanicotv.net/
 TitanTV.us,Titan TV,,,,US,education,FALSE,,,,https://titancom.fullerton.edu/ttv.php
+TitoTV.es,Tito TV,,,,ES,,FALSE,,,,https://tvomix.com/
 TiunaFMTV.ve,Tiuna FM TV,,,,VE,music,FALSE,,,,https://www.tiunafm.com/
 TivaouaneTV.sn,Tivaouane TV,,,,SN,religious,FALSE,,,,
 TIVER.cv,TIVER,Televisão Independente de Cabo Verde,,,CV,general,FALSE,,,,https://tiver.cv/
@@ -33507,6 +33510,7 @@ WATCDT572.us,WATC-DT 57.2,The Point;POINT,Religious,Community Television Inc.,US
 WATCDT573.us,WATC-DT 57.3,The Loop;THELOOP,Classic Shows,Community Television Inc.,US,religious,FALSE,1986-09-10,,,https://watc.tv/
 WatchitKID.us,Watch it KID!,,,,US,kids,FALSE,,,,https://watchitkid.com/
 WatchitScream.us,Watch it Scream!,,,,US,movies,FALSE,,,,https://watchitscream.com/
+WaterBear.ch,WaterBear,,,OurFrame S.A.,CH,documentary;outdoor,FALSE,2022-03-16,,,https://www.waterbear.com/
 WaterfordMunicipalChannel20.us,Waterford Municipal Channel 20,,,,US,general,FALSE,,,,https://www.waterfordmi.gov/411/Channel-20-Live
 WaterfordSchoolDistrictChannel22.us,Waterford School District Channel 22,,,,US,education,FALSE,,,,https://waterford-media.vod.castus.tv/vod/?live=ch3&nav=live
 WaterPlanet.pl,Water Planet,,,,PL,,FALSE,,,,
