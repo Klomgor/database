@@ -5778,7 +5778,7 @@ CITSDT.ca,CITS-DT,,Yes TV,Crossroads Christian Communications,CA,entertainment;r
 CITSDT1.ca,CITS-DT-1,,Yes TV,Crossroads Christian Communications,CA,entertainment;religious,FALSE,,,,https://www.yestv.com/
 CITSDT2.ca,CITS-DT-2,,Yes TV,Crossroads Christian Communications,CA,entertainment;religious,FALSE,,,,https://www.yestv.com/
 CITV.bm,CITV,,,Government of Bermuda,BM,legislative,FALSE,,,,https://www.gov.bm/whats-citv
-CITV.ck,CITV,Cook Islands Television,,Pitt Media Group,CK,general,FALSE,,,,
+CITV.ck,CITV,Cook Islands Television,,Pitt Media Group,CK,general,FALSE,1989-12-25,,,
 CITV.uk,CITV,,,ITV,UK,kids,FALSE,2006-03-11,2023-09-01,,https://www.itv.com/hub/citv
 CITVChannel.kh,CITV Channel,Cambodian Islamic TV,,,KH,religious,FALSE,,,,https://citvchannel.com.kh/
 CITVDT.ca,CITV-DT,,Global,Corus Entertainment,CA,general,FALSE,1974-09-01,,,https://globalnews.ca/edmonton/
@@ -22429,6 +22429,7 @@ OppnaKanalenGoteborg.se,Oppna Kanalen Goteborg,Öppna Kanalen Göteborg,,Riksfö
 OppnaKanalenHoglandet.se,Oppna Kanalen Hoglandet,Öppna Kanalen Höglandet,,Riksförbundet Öppna Kanaler i Sverige,SE,general,FALSE,2022-12-16,,,https://www.oppnakanalen.se/
 OppnaKanalenKronoberg.se,Oppna Kanalen Kronoberg,Öppna Kanalen Kronoberg,,Riksförbundet Öppna Kanaler i Sverige,SE,general,FALSE,2006-05-01,,,https://www.okv.se/
 OppnaKanalenNarke.se,Oppna Kanalen Narke,Öppna Kanalen Närke,,Riksförbundet Öppna Kanaler i Sverige,SE,general,FALSE,,,,
+OppnaKanalenSkovde.se,Oppna Kanalen Skovde,Öppna Kanlen Skövde,CMS (Community Media Sweden),,SE,general,FALSE,1984-01-01,,,https://oppnakanalenskovde.se/
 OppnaKanalenStockholm.se,Oppna Kanalen Stockholm,Öppna Kanalen Stockholm,,Riksförbundet Öppna Kanaler i Sverige,SE,general,FALSE,,,,https://www.oppnakanalenstockholm.se/
 OptusSport1.au,Optus Sport 1,,,Optus,AU,sports,FALSE,2016-07-13,,,http://sport.optus.com.au/
 OptusSport10.au,Optus Sport 10,,,Optus,AU,sports,FALSE,2016-07-13,,,http://sport.optus.com.au/
@@ -32321,13 +32322,13 @@ V2H7.th,V2H7,,,,TH,shop,FALSE,,,,https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%
 V2H8.th,V2H8,,,,TH,shop,FALSE,,,,https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=36&channel=V2H8
 V2H9.th,V2H9,,,,TH,shop,FALSE,,,,https://mvtv.co.th/%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3/?no=37&channel=V2H9
 V5.rs,V5,,,Milan Milinović,RS,,FALSE,,,,http://vtv.rs/
-V6AH.fm,V6AH,,,Pohnpei Public Broadcasting Corporation,FM,general,FALSE,,,,https://pohnpeistate.gov.fm/
+V6AH.fm,V6AH,,,Pohnpei Public Broadcasting Corporation,FM,general,FALSE,,,,https://www.v6ah.com/
 V6News.in,V6 News,,,VIL Media Pvt. Ltd.,IN,news,FALSE,2012-03-01,,,https://www.v6velugu.com/
 VaaMovies.in,Vaa Movies,,,,IN,movies,FALSE,,,,
 VaanavilTV.in,Vaanavil TV,,,,IN,music,FALSE,,,,http://www.vaanaviltelevision.com/
 VahosTV.co,Vahos TV,,,Asociación Comunitaria Vahos Telecomunicaciones,CO,general,FALSE,,,,https://vahostv.com/index.php/vahostv
 VajtswvTxojlus.vn,Vajtswv Txojlus,,,,VN,religious,FALSE,,,,
-VakaTV.ck,Vaka TV,,,,CK,general,FALSE,,,,https://www.vakatv.com/
+VakaTV.ck,Vaka TV,,,Vaka Television,CK,general,FALSE,2010-12-16,,,https://www.vakatv.com/
 ValemountCommunityTV.ca,Valemount Community TV,,,,CA,,FALSE,,,,http://www.vctv.ca/aboutus.php
 ValentinoEtno.ba,Valentino Etno,,,DENI-COMPANI d o o Brcko,BA,music,FALSE,,,,https://valentinobh.com/
 ValentinoMusic.ba,Valentino Music,,,DENI-COMPANI d o o Brcko,BA,music,FALSE,,,,https://valentinobh.com/
