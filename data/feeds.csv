@@ -5356,7 +5356,8 @@ CartoonNetworkHDPlus.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng;hin;tam;tel;kan;mal;ma
 CartoonNetworkLatinAmerica.us,Brazil,Brazil,,FALSE,c/BR,America/Sao_Paulo,por,480i
 CartoonNetworkLatinAmerica.us,Mexico,Mexico,,FALSE,c/MX,America/Mexico_City,spa,480i
 CartoonNetworkLatinAmerica.us,NorthAtlantic,North Atlantic,,FALSE,c/CO;c/VE;r/CENAMER;r/CARIB,America/Bogota,spa,480i
-CartoonNetworkLatinAmerica.us,SouthAtlantic,South Atlantic,,TRUE,c/AR;c/PY;c/UY,America/Argentina/Buenos_Aires,spa,480i
+CartoonNetworkLatinAmerica.us,SouthAtlantic,South Atlantic,,FALSE,c/AR;c/PY;c/UY,America/Argentina/Buenos_Aires,spa,480i
+CartoonNetworkLatinAmerica.us,SouthAtlanticHD,South Atlantic HD,,TRUE,c/AR;c/PY;c/UY,America/Argentina/Buenos_Aires,spa,1080i
 CartoonNetworkLatinAmerica.us,SouthPacific,South Pacific,,FALSE,c/CL;c/PE;c/EC;c/BO,America/Santiago,spa,480i
 CartoonNetworkLive.br,SD,SD,,TRUE,c/BR,America/New_York,por,480i
 CartoonNetworkLive2.br,SD,SD,,TRUE,c/BR,America/New_York,por,480i
