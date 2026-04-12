@@ -3960,7 +3960,7 @@ Canal36ElBolson.ar,Canal 36 El Bolson,Canal 36 El Bolsón,,,AR,general,FALSE,,,,
 Canal37.mx,Canal 37,,,,MX,general,FALSE,,,,
 Canal38.br,Canal 38,,,,BR,news,FALSE,,,,https://www.canal38.com.br/
 Canal38.cr,Canal 38,,,,CR,music,FALSE,,2023-07-10,OPA.cr,
-Canal38RBTV.uy,Canal 38 RBTV,,,,UY,general,FALSE,,,,
+Canal38RBTV.uy,Canal 38 RBTV,RBTV Canal Digital,,,UY,general,FALSE,,,,
 Canal38RedTDT.bo,Canal 38 Red TDT,,,,BO,general,FALSE,,,,
 Canal3Benin.bj,Canal 3 Benin,Canal 3 Bénin,,Groupe Fraternité,BJ,general,FALSE,,,,https://canal3television.com/
 Canal3Boaco.ni,Canal 3 Boaco,,,,NI,general,FALSE,,,,
@@ -29270,7 +29270,7 @@ TeleZoukla.mq,Tele Zoukla,Télé Zoukla,,,MQ,music,FALSE,,,,https://www.telezouk
 TeleZuri.ch,TeleZuri,TeleZüri,,,CH,,FALSE,1994-10-03,,,https://www.telezueri.ch/
 TelileTV.ca,Telile TV,,,,CA,,FALSE,,,,http://www.telile.tv/
 telKE.sk,telKE,,,,SK,general,FALSE,,,,https://www.telke.sk/
-Telkom247.id,Telkom 24/7,,,Edge Channels,ID,,TRUE,2026-04-01,,,https://edge.renderforestsites.com/Telkom_247/
+Telkom247.id,Telkom 24/7,,,Edge Channels,ID,general,TRUE,2026-04-01,,,https://edge.renderforestsites.com/Telkom_247/
 Tellytrack1.za,Tellytrack 1,,,,ZA,sports,FALSE,,,,https://www.tellytrack.com/
 Tellytrack2.za,Tellytrack 2,,,,ZA,sports,FALSE,,,,https://www.tellytrack.com/
 Tellytrack3.za,Tellytrack 3,,,,ZA,sports,FALSE,,,,https://www.tellytrack.com/
@@ -34306,6 +34306,7 @@ WEDN532.us,WEDN 53.2,KIDS,PBS Kids 24/7,Connecticut Public Broadcasting Inc.,US,
 WEDNDT3.us,WEDN-DT3,,CPTV Spirit,,US,,FALSE,,,,
 WedoBigStories.ch,Wedo Big Stories,,,,CH,documentary,FALSE,,,,https://wedotv.com/channels?program=wedobigdocs
 WedoMoviesNordics.ch,Wedo Movies Nordics,,,,CH,movies,FALSE,,,,https://wedotv.com/channels?program=wedo-movies-nordics
+wedotvAuta.pl,wedotv Auta,,,,PL,auto,FALSE,,,,
 WEDQ31.us,WEDQ 3.1,WEDU;WEDU-HD,PBS,Florida West Coast Public Broadcasting Inc.,US,,FALSE,,,,
 WEDQ32.us,WEDQ 3.2,WEDU WD,World Channel,Florida West Coast Public Broadcasting Inc.,US,documentary,FALSE,,,,https://publicfiles.fcc.gov/tv-profile/WEDQ
 WEDQ33.us,WEDQ 3.3,WEDUNHK,NHK World,Florida West Coast Public Broadcasting Inc.,US,legislative,FALSE,,,,https://publicfiles.fcc.gov/tv-profile/WEDQ
@@ -39129,6 +39130,7 @@ ZeeSmile.us,Zee Smile,,,,US,,FALSE,,2016-01-15,,http://www.zeetelevision.com/
 ZeeSouthFlix.in,Zee South Flix,Z South Flix,ZEE5,Zee Entertainment Enterprises Limited,IN,movies,FALSE,2025-10-06,,,
 ZeeTalkies.in,Zee Talkies,,Z,Zee Entertainment Enterprises Limited,IN,movies,FALSE,,,,http://www.zeetalkies.tv/
 ZeeTamil.in,Zee Tamil,,Z,Zee Entertainment Enterprises Limited,IN,entertainment,FALSE,,,,http://zeetamil.zee5.com/
+ZeeTamilNews.in,Zee Tamil News,Zee தமிழ் News;ZEE News Tamil;ஜீ நியூஸ் தமிழ்,Zee Media,Zee Media Corporation Limited (ZMCL);The Essel Group,IN,news,FALSE,2022-01-25,,,https://zeenews.india.com/tamil/
 ZeeTelugu.in,Zee Telugu,,Z,Zee Entertainment Enterprises Limited,IN,entertainment,FALSE,,,,https://zeetelugu.zee5.com/
 ZeeTeluguNews.in,Zee Telugu News,,Zee Media,Zee Media Corporation Limited (ZMCL);The Essel Group,IN,news,FALSE,,,,https://zeenews.india.com/telugu/
 ZeeThirai.in,Zee Thirai,,Z,Zee Entertainment Enterprises Limited,IN,movies,FALSE,2020-01-19,,,https://www.zee5.com/channels/zee-thirai/0-9-224
