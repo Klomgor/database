@@ -38,7 +38,7 @@ body:
     id: in_use
     attributes:
       label: In Use
-      description: Indicates whether this logo is currently in use
+      description: Indicates whether the broadcaster is currently using this logo
       options:
         - 'TRUE'
         - 'FALSE'
