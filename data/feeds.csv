@@ -3024,7 +3024,7 @@ BBCLifestyle.uk,Romania,Romania,,FALSE,c/RO,America/Toronto,eng,576i
 BBCLifestyle.uk,Singapore,Singapore,,TRUE,c/SG,America/Toronto,eng,576i
 BBCNews.uk,Africa,Africa,,TRUE,r/AFR,America/Toronto,eng,576i
 BBCNews.uk,AsiaPacific,Asia Pacific,,FALSE,r/APAC,America/Toronto,eng;jpn,576i
-BBCNews.uk,Europe,Europe,,FALSE,r/EUR,America/Toronto,eng,576i
+BBCNews.uk,Europe,Europe,,FALSE,r/EUR,America/Toronto,eng,1080i
 BBCNews.uk,LatinAmerica,Latin America,,FALSE,r/LATAM,America/Toronto,eng;spa,576i
 BBCNews.uk,MiddleEast,Middle East,,FALSE,r/MIDEAST,America/Toronto,eng,576i
 BBCNews.uk,NorthAmerica,North America,,FALSE,r/NORAM,America/Toronto,eng,576i
@@ -13156,7 +13156,7 @@ JahanbinTV.ir,SD,SD,,TRUE,c/IR,Asia/Tehran,fas,576i
 Jahonnamo.tj,SD,SD,,TRUE,c/TJ,Asia/Dushanbe,tgk,576i
 JahphixTelevision.vg,SD,SD,,TRUE,c/VG,America/Tortola,eng,480i
 JaihindTV.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,mal,576i
-Jail.pl,Poland,Poland,,TRUE,c/PL;r/EU,Europe/Warsaw,eng,720p
+Jail.uk,Poland,Poland,,TRUE,c/PL;r/EU,Europe/Warsaw,eng,720p
 JaiMaharashtra.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,mar,576i
 JakartaGlobeNewsChannel.id,SD,SD,,TRUE,c/ID,Asia/Jakarta,ind;eng,576i
 JakTV.id,SD,SD,,TRUE,s/ID-JK,Asia/Jakarta,ind,576i
@@ -23142,7 +23142,8 @@ NickJrToo.uk,SD,SD,,TRUE,c/UK;c/IE,Europe/London,eng,576i
 NickMusic.au,SD,SD,,TRUE,c/AU;c/NZ,America/Toronto,eng,576i
 NickMusic.nl,SD,SD,,TRUE,c/NL,America/Toronto,eng,576i
 NickMusic.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
-NickOnline.br,SD,SD,,TRUE,c/BR,America/Sao_Paulo,por,576p
+NickOnline.br,HD,HD,,TRUE,c/BR,America/Sao_Paulo,por,720p
+NickOnline.br,SD,SD,,FALSE,c/BR,America/Sao_Paulo,por,576p
 NickPlutoTV.us,Germany,Germany,,FALSE,c/DE,Europe/Berlin,deu,576i
 NickPlutoTV.us,US,US,,TRUE,c/US,America/New_York,eng,480i
 NickRewind.us,Germany,Germany,,TRUE,c/DE,Europe/Berlin,deu,576i
@@ -30391,7 +30392,7 @@ STRNewsTV.af,SD,SD,,TRUE,c/AF,Asia/Kabul,pus,576i
 StrongLive.mz,SD,SD,,TRUE,c/MZ,Africa/Maputo,por,576i
 Strongman.us,Germany,Germany,,TRUE,c/DE,Europe/Berlin,deu,576i
 Strongman.us,UK,UK,,FALSE,c/UK,Europe/London,eng,576i
-StrongmanChampionsLeague.pl,SD,SD,,TRUE,c/PL,Europe/Warsaw,eng,576i
+StrongmanChampionsLeague.uk,SD,SD,,TRUE,c/PL,Europe/Warsaw,eng,576i
 StrongTV.gh,SD,SD,,TRUE,c/GH,Africa/Accra,eng,576i
 StrykTV.us,HD,HD,,TRUE,c/US,America/Chicago,eng,1080p
 STS.ru,SD,SD,,TRUE,c/RU,Europe/Moscow,rus,576i
