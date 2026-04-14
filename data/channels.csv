@@ -4005,7 +4005,7 @@ Canal4CarlosPellegrini.ar,Canal 4 Carlos Pellegrini,,,Canal 4 Telecomunicaciones
 Canal4Castelli.ar,Canal 4 Castelli,,,,AR,general,FALSE,,,,
 Canal4Catalunya.es,Canal 4 Catalunya,,,Grup4,ES,general,FALSE,,,,https://www.grup4.com/?page_id=14675&lang=ca
 Canal4Chajari.ar,Canal 4 Chajari,,,,AR,general,FALSE,,,,
-Canal4Chuy.uy,Canal 4 Chuy,,,,UY,general,FALSE,,,,https://tv.vera.com.uy/content/2s6n1
+Canal4Chuy.uy,Canal 4 Chuy,,,,UY,general,FALSE,1988-08-25,,,https://tv.vera.com.uy/content/2s6n1
 Canal4deMatehuala.mx,Canal 4 de Matehuala,,,,MX,general,FALSE,,,,
 Canal4Eldorado.ar,Canal 4 Eldorado,,,,AR,,FALSE,,,,https://www.canal4eldorado.com/en-vivo/
 Canal4Esquel.ar,Canal 4 Esquel,,,,AR,,FALSE,,,,https://canal4esquel.com.ar/
@@ -8255,7 +8255,7 @@ EnumclawCityTelevision.us,Enumclaw City Television,ECTV,,,US,legislative,FALSE,,
 EOTCTV.et,EOTC TV,Ethiopian Orthodox Tewahedo Church Television,,Ethiopian Orthodox Tewahedo Church,ET,religious,FALSE,,,,https://www.ethiopianorthodox.org/
 eoTV.de,eo TV,,,Jurgen Horner,DE,entertainment,FALSE,2015-12-22,2021-06-19,,
 EparhiyskiGlasTV.bg,Eparhiyski Glas TV,Епархийски глас TV,,Sofiyska Mitropoliya,BG,religious,FALSE,,,,https://mitropolia-sofia.org/glastv/
-EpicBharat.in,Epic Bharat,Nazara,Epic,,IN,entertainment,FALSE,,,,https://www.epicon.in/live-tv/nazara-live-tv
+EpicBharat.in,Epic Bharat,EPIC भारत;Nazara TV,Epic,,IN,entertainment,FALSE,,,,https://www.epicon.in/live-tv/nazara-live-tv
 EpicBhojpuri.in,Epic Bhojpuri,Filamchi Bhojpuri,Epic,IN10 Media Network,IN,movies,FALSE,2021-01-01,,,https://www.epicon.in/live-tv/filamchi-live-tv
 EpicDrama.uk,Epic Drama,,,ViaSat,UK,series,FALSE,,,,https://epicdrama.eu/
 EpicKids.in,Epic Kids,Gubbare,Epic,,IN,kids,FALSE,,,,https://www.in10media.com/gubbare
@@ -9050,7 +9050,6 @@ FightNight.za,Fight Night,,,,ZA,sports,FALSE,,,,https://video.premiumfree.tv/?se
 FightSports.us,Fight Sports,,,,US,sports,FALSE,2011-01-01,,,https://www.fightsports.tv/
 Fightstream.nl,Fightstream,,,,NL,sports,FALSE,,,,https://spiintl.com/channels/fightstream
 FijiOne.fj,Fiji One,,,Fiji Television,FJ,general,FALSE,1994-06-15,,,https://fijionenews.com.fj/
-FijiTV.fj,Fiji TV,,,,FJ,general,FALSE,,,,
 Filamchi.in,Filamchi,,,IN10 Media Network,IN,movies,FALSE,,,,
 FilAmTVNetwork.us,FilAmTV Network,,,,US,general,FALSE,,,,https://filamtv.us
 FilinfoTV.bf,Filinfo TV,,,Filinfo Group,BF,news,FALSE,2025-09-01,,,https://filinfos.net/
@@ -25474,6 +25473,10 @@ RTVDukagjini.xk,RTV Dukagjini,,,,XK,general,FALSE,,,,https://www.dukagjini.com/t
 RTVECC.cd,RTVECC,Radio Télévision Église du Christ au Congo,,Église du Christ au Congo,CD,religious,FALSE,,,,https://rtvecc.cd/
 RTVElDiario.pe,RTV El Diario,,,,PE,general,FALSE,,,,https://diariodelcusco.pe/
 RTVElVendrell.es,RTV El Vendrell,,,,ES,,FALSE,,,,https://www.rtvelvendrell.cat/directes/televisio/
+RTVEPlayevent1.es,RTVE Play event 1,,,RTVE,ES,news,FALSE,,,,
+RTVEPlayevent2.es,RTVE Play event 2,,,RTVE,ES,news,FALSE,,,,
+RTVEPlayevent3.es,RTVE Play event 3,,,RTVE,ES,news,FALSE,,,,
+RTVEPlayevent4.es,RTVE Play event 4,,,RTVE,ES,news,FALSE,,,,
 RTVEume.es,RTV Eume,,,,ES,general,FALSE,,,,
 RTVFocusTV.nl,RTV Focus TV,,,,NL,,FALSE,,,,
 RTVFontana.xk,RTV Fontana,,,,XK,general,FALSE,,,,https://radiofontana.org/
@@ -26324,6 +26327,7 @@ ShekinahTV.ng,Shekinah TV,,,,NG,,FALSE,2019-04-28,,,https://www.saigmt.org/
 ShelanuTV.il,Shelanu.TV,שלנו.TV,,,IL,religious,FALSE,,,,https://www.shelanu.tv/
 ShelterTV.gh,Shelter TV,,,,GH,,FALSE,,,,
 ShemarooBollywood.us,Shemaroo Bollywood,,,,US,,FALSE,,,,https://watch.plex.tv/live-tv/channel/shemaroo-bollywood
+ShemarooFilmiGaane.in,Shemaroo Filmi Gaane,,,Shemaroo Entertainment Ltd.,IN,music;movies,FALSE,,,,
 ShemarooJosh.in,Shemaroo Josh,Chumbak TV,Shemaroo Entertainment,Shemaroo Entertainment,IN,movies,FALSE,,,,
 ShemarooMarathiBana.in,Shemaroo Marathi Bana,,,,IN,,FALSE,,,,https://shemaroomarathibana.com/
 ShemarooTV.in,Shemaroo TV,,Shemaroo Entertainment,,IN,entertainment,FALSE,,,,https://www.shemarooent.com/STV/
@@ -27333,6 +27337,7 @@ Sport7TV.cd,Sport 7 TV,,,,CD,sports,FALSE,,,,
 SportacentrsTV.lv,Sportacentrs TV,,,,LV,sports,FALSE,,,,https://sportacentrs.com/
 SportalTV.bg,Sportal TV,Спортал ТВ,,SportalTV.bg,BG,sports,FALSE,2006-03-15,,,https://www.sportal.bg/
 SportcastGolf2.tw,Sportcast Golf 2,,,,TW,sports,FALSE,,,,http://www.sportcast.com.tw/golf.php?item_id=2&i=4
+Sportdigital1Plus.de,Sportdigital 1+,,,,DE,sports,FALSE,,,,
 SportdigitalFUSSBALL.de,Sportdigital FUSSBALL,Sportdigital,,Digital Sports,DE,sports,FALSE,2008-01-01,,,https://start.sportdigital.de/
 SportenFrance.fr,Sport en France,,,French National Olympic and Sports Committee,FR,sports,FALSE,2019-05-28,,,https://www.sportenfrance.com/
 SportExpressenTV.se,SportExpressen TV,,,,SE,,FALSE,,,,
@@ -28263,6 +28268,7 @@ SuspilneUzhhorod.ua,Suspilne. Uzhhorod,Суспільне. Ужгород;Ужг
 SuspilneVinnytsia.ua,Suspilne. Vinnytsia,Суспільне. Вінниця;ВДТ-6;Винтера;UΛ: Винница,,National Public Television and Radio Company of Ukraine,UA,general,FALSE,1992-02-01,,,https://vn.suspilne.media/
 SuspilneZaporizhzhya.ua,Suspilne. Zaporizhzhya,Суспільне. Запоріжжя;UΛ: Запорожье,,National Public Television and Radio Company of Ukraine,UA,general,FALSE,1959-07-01,,,https://zp.suspilne.media/
 SuspilneZhytomyr.ua,Suspilne. Zhytomyr,Суспільне. Житомир;Житомир;UΛ: Житомир,,National Public Television and Radio Company of Ukraine,UA,general,FALSE,1992-12-04,,,https://zt.suspilne.media/
+SusunTV.my,Susun TV,,,,MY,general,TRUE,2025-10-29,,,https://susuntv.bamboo-cloud.com/
 SutelTV.mk,Sutel TV,,,,MK,general,FALSE,,,,
 SutraTV.np,Sutra TV,,,,NP,news,FALSE,,,,https://www.sutranews.com/
 Suvag1.mn,Suvag 1,Суваг 1,,,MN,general,FALSE,,,,
