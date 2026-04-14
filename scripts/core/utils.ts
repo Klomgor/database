@@ -88,6 +88,7 @@ export async function loadIssues(props?: {
       'Channel ID': 'channel_id',
       'Channel Name': 'channel_name',
       'Feed Name': 'feed_name',
+      'Feed Alternative Names': 'feed_alt_names',
       'Feed ID': 'feed_id',
       'Main Feed': 'is_main',
       'Alternative Names': 'alt_names',
@@ -118,7 +119,8 @@ export async function loadIssues(props?: {
       'City Name': 'city_name',
       'City Code': 'city_code',
       'Wikidata ID': 'wikidata_id',
-      'In Use': 'in_use'
+      'In Use': 'in_use',
+      'Logo Tags': 'logo_tags'
     })
 
     const fields = typeof issue.body === 'string' ? issue.body.split('###') : []
