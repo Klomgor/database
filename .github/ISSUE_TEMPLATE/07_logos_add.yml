@@ -12,7 +12,7 @@ body:
   - type: input
     id: channel_id
     attributes:
-      label: Channel ID (required)
+      label: Channel ID
       description: ID of the channel to which this logo belongs
       placeholder: 'France3.fr'
     validations:
@@ -21,14 +21,14 @@ body:
   - type: input
     id: feed_id
     attributes:
-      label: Feed ID
+      label: Feed ID (optional)
       description: ID of the feed to which this logo belongs
       placeholder: 'Alpes'
 
   - type: input
     id: logo_url
     attributes:
-      label: Logo URL (required)
+      label: Logo URL
       description: "Logo URL. Supported formats: `PNG`, `JPEG`, `SVG`, `GIF`, `WebP`, `AVIF`, `APNG`. Only URLs with [HTTPS](https://ru.wikipedia.org/wiki/HTTPS) protocol are supported. The link should not be [geo-blocked](https://en.wikipedia.org/wiki/Geo-blocking)."
       placeholder: 'https://example.com/logo.png'
     validations:
@@ -48,16 +48,11 @@ body:
   - type: input
     id: tags
     attributes:
-      label: Tags
+      label: Tags (optional)
       description: "List of keywords describing this version of the logo separated by `;`. May include: `a-z`, `0-9` and `-`."
       placeholder: 'horizontal;white'
 
-  - type: markdown
-    attributes:
-      value: |
-        `width`, `height` and `format` will be calculated automatically
-
   - type: textarea
     attributes:
-      label: Notes
+      label: Notes (optional)
       description: 'Anything else we should know?'
