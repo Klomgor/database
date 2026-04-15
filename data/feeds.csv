@@ -30047,7 +30047,7 @@ StarSports2Tamil.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,tam,576i
 StarSports2Telugu.in,HD,HD,,FALSE,c/IN,Asia/Kolkata,tel,1080p
 StarSports2Telugu.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,tel,576i
 StarSports3.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng;hin;ben;mal,576i
-StarSportsKhel.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
+StarSportsKhel.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin;eng,576i
 StarSportsSelect1.in,HD,HD,,FALSE,c/IN,Asia/Kolkata,eng;hin;mal;ben,1080i
 StarSportsSelect1.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng;hin;mal;ben,576i
 StarSportsSelect2.in,HD,HD,,FALSE,c/IN,Asia/Kolkata,eng,1080i
