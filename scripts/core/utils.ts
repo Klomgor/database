@@ -119,8 +119,7 @@ export async function loadIssues(props?: {
       'City Name': 'city_name',
       'City Code': 'city_code',
       'Wikidata ID': 'wikidata_id',
-      'In Use': 'in_use',
-      'Logo Tags': 'logo_tags'
+      'In Use': 'in_use'
     })
 
     const fields = typeof issue.body === 'string' ? issue.body.split('###') : []

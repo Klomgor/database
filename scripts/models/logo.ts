@@ -8,7 +8,6 @@ import Joi from 'joi'
 
 export class Logo extends sdk.Models.Logo implements Validator {
   line: number = -1
-  in_use: boolean = true
 
   static fromRow(row: CSVRow): Logo {
     if (!row.data.channel) throw new Error('Logo: "channel" not specified')
@@ -17,6 +16,7 @@ export class Logo extends sdk.Models.Logo implements Validator {
     const logo = new Logo({
       channel: row.data.channel.toString(),
       feed: row.data.feed ? row.data.feed.toString() : null,
+      in_use: row.data.in_use === false ? row.data.in_use : true,
       url: row.data.url.toString(),
       tags: Array.isArray(row.data.tags) ? row.data.tags : [],
       width: typeof row.data.width === 'number' ? row.data.width : 0,
@@ -25,7 +25,6 @@ export class Logo extends sdk.Models.Logo implements Validator {
     })
 
     logo.line = row.line
-    logo.in_use = row.data.in_use === false ? row.data.in_use : true
 
     return logo
   }

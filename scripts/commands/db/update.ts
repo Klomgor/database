@@ -221,7 +221,8 @@ async function addChannel(issue: Issue) {
   const newLogo = new Logo({
     channel: newChannel.id,
     feed: null,
-    tags: issueData.getArray('logo_tags'),
+    in_use: issueData.getBoolean('in_use'),
+    tags: issueData.getArray('tags'),
     width: imageInfo.width,
     height: imageInfo.height,
     format: imageInfo.format,
@@ -394,7 +395,8 @@ async function addFeed(issue: Issue) {
     const newLogo = new Logo({
       channel: channelId,
       feed: feedId,
-      tags: issueData.getArray('logo_tags'),
+      in_use: issueData.getBoolean('in_use'),
+      tags: issueData.getArray('tags'),
       width: imageInfo.width,
       height: imageInfo.height,
       format: imageInfo.format,
