@@ -36,7 +36,6 @@ body:
         - 'Not loading'
         - 'Geo-blocked'
         - 'Wrong channel ID'
-        - 'Outdated'
         - 'Other'
     validations:
       required: true

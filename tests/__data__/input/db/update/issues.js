@@ -1250,7 +1250,7 @@ module.exports = [
     closed_at: null,
     author_association: 'CONTRIBUTOR',
     active_lock_reason: null,
-    body: '### Channel ID\n\n24HorasInternacional.es\n\n### Feed ID\n\n_No response_\n\n### Logo URL\n\nhttps://i.imgur.com/IUVRm5L.png\n\n### Tags\n\nlight;2006;on-screen\n\n### Notes\n\n_No response_',
+    body: '### Channel ID\n\n24HorasInternacional.es\n\n### Feed ID\n\n_No response_\n\n### Logo URL\n\nhttps://i.imgur.com/IUVRm5L.png\n\n### In Use\n\nTRUE\n\n### Tags\n\nlight;2006;on-screen\n\n### Notes\n\n_No response_',
     reactions: {
       url: 'https://api.github.com/repos/iptv-org/database/issues/9901/reactions',
       total_count: 0,
@@ -1329,7 +1329,7 @@ module.exports = [
     closed_at: null,
     author_association: 'CONTRIBUTOR',
     active_lock_reason: null,
-    body: '### Logo URL (required)\n\nhttps://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png\n\n### Tags\n\ndeprecated\n\n### Width\n\n_No response_\n\n### Height\n\n_No response_\n\n### Format\n\n_No response_\n\n### Notes\n\n_No response_',
+    body: '### Logo URL (required)\n\nhttps://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png\n\n### In Use\n\nTRUE\n\n### Tags\n\ndeprecated\n\n### Width\n\n_No response_\n\n### Height\n\n_No response_\n\n### Format\n\n_No response_\n\n### Notes\n\n_No response_',
     reactions: {
       url: 'https://api.github.com/repos/iptv-org/database/issues/9902/reactions',
       total_count: 0,

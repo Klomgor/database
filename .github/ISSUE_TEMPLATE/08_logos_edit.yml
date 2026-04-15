@@ -18,6 +18,15 @@ body:
       value: |
         Please specify exactly what should be changed. To delete an existing value without replacement use the `~` symbol.
 
+  - type: dropdown
+    id: in_use
+    attributes:
+      label: In Use
+      description: Indicates whether the broadcaster is currently using this logo
+      options:
+        - 'TRUE'
+        - 'FALSE'
+
   - type: input
     id: tags
     attributes:

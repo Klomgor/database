@@ -8,7 +8,7 @@
     "db:export": "tsx scripts/commands/db/export.ts",
     "db:update": "tsx scripts/commands/db/update.ts",
     "lint": "npx eslint \"{scripts,tests}/**/*.{ts,js}\"",
-    "test": "npx vitest run",
+    "test": "npx vitest run --no-file-parallelism",
     "prepare": "husky"
   },
   "private": true,
@@ -48,8 +48,8 @@
     "husky": "^9.1.7",
     "joi": "^18.0.2",
     "probe-image-size": "^7.2.3",
-    "tsx": "^4.21.0",
+    "tsx": "4.20.6",
     "typescript": "^5.9.3",
-    "vitest": "^4.0.18"
+    "vitest": "^4.1.3"
   }
 }

@@ -8,6 +8,7 @@ import Joi from 'joi'
 
 export class Logo extends sdk.Models.Logo implements Validator {
   line: number = -1
+  in_use: boolean = true
 
   static fromRow(row: CSVRow): Logo {
     if (!row.data.channel) throw new Error('Logo: "channel" not specified')
@@ -24,18 +25,21 @@ export class Logo extends sdk.Models.Logo implements Validator {
     })
 
     logo.line = row.line
+    logo.in_use = row.data.in_use === false ? row.data.in_use : true
 
     return logo
   }
 
   update(issueData: IssueData): this {
     const data = {
+      in_use: issueData.getBoolean('in_use'),
       tags: issueData.getArray('tags'),
       width: issueData.getNumber('width'),
       height: issueData.getNumber('height'),
       format: issueData.getString('format')
     }
 
+    if (data.in_use !== undefined) this.in_use = data.in_use
     if (data.tags !== undefined) this.tags = data.tags
     if (data.width !== undefined) this.width = data.width
     if (data.height !== undefined) this.height = data.height
@@ -60,6 +64,7 @@ export class Logo extends sdk.Models.Logo implements Validator {
       feed: Joi.string()
         .regex(/^[A-Za-z0-9]+$/)
         .allow(null),
+      in_use: Joi.boolean().strict().required(),
       tags: Joi.array().items(Joi.string().regex(/^[a-z0-9-]+$/i)),
       width: Joi.number().required(),
       height: Joi.number().required(),
@@ -77,12 +82,17 @@ export class Logo extends sdk.Models.Logo implements Validator {
     return {
       channel: this.channel,
       feed: this.feed || '',
+      in_use: this.in_use,
       tags: this.tags,
       width: typeof this.width === 'number' ? this.width.toString() : '',
       height: typeof this.height === 'number' ? this.height.toString() : '',
       format: this.format || '',
       url: this.url
     }
+  }
+
+  override toObject(): sdk.Types.LogoData & { in_use: boolean } {
+    return { ...super.toObject(), in_use: this.in_use }
   }
 
   validate(): Collection<ValidatorError> {
