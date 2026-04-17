@@ -21621,8 +21621,8 @@ Moskva24.ru,SD,SD,,TRUE,s/RU-MOW,Europe/Moscow,rus,576i
 MoskvaDoveriye.ru,SD,SD,,TRUE,s/RU-MOW;s/RU-MOS,Europe/Moscow,rus,576i
 MoskvaOtkrytyymir.ru,SD,SD,,TRUE,r/CIS,Europe/Moscow,rus,576i
 MosObrTV.ru,SD,SD,,TRUE,s/RU-MOW,Europe/Moscow,rus,576i
-MostHaunted.us,FR,FR,,FALSE,c/FR,Europe/Paris,fra,720p
-MostHaunted.us,UK,UK,,TRUE,c/UK,Europe/London,eng,576i
+MostHaunted.uk,FR,FR,,FALSE,c/FR,Europe/Paris,fra,720p
+MostHaunted.uk,UK,UK,,TRUE,c/UK,Europe/London,eng,576i
 Mostnet.rs,SD,SD,,TRUE,c/RS,Europe/Belgrade,srp,576i
 MostVideoTV.ua,SD,SD,,TRUE,c/UA,Europe/Kyiv,ukr,576i
 MothersTV.gh,SD,SD,,TRUE,c/GH,Africa/Accra,eng,576i
@@ -23165,6 +23165,7 @@ NickMusic.au,SD,SD,,TRUE,c/AU;c/NZ,America/Toronto,eng,576i
 NickMusic.nl,SD,SD,,TRUE,c/NL,America/Toronto,eng,576i
 NickMusic.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
 NickOnline.br,HD,HD,,TRUE,c/BR,America/Sao_Paulo,por,720p
+NickOnlineSpongebob.br,HD,HD,,TRUE,c/BR,America/Sao_Paulo,por,720p
 NickPlutoTV.us,Germany,Germany,,FALSE,c/DE,Europe/Berlin,deu,576i
 NickPlutoTV.us,US,US,,TRUE,c/US,America/New_York,eng,480i
 NickRewind.us,Germany,Germany,,TRUE,c/DE,Europe/Berlin,deu,576i
@@ -36448,7 +36449,7 @@ WAVE581.us,HD,HD,,TRUE,ct/USLUI,America/Kentucky/Louisville,eng,720p
 WAVE582.us,SD,SD,,TRUE,ct/USLUI,America/Kentucky/Louisville,eng,480i
 WAVETV.bz,SD,SD,,TRUE,c/BZ,America/Belize,eng,480i
 WaveTV.ki,SD,SD,,TRUE,c/KI,Pacific/Tarawa,eng;gil,576i
-WavezFM.aw,SD,SD,,TRUE,c/AW,America/Aruba,nld,576i
+WavezFM.aw,SD,SD,,TRUE,c/AW,America/Aruba,nld;pap,576i
 WAVYTV101.us,HD,HD,,TRUE,ct/USPTM,America/New_York,eng,1080i
 WAVYTV102.us,SD,SD,,TRUE,ct/USPTM,America/New_York,eng,480i
 WAVYTV103.us,SD,SD,,TRUE,ct/USPTM,America/New_York,eng,480i
