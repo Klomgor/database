@@ -88,6 +88,7 @@ export async function loadIssues(props?: {
       'Channel ID': 'channel_id',
       'Channel Name': 'channel_name',
       'Feed Name': 'feed_name',
+      'Feed Alternative Names': 'feed_alt_names',
       'Feed ID': 'feed_id',
       'Main Feed': 'is_main',
       'Alternative Names': 'alt_names',

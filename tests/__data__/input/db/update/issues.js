@@ -219,7 +219,7 @@ module.exports = [
     closed_at: null,
     author_association: 'CONTRIBUTOR',
     active_lock_reason: null,
-    body: '### Channel Name\n\nYiwu News Integrated Channel\n\n### Alternative Names (optional)\n\n_No response_\n\n### Network (optional)\n\n_No response_\n\n### Owners (optional)\n\n_No response_\n\n### Country\n\nCN\n\n### Subdivision (optional)\n\n_No response_\n\n### City (optional)\n\n_No response_\n\n### Categories (optional)\n\nnews\n\n### NSFW\n\nFALSE\n\n### Launched (optional)\n\n_No response_\n\n### Closed (optional)\n\n_No response_\n\n### Replaced By (optional)\n\n_No response_\n\n### Website (optional)\n\n_No response_\n\n### Logo URL\n\nhttps://www.tvchinese.net/uploads/tv/yiwutv.jpg\n\n### Feed Name\n\nSD\n\n### Broadcast Area\n\nc/CN\n\n### Languages\n\nzho\n\n### Timezones\n\nAfrica/Johannesburg;Africa/Kigali\n\n### Format\n\n576i\n\n### Notes\n\n_No response_',
+    body: '### Channel Name\n\nYiwu News Integrated Channel\n\n### Alternative Names (optional)\n\n_No response_\n\n### Network (optional)\n\n_No response_\n\n### Owners (optional)\n\n_No response_\n\n### Country\n\nCN\n\n### Subdivision (optional)\n\n_No response_\n\n### City (optional)\n\n_No response_\n\n### Categories (optional)\n\nnews\n\n### NSFW\n\nFALSE\n\n### Launched (optional)\n\n_No response_\n\n### Closed (optional)\n\n_No response_\n\n### Replaced By (optional)\n\n_No response_\n\n### Website (optional)\n\n_No response_\n\n### Feed Name\n\nSD\n\n### Feed Alternative Names\n\nA;B\n\n### Broadcast Area\n\nc/CN\n\n### Languages\n\nzho\n\n### Timezones\n\nAfrica/Johannesburg;Africa/Kigali\n\n### Format\n\n576i\n\n### Logo URL\n\nhttps://www.tvchinese.net/uploads/tv/yiwutv.jpg\n\n### In Use\n\nFALSE\n\n### Tags\n\nhorizontal\n\n### Notes\n\n_No response_',
     reactions: {
       url: 'https://api.github.com/repos/iptv-org/database/issues/5900/reactions',
       total_count: 0,
@@ -298,7 +298,7 @@ module.exports = [
     closed_at: null,
     author_association: 'CONTRIBUTOR',
     active_lock_reason: null,
-    body: '### Channel Name\n\nYiwu Business Channel\n\n### Alternative Names (optional)\n\n_No response_\n\n### Network (optional)\n\n_No response_\n\n### Owners (optional)\n\n_No response_\n\n### Country\n\nCN\n\n### Subdivision (optional)\n\n_No response_\n\n### City (optional)\n\n_No response_\n\n### Categories (optional)\n\nbusiness\n\n### NSFW\n\nFALSE\n\n### Launched (optional)\n\n_No response_\n\n### Closed (optional)\n\n_No response_\n\n### Replaced By (optional)\n\n_No response_\n\n### Website (optional)\n\n_No response_\n\n### Logo URL\n\nhttps://www.tvchinese.net/uploads/tv/yiwutv.jpg\n\n### Feed Name\n\nSD\n\n### Broadcast Area\n\nc/CN\n\n### Languages\n\nzho\n\n### Timezones\n\nAfrica/Johannesburg;Africa/Kigali\n\n### Format\n\n576i\n\n### Notes\n\n_No response_',
+    body: '### Channel Name\n\nYiwu Business Channel\n\n### Alternative Names (optional)\n\n_No response_\n\n### Network (optional)\n\n_No response_\n\n### Owners (optional)\n\n_No response_\n\n### Country\n\nCN\n\n### Subdivision (optional)\n\n_No response_\n\n### City (optional)\n\n_No response_\n\n### Categories (optional)\n\nbusiness\n\n### NSFW\n\nFALSE\n\n### Launched (optional)\n\n_No response_\n\n### Closed (optional)\n\n_No response_\n\n### Replaced By (optional)\n\n_No response_\n\n### Website (optional)\n\n_No response_\n\n### Logo URL\n\nhttps://www.tvchinese.net/uploads/tv/yiwutv.jpg\n\n### Tags\n\nhorizontal;color\n\n### Feed Name\n\nSD\n\n### Broadcast Area\n\nc/CN\n\n### Languages\n\nzho\n\n### Timezones\n\nAfrica/Johannesburg;Africa/Kigali\n\n### Format\n\n576i\n\n### Notes\n\n_No response_',
     reactions: {
       url: 'https://api.github.com/repos/iptv-org/database/issues/5899/reactions',
       total_count: 0,
@@ -851,7 +851,7 @@ module.exports = [
     closed_at: null,
     author_association: 'CONTRIBUTOR',
     active_lock_reason: null,
-    body: '### Channel ID\n\n1000xHoraTV.uy\n\n### Feed Name\n\nHD\n\n### Alternative Names\n\nOeste;Este\n\n### Main Feed\n\nTRUE\n\n### Broadcast Area\n\nc/CN\n\n### Languages\n\nzho\n\n### Timezones\n\nAfrica/Johannesburg;Africa/Kigali\n\n### Format\n\n576i\n\n### Notes\n\n_No response_',
+    body: '### Channel ID\n\n1000xHoraTV.uy\n\n### Feed Name\n\nHD\n\n### Alternative Names\n\nOeste;Este\n\n### Main Feed\n\nTRUE\n\n### Broadcast Area\n\nc/CN\n\n### Languages\n\nzho\n\n### Timezones\n\nAfrica/Johannesburg;Africa/Kigali\n\n### Format\n\n576i\n\n### Logo URL\n\nhttps://i.imgur.com/1ACe9zC.png\n\n### In Use\n\nFALSE\n\n### Tags\n\nwhite\n\n### Notes\n\n_No response_',
     reactions: {
       url: 'https://api.github.com/repos/iptv-org/database/issues/8900/reactions',
       total_count: 0,

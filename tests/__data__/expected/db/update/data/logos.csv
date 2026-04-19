@@ -1,5 +1,6 @@
 channel,feed,in_use,tags,width,height,format,url
 01TV.fr,HD,TRUE,,512,512,PNG,https://i.imgur.com/aR5q6mA.png
+1000xHoraTV.uy,HD,FALSE,white,80,80,JPEG,https://i.imgur.com/1ACe9zC.png
 24HorasInternacional.es,,TRUE,light;2006;on-screen,80,80,JPEG,https://i.imgur.com/IUVRm5L.png
 7alaTV.ps,,TRUE,deprecated,400,400,PNG,https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png
 Baladna.ps,SD,TRUE,deprecated,400,400,PNG,https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png
@@ -10,8 +11,8 @@ K04JRD1.us,,TRUE,,0,0,PNG,https://upload.wikimedia.org/wikipedia/en/thumb/3/33/P
 K05FWD1.us,,TRUE,,0,0,PNG,https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/512px-PBS_logo.svg.png
 M5.hu,HD,TRUE,,512,512,PNG,https://i.imgur.com/y21wFd0.png
 WenzhouEconomicandEducation.cn,,TRUE,,80,80,JPEG,https://www.tvchinese.net/uploads/tv/wzjjkj.jpg
-YiwuBusinessChannel.cn,,TRUE,,80,80,JPEG,https://www.tvchinese.net/uploads/tv/yiwutv.jpg
-YiwuNewsIntegratedChannel.cn,,TRUE,,80,80,JPEG,https://www.tvchinese.net/uploads/tv/yiwutv.jpg
+YiwuBusinessChannel.cn,,TRUE,horizontal;color,80,80,JPEG,https://www.tvchinese.net/uploads/tv/yiwutv.jpg
+YiwuNewsIntegratedChannel.cn,,FALSE,horizontal,80,80,JPEG,https://www.tvchinese.net/uploads/tv/yiwutv.jpg
 ZonaDAZN3.it,HD,TRUE,,400,400,PNG,https://i.imgur.com/Jop3Vip.png
 ZTVWorld.hu,,TRUE,,0,0,PNG,https://i.imgur.com/wPqCtwR.png
 ZutTV.ve,HD,TRUE,,0,0,PNG,https://i.imgur.com/wPqCtwK.png

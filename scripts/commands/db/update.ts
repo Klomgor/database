@@ -205,7 +205,7 @@ async function addChannel(issue: Issue) {
     channel: newChannel.id,
     id: createFeedId(feedName),
     name: feedName,
-    alt_names: [],
+    alt_names: issueData.getArray('feed_alt_names'),
     is_main: true,
     broadcast_area: broadcastArea,
     timezones: timezones,
@@ -221,7 +221,8 @@ async function addChannel(issue: Issue) {
   const newLogo = new Logo({
     channel: newChannel.id,
     feed: null,
-    tags: [],
+    in_use: issueData.getBoolean('in_use'),
+    tags: issueData.getArray('tags'),
     width: imageInfo.width,
     height: imageInfo.height,
     format: imageInfo.format,
@@ -387,6 +388,22 @@ async function addFeed(issue: Issue) {
   log.info(`Feed with id "${feedId}" and channel "${channelId}" added`)
 
   if (newFeed.is_main === true) onFeedNewMain(channelId, feedId, log)
+
+  const logoUrl = issueData.getString('logo_url')
+  if (logoUrl) {
+    const imageInfo = await probeImage(logoUrl)
+    const newLogo = new Logo({
+      channel: channelId,
+      feed: feedId,
+      in_use: issueData.getBoolean('in_use'),
+      tags: issueData.getArray('tags'),
+      width: imageInfo.width,
+      height: imageInfo.height,
+      format: imageInfo.format,
+      url: logoUrl
+    })
+    data.logos.add(newLogo)
+  }
 
   const errors = newFeed.validate()
   if (errors.isNotEmpty()) {

@@ -97,26 +97,6 @@ body:
   - type: markdown
     attributes:
       value: |
-        ## Logo
-        Description of the main logo of the channel
-
-  - type: input
-    id: logo_url
-    attributes:
-      label: Logo URL
-      description: "Logo URL. Supported formats: `PNG`, `JPEG`, `SVG`, `GIF`, `WebP`, `AVIF`, `APNG`. Only URLs with [HTTPS](https://ru.wikipedia.org/wiki/HTTPS) protocol are supported. The link should not be [geo-blocked](https://en.wikipedia.org/wiki/Geo-blocking)"
-      placeholder: 'https://example.com/logo.png'
-    validations:
-      required: true
-
-  - type: markdown
-    attributes:
-      value: |
-        `width`, `height` and `format` of the logo will be calculated automatically
-
-  - type: markdown
-    attributes:
-      value: |
         ## Main Feed
         Description of the main feed of the channel
 
@@ -129,6 +109,13 @@ body:
       value: 'SD'
     validations:
       required: true
+
+  - type: input
+    id: feed_alt_names
+    attributes:
+      label: Feed Alternative Names (optional)
+      description: List of alternative feed names separated by `;`. May contain any characters except `,` and `"`
+      placeholder: 'Este'
 
   - type: input
     id: broadcast_area
@@ -178,7 +165,40 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: |
+        ## Logo
+        Description of the main logo of the channel
+
+  - type: input
+    id: logo_url
+    attributes:
+      label: Logo URL
+      description: "Logo URL. Supported formats: `PNG`, `JPEG`, `SVG`, `GIF`, `WebP`, `AVIF`, `APNG`. Only URLs with [HTTPS](https://ru.wikipedia.org/wiki/HTTPS) protocol are supported. The link should not be [geo-blocked](https://en.wikipedia.org/wiki/Geo-blocking)"
+      placeholder: 'https://example.com/logo.png'
+    validations:
+      required: true
+
+  - type: dropdown
+    id: in_use
+    attributes:
+      label: In Use
+      description: Indicates whether the broadcaster is currently using this logo
+      options:
+        - 'TRUE'
+        - 'FALSE'
+    validations:
+      required: true
+
+  - type: input
+    id: tags
+    attributes:
+      label: Tags (optional)
+      description: "List of keywords describing this version of the logo separated by `;`. May include: `a-z`, `0-9` and `-`."
+      placeholder: 'horizontal;white'
+
   - type: textarea
     attributes:
-      label: Notes
+      label: Notes (optional)
       description: 'Anything else we should know?'
