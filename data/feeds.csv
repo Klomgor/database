@@ -2584,7 +2584,6 @@ AvivaTV.hn,SD,SD,,TRUE,c/HN,America/Tegucigalpa,spa,480i
 AVKing.jp,SD,SD,,TRUE,c/JP,Asia/Tokyo,jpn,480i
 AVS.be,HD,HD,,FALSE,c/BE,Europe/Brussels,fra,1080i
 AVS.be,SD,SD,,TRUE,c/BE,Europe/Brussels,fra,576i
-AVSGent.be,SD,SD,,TRUE,c/BE,Europe/Brussels,fra,576i
 AVTKhyber.pk,SD,SD,,TRUE,c/PK,Asia/Karachi,pus,576i
 Avto24.ru,HD,HD,,FALSE,c/RU,Europe/Moscow,rus,1080i
 Avto24.ru,SD,SD,,TRUE,c/RU,Europe/Moscow,rus,576i
@@ -32225,7 +32224,7 @@ TimelessDiziChannel.ro,SD,SD,,TRUE,c/RO,Europe/Bucharest,ron,576i
 TimelessDiziChannel.rs,SD,SD,,TRUE,c/RS,Europe/Belgrade,srp,576i
 TimelessDiziChannel.ru,SD,SD,,TRUE,c/RU,Europe/Moscow,rus,576i
 TimelessTV.us,SD,SD,,TRUE,c/US,America/New_York,eng,576i
-Timeline.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
+Timeline.uk,SD,SD,,TRUE,c/US,America/New_York,eng,480i
 TimeNews.pk,SD,SD,,TRUE,c/PK,Asia/Karachi,snd,576i
 TimesBrasil.br,SD,SD,,TRUE,c/BR,America/Sao_Paulo,por,480i
 TimesNow.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng;hin,576i
@@ -34039,7 +34038,7 @@ TVMost.rs,SD,SD,,TRUE,c/RS,Europe/Belgrade,srp,576i
 TVMparati.ve,SD,SD,,TRUE,c/VE,America/Caracas,spa,720p
 TVMQuran.mv,SD,SD,,TRUE,c/MV,Indian/Maldives,div;eng,576i
 TVMrezaMost.rs,SD,SD,,TRUE,c/RS,Europe/Belgrade,srp,576i
-TVMsportPlus.mt,SD,SD,,TRUE,c/MT,Europe/Malta,mlt,576i
+TVMsportPlus.mt,SD,SD,,TRUE,c/MT,Europe/Malta,mlt;eng,576i
 TVMTelescola.mz,SD,SD,,TRUE,c/MZ,Africa/Maputo,por,576i
 TVMTelevizija.mk,SD,SD,,TRUE,c/MK,Europe/Skopje,mkd,576i
 TVMu.id,SD,SD,,TRUE,c/ID,Asia/Jakarta,ind,576i
