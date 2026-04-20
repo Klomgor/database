@@ -111,7 +111,6 @@ channel,feed,in_use,tags,width,height,format,url
 24Horas.es,,TRUE,color,512,241,PNG,https://i.ibb.co/21sXZ3GT/24h.png
 24HorasCanarias.es,,TRUE,color,512,241,PNG,https://i.ibb.co/21sXZ3GT/24h.png
 24HorasCatalunya.es,,TRUE,color,512,241,PNG,https://i.ibb.co/21sXZ3GT/24h.png
-24HorasInternacional.es,,TRUE,color,512,241,PNG,https://i.ibb.co/21sXZ3GT/24h.png
 24HourFreeMovies.us,,TRUE,,512,258,PNG,https://i.imgur.com/iSVnzR1.png
 24Kanal.ua,,TRUE,,0,0,JPEG,https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg
 24Kitchen.us,,TRUE,,960,285,PNG,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/24Kitchen.png/960px-24Kitchen.png
@@ -3631,6 +3630,8 @@ BTATV.gn,,TRUE,,256,137,JPEG,https://i.imgur.com/bYfPxnN.jpeg
 BTATV.ve,,TRUE,,512,171,PNG,https://i.imgur.com/vygOosC.png
 BTB.pl,,TRUE,,185,185,PNG,https://i.imgur.com/U8mcRal.png
 BTB.pl,SD,TRUE,,700,700,PNG,https://btb.j00r.us/images/logo_BTB.webp
+BTB2.pl,,TRUE,,800,800,PNG,https://i.imgur.com/C5g0ejM.png
+BTB3.pl,,TRUE,,700,700,PNG,https://i.imgur.com/Z193940.png
 BTBInfo.pl,,TRUE,,400,400,WebP,https://btb.j00r.us/img.php?id=87fa06e1418604cb096a0bb3f24e4371&type=Primary&w=400&t=BTB+Info
 BTBInternational.pl,,TRUE,,700,700,PNG,https://kononopedia.ru/lib/exe/fetch.php?cache=&w=700&h=700&tok=dbc35d&media=kanaly:btbinternational.png
 BTBMusic.pl,,TRUE,,800,800,PNG,https://btb.j00r.us/images/logo_BTBMusic.webp
@@ -7662,6 +7663,7 @@ Dikayarybalka.ru,,TRUE,,264,80,PNG,https://i.imgur.com/e3BFVgt.png
 DikhTV.hu,,TRUE,,357,512,PNG,https://i.imgur.com/aAcORTL.png
 Dikij.ru,,TRUE,,264,85,PNG,https://i.imgur.com/VDXDiPC.png
 DikijInternational.ru,,TRUE,,264,85,PNG,https://i.imgur.com/ayk6UWv.png
+DikrichTV.lu,,TRUE,,250,250,PNG,https://i.imgur.com/xzGQt2E.png
 Diktyo1.gr,,TRUE,,108,85,PNG,https://www.hellasnet.tv/media/logos/DIKTYO%201.png
 DiktyoTV.gr,,TRUE,,266,70,JPEG,https://i.imgur.com/02V5ecC.jpg
 Dillagi.in,,TRUE,,482,146,PNG,https://i.imgur.com/WG78TO1.png
@@ -26579,6 +26581,7 @@ RTVDordrecht.nl,,TRUE,,512,350,PNG,https://i.imgur.com/5vqYgYr.png
 RTVDrenthe.nl,,TRUE,,410,318,PNG,https://i.imgur.com/UBQCjnG.png
 RTVDukagjini.xk,,TRUE,,182,190,PNG,https://i.imgur.com/AIOLG8v.png
 RTVECC.cd,,TRUE,,512,512,JPEG,https://i.imgur.com/ltZtmTJ.jpeg
+RTVELaRevuelta.es,,TRUE,,512,599,PNG,https://img.rtve.es/p/1000646/logo/?w=512
 RTVElDiario.pe,,TRUE,,291,291,JPEG,https://i.imgur.com/leAcl1p.jpeg
 RTVElVendrell.es,,TRUE,,138,83,PNG,https://i.imgur.com/x9CgczD.png
 RTVEPlayevent1.es,,TRUE,,500,500,JPEG,https://i.imgur.com/1KmHTlx.jpeg
@@ -32438,9 +32441,9 @@ TVEInternacionalAmerica.es,,TRUE,color,960,594,PNG,https://upload.wikimedia.org/
 TVEInternacionalAsiaOceania.es,,TRUE,color,512,317,PNG,https://i.ibb.co/RpKLCMvp/tve.png
 TVEInternacionalAsiaOceania.es,,TRUE,color,839,519,SVG,https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg
 TVEInternacionalAsiaOceania.es,,TRUE,color,960,594,PNG,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png
-TVEInternacionalEuropeAsia.es,,TRUE,color,512,317,PNG,https://i.ibb.co/RpKLCMvp/tve.png
-TVEInternacionalEuropeAsia.es,,TRUE,color,839,519,SVG,https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg
-TVEInternacionalEuropeAsia.es,,TRUE,color,960,594,PNG,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png
+TVEInternacionalEurope.es,,TRUE,color,512,317,PNG,https://i.ibb.co/RpKLCMvp/tve.png
+TVEInternacionalEurope.es,,TRUE,color,839,519,SVG,https://upload.wikimedia.org/wikipedia/commons/e/e7/TVE.svg
+TVEInternacionalEurope.es,,TRUE,color,960,594,PNG,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/TVE.svg/960px-TVE.svg.png
 TVEJABrasil.br,,TRUE,,127,56,PNG,https://i.imgur.com/uhppN3s.png
 TVEllef.nl,,TRUE,,225,199,PNG,https://i.imgur.com/FaCd2QY.png
 TVElqui.cl,,TRUE,,224,225,PNG,https://i.imgur.com/M1TrXjy.png
@@ -33970,8 +33973,10 @@ VC3TV.vc,,TRUE,,160,112,PNG,https://i.imgur.com/SMP32q7.png
 VCALTV.vn,,TRUE,,512,128,PNG,https://i.imgur.com/WmEcjaB.png
 VCAT.us,,TRUE,,56,73,PNG,https://i.imgur.com/OrRSj8q.png
 VCCLagunadelSauceTV.uy,,TRUE,,512,512,JPEG,https://i.imgur.com/9gY0LJ4.jpeg
+VClassics.se,,TRUE,horizontal,300,70,PNG,https://i.imgur.com/jt0A0DC.png
 VClassicTV.cl,,TRUE,,280,78,PNG,https://i.imgur.com/WIACJSy.png
 VCOnline.cl,,TRUE,,210,162,PNG,https://i.imgur.com/VlKl2VB.png
+VCrime.se,,TRUE,horizontal,300,83,PNG,https://i.imgur.com/FLQOddg.png
 VCV.in,,TRUE,,343,512,PNG,https://i.imgur.com/KbU36xI.png
 VeaCanal.gt,,TRUE,,132,65,PNG,https://i.imgur.com/oPJlbNf.png
 VechernyayaMoskva.ru,,TRUE,,511,144,PNG,https://i.imgur.com/ntdItNr.png

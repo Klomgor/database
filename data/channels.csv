@@ -106,7 +106,6 @@ id,name,alt_names,network,owners,country,categories,is_nsfw,launched,closed,repl
 24Horas.es,24 Horas,Canal 24 Horas;24h,TVE,RTVE SA,ES,news;public,FALSE,1997-09-15,,,http://www.rtve.es/alacarta/tve/24-horas/
 24HorasCanarias.es,24 Horas Canarias,Canal 24 Horas Canarias,TVE,RTVE SA,ES,news;public,FALSE,1997-09-15,,,https://www.rtve.es/play/videos/directo/tve-canarias/24-h-can/
 24HorasCatalunya.es,24 Horas Catalunya,Canal 24 Horas Catalunya,TVE,RTVE SA,ES,news;public,FALSE,1997-09-15,,,https://www.rtve.es/play/videos/directo/tve-catalunya/24h-cat/
-24HorasInternacional.es,24 Horas Internacional,Canal 24 Horas Internacional,TVE,RTVE SA,ES,news;public,FALSE,1997-09-15,,,https://www.rtve.es/television/tve-internacional
 24HourFreeMovies.us,24 Hour Free Movies,,,Future Today Inc.,US,movies,FALSE,,,,https://channelstore.roku.com/en-ca/details/9901df514a904063a91fd54fb1f2971c/24-hour-movie-channel
 24Kanal.ua,24 Kanal,24 Канал,,,UA,news,FALSE,,,,https://24tv.ua/online/
 24Kitchen.us,24Kitchen,,,The Walt Disney Company,US,cooking,FALSE,,,,https://www.24kitchen.bg/
@@ -3433,6 +3432,8 @@ BSYoshimoto.jp,BS Yoshimoto,BSよしもと,,,JP,lifestyle,FALSE,,,,https://bsy.c
 BTATV.gn,BTA TV,,,BTA Média,GN,general,FALSE,,,,https://btagroupe.com/
 BTATV.ve,BTA TV,,,,VE,music,FALSE,,,,https://btatv.tv/
 BTB.pl,BTB,Telewizja BTB;Bombaska Telewizja Boża,Telewizja BTB,Telewizja BTB,PL,general,FALSE,,,,https://btb.j00r.us/
+BTB2.pl,BTB 2,,,,PL,general,FALSE,,,,
+BTB3.pl,BTB 3,,,,PL,general,FALSE,,,,
 BTBInfo.pl,BTB Info,,Telewizja BTB,Telewizja BTB,PL,documentary;news,FALSE,,,,https://btb.j00r.us
 BTBInternational.pl,BTB International,,,,PL,,FALSE,,,,
 BTBMusic.pl,BTB Music,,Telewizja BTB,Telewizja BTB,PL,music,FALSE,,,,https://btb.j00r.us
@@ -7241,6 +7242,7 @@ Dikayarybalka.ru,Dikaya rybalka,Дикая рыбалка,,,RU,outdoor,FALSE,,,,
 DikhTV.hu,Dikh TV,,,Első Roma Média Kft.,HU,culture,FALSE,,,,https://www.dikhtv.hu/
 Dikij.ru,Dikij,Дикий,,,RU,outdoor,FALSE,,,,https://dikoe.tv/channels/telekanal-dikij.html
 DikijInternational.ru,Dikij International,Дикий International,,,RU,outdoor,FALSE,,,,http://dikoe.tv/channels/dikij-international.html
+DikrichTV.lu,Dikrich TV,,,,LU,general,FALSE,,,,https://diekirch.lu/fr/commune-de-diekirch/mediatheque/dikrich-tv
 Diktyo1.gr,Diktyo1,ΔΙΚΤΥΟ 1,HellasNet,Akrites Anonymi Tileoptiki Etaireia,GR,news,FALSE,1998-01-01,,,https://www.diktyo1.com/
 DiktyoTV.gr,Diktyo TV,Δίκτυο Τηλεόραση,,,GR,general,FALSE,,,,https://diktyotv.gr/live/
 Dillagi.in,Dillagi,,,,IN,entertainment,FALSE,,,,http://www.dillagi.tv/
@@ -25503,6 +25505,7 @@ RTVDordrecht.nl,RTV Dordrecht,,,,NL,,FALSE,,,,
 RTVDrenthe.nl,RTV Drenthe,,,,NL,,FALSE,,,,https://www.rtvdrenthe.nl/
 RTVDukagjini.xk,RTV Dukagjini,,,,XK,general,FALSE,,,,https://www.dukagjini.com/tv/
 RTVECC.cd,RTVECC,Radio Télévision Église du Christ au Congo,,Église du Christ au Congo,CD,religious,FALSE,,,,https://rtvecc.cd/
+RTVELaRevuelta.es,RTVE La Revuelta,,,RTVE,ES,entertainment,FALSE,,,,https://www.rtve.es/play/videos/la-revuelta/
 RTVElDiario.pe,RTV El Diario,,,,PE,general,FALSE,,,,https://diariodelcusco.pe/
 RTVElVendrell.es,RTV El Vendrell,,,,ES,,FALSE,,,,https://www.rtvelvendrell.cat/directes/televisio/
 RTVEPlayevent1.es,RTVE Play event 1,,,RTVE,ES,news,FALSE,,,,
@@ -30946,9 +30949,9 @@ TVEducacaoMA.br,TV Educacao MA,TV Educação MA,,,BR,,FALSE,,,,https://www.educa
 TVEducativaES.br,TV Educativa ES,TVE ES;TV Educativa do Espírito Santo,,,BR,education;kids,FALSE,,,,https://rtv.es.gov.br/
 TVEdukasi.id,TV Edukasi,,,Ministry of Education Culture Research and Technology,ID,,FALSE,2004-10-12,,,https://tve.kemdikbud.go.id/
 TVEger.hu,TV Eger,,,,HU,,FALSE,,,,http://www.tveger.hu/
-TVEInternacionalAmerica.es,TVE Internacional America,,TVE,RTVE,ES,,FALSE,,,,https://www.rtve.es/television/tve-internacional/america1/
-TVEInternacionalAsiaOceania.es,TVE Internacional Asia-Oceania,,TVE,RTVE,ES,,FALSE,,,,https://www.rtve.es/television/tve-internacional/europa/
-TVEInternacionalEuropeAsia.es,TVE Internacional Europe-Asia,,TVE,RTVE,ES,,FALSE,,,,https://www.rtve.es/television/tve-internacional/asia/
+TVEInternacionalAmerica.es,TVE Internacional America,,TVE,RTVE,ES,,FALSE,,,,https://www.rtve.es/play/tve-internacional/
+TVEInternacionalAsiaOceania.es,TVE Internacional Asia-Oceania,,TVE,RTVE,ES,,FALSE,,,,https://www.rtve.es/play/tve-internacional/
+TVEInternacionalEurope.es,TVE Internacional Europe,,TVE,RTVE,ES,,FALSE,,,,https://www.rtve.es/play/tve-internacional/
 TVEJABrasil.br,TV EJA Brasil,,,,BR,,FALSE,,,,
 TVEllef.nl,TV Ellef,,,,NL,,FALSE,,,,
 TVElqui.cl,TV Elqui,,,,CL,,FALSE,,,,https://tvelqui.cl/
@@ -32457,8 +32460,10 @@ VC3TV.vc,VC3TV,,,,VC,culture,FALSE,,,,https://vc3.tv/
 VCALTV.vn,VCAL TV,,,,VN,news;culture,FALSE,,,,https://www.vcal.tv/
 VCAT.us,VCAT,,,,US,general,FALSE,,,,https://vcat.tv/
 VCCLagunadelSauceTV.uy,VCC Laguna del Sauce TV,,,,UY,general,FALSE,,,,
+VClassics.se,V Classics,,,Viaplay Group,SE,,FALSE,2026-01-01,,,http://www.tv1000.se/
 VClassicTV.cl,V Classic TV,,,,CL,music,FALSE,,,,https://www.radiocoquimbo.cl/
 VCOnline.cl,VC Online,,,,CL,,FALSE,,,,https://vencio.wixsite.com/vcmedios
+VCrime.se,V Crime,,,Viaplay Group,SE,,FALSE,2026-01-01,,,http://www.tv1000.se/
 VCV.in,VCV,,,,IN,general,FALSE,,,,
 VeaCanal.gt,Vea Canal,,,,GT,,FALSE,,,,http://www.veacanal.tv/
 VechernyayaMoskva.ru,Vechernyaya Moskva,Вечерняя Москва,,,RU,,FALSE,,,,https://vm.ru/
