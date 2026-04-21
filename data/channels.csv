@@ -2995,6 +2995,7 @@ BHTV.bg,BHTV,БХТВ;BCHTV;Bulgarska Khristiyanska TV;BK TV;Българска 
 BHTV.pe,BHTV,,,,PE,general,FALSE,,,,https://bhtv.pe/
 BHTV10.us,BHTV10,,,,US,,FALSE,,,,https://www.beverlyhills.org/departments/informationtechnology/beverlyhillstelevision/watchlive/
 BHTV35.us,BHTV35,,,,US,,FALSE,,,,https://www.beverlyhills.org/departments/informationtechnology/beverlyhillstelevision/watchlive/
+BialogardzkaTelewizjaKablowa.pl,Bialogardzka Telewizja Kablowa,BTK;Białogardzka Telewizja Kablowa,,,PL,entertainment,FALSE,,,,https://btk.bsmbialogard.pl/
 BibelTV.de,Bibel TV,,,Bibel TV Stiftung gGmbH,DE,,FALSE,2002-10-01,,,https://www.bibeltv.de/
 BibelTVImpuls.de,Bibel TV Impuls,,,,DE,,FALSE,,,,
 BibelTVMusik.de,Bibel TV Musik,,,,DE,music,FALSE,,,,
@@ -5170,7 +5171,7 @@ Challenge.uk,Challenge,,,Sky Group,UK,entertainment,FALSE,2012-12-03,,,http://ww
 ChamameTV.ar,Chamame TV,Chamamé TV,,,AR,music,FALSE,,,,https://chamametv.com.ar/
 ChamberofRepresentatives.be,Chamber of Representatives,De Kamer/La Chambre,,,BE,legislative,FALSE,,,,https://www.lachambre.be/media/index.html
 ChamberTV.lu,Chamber TV,,,Chambre des députés,LU,legislative,FALSE,2001-12-04,,,http://www.chd.lu/
-ChamorroTelevision.co,Chamorro Television,Chamorro Televisión,,,CO,general,FALSE,,,,
+ChamorroTelevision.co,Chamorro Television,Chamorro Televisión,,,CO,general,FALSE,,,,https://chamorrotv.com/
 ChampasackTV.la,Champasack TV,ໂທລະພາບ ແຂວງຈຳປາສັກ,,,LA,general,FALSE,,,,
 ChampionsFight.id,Champions Fight,,,,ID,sports,FALSE,2026-01-01,,,
 ChampionsGolf1.id,Champions Golf 1,,,,ID,sports,FALSE,,,,
@@ -7052,6 +7053,7 @@ DeLaFoiTV.cd,De La Foi TV,,,,CD,religious,FALSE,,,,
 DelEsteTV.uy,Del Este TV,,,,UY,music,FALSE,,,,https://www.radiodeleste.com.uy/
 DelfiTV.lt,Delfi TV,,,,LT,general,FALSE,,,,https://www.delfi.lt/video/puslapis/tv
 DeliveranceTV.ke,Deliverance TV,,,Around the Globe Deliverance Ministry,KE,religious,FALSE,,,,https://atgdeliveranceministry.co.ke/tv.html
+DellaTV.it,DellaTV,Japan TV,,DellaTV Network,IT,general,FALSE,2024-03-05,,,https://gia.tv/watchssh101.php?psid=1033
 DelPuebloTV.do,Del Pueblo TV,,,,DO,general,FALSE,,,,https://www.tvdominicana.net/livetv/watch/delpueblotv/49
 DelReyTV.py,Del Rey TV,,,,PY,entertainment,FALSE,,,,
 DeltaTV.am,Delta TV,Դելտա-TV;Дельта ТВ,,DELTA TV LLC,AM,news,FALSE,2019-01-01,,,http://www.deltatv.am/channel/%D4%B4%D5%A5%D5%AC%D5%BF%D5%A1-TV
@@ -7421,6 +7423,7 @@ DisneyJuniorSouthAfrica.za,Disney Junior South Africa,,,The Walt Disney Company,
 DisneyStories.in,Disney Stories,,,The Walt Disney Company,IN,kids,FALSE,,,,
 DisneyXD.ca,Disney XD,,,Corus Entertainment,CA,kids,FALSE,2015-12-01,2025-09-01,,http://www.disneyxd.ca/
 DisneyXD.gr,Disney XD,,,The Walt Disney Company,GR,kids,FALSE,2009-10-03,2021-01-31,,
+DisneyXD.in,Disney XD,,,The Walt Disney Company (India) Pvt. Ltd.,IN,animation;kids,FALSE,2009-11-14,2019-01-20,MarvelHQ.in,
 DisneyXD.nl,Disney XD,,,The Walt Disney Company,NL,kids,FALSE,2010-01-01,2025-04-30,,http://www.disneyxd.nl/
 DisneyXD.pl,Disney XD,,,The Walt Disney Company,PL,kids,FALSE,2009-09-19,,,https://tv.disney.pl/
 DisneyXD.us,Disney XD,,Disney Channels,The Walt Disney Company,US,kids,FALSE,2009-02-13,,,https://disneynow.com/all-shows/disney-xd
@@ -18539,6 +18542,7 @@ Life.ru,Life,LifeNews,,NewsMedia,RU,news,FALSE,2013-01-01,,,https://life.ru/
 Life120Channel.it,Life 120 Channel,,,Life 120 Companu S r l,IT,lifestyle,FALSE,,,,https://life120.it/
 LifeCenterNetwork.ng,Life Center Network,,,,NG,,FALSE,,,,
 LifeHDTV.cd,Life HD TV,,,Jean Katunga Mwamba,CD,general,FALSE,2016-09-30,,,
+LifeOK.in,Life OK,,,Star India Pvt. Ltd.,IN,entertainment,FALSE,2011-12-18,2017-08-18,StarBharat.in,
 LifeOK.np,Life OK,,,,NP,lifestyle,FALSE,,,,https://lifeoktvnepal.com/
 LifeSportsTV.kr,Life Sports TV,생활체육TV,,,KR,sports,FALSE,,,,http://www.berrymedia.co.kr/bbs/group.php?gr_id=sports
 LifeStyle.au,LifeStyle,,,,AU,lifestyle,FALSE,,,,https://www.foxtel.com.au/watch/lifestyle.html
@@ -19251,6 +19255,7 @@ MaruayTV.th,Maruay TV,,,Thai Maruay Company Limited,TH,general,FALSE,,,,
 MarutamMusic.in,Marutam Music,MNTV Music,,,IN,music,FALSE,,,,https://mntv.in/
 MarutamTV.in,Marutam TV,MNTV,,,IN,entertainment,FALSE,,,,https://mntv.in/
 MARUTelevision.bw,MARU Television,,,,BW,entertainment,FALSE,,,,
+MarvelHQ.in,Marvel HQ,,,Star India Pvt. Ltd.,IN,animation;kids,FALSE,2019-01-22,2022-03-01,SuperHungama.in,
 MarvelHQ.us,Marvel HQ,,,,US,,FALSE,,,,https://www.marvelhq.com/
 MarvisionTV.bo,Marvision TV,Marvisión TV,,,BO,general,FALSE,,,,https://marvisiontv.com/
 Mas104Television.co,Mas 104 Television,Más 104 Televisión,,,CO,general,FALSE,,,,
@@ -20166,6 +20171,7 @@ MovieMax.mn,MovieMax,,,,MN,movies,FALSE,,,,
 MovieMax.us,MovieMax,,,Home Box Office Inc,US,movies,FALSE,,2025-08-15,,http://www.cinemax.com/
 MovieMix.uk,Movie Mix,,,Sony Pictures Television Ltd,UK,movies,FALSE,2009-07-15,2017-01-10,,
 MovieMovie.hk,Movie Movie,,,HK Television Entertainment,HK,movies,FALSE,,,,https://nowplayer.now.com/tvguide/channeldetail/116/1
+MovieMusicbyStingray.ca,Movie Music by Stingray,,,Stingray Group Inc.,CA,music,FALSE,2025-02-05,,,
 MovieonDemand1.in,Movie on Demand 1,,,,IN,movies,FALSE,,,,http://www.dishtv.in/movie-on-demand.aspx
 MovieonDemand2.in,Movie on Demand 2,,,,IN,movies,FALSE,,,,http://www.dishtv.in/movie-on-demand.aspx
 MovieonDemandNonStop.in,Movie on Demand Non Stop,,,,IN,movies,FALSE,,,,http://www.dishtv.in/movie-on-demand.aspx
@@ -20186,6 +20192,7 @@ MovieSmartPremium2.tr,MovieSmart Premium 2,,,,TR,movies,FALSE,,,,https://www.dsm
 MovieSmartTurk.tr,MovieSmart Turk,MovieSmart Türk,,,TR,movies,FALSE,,,,https://www.dsmart.com.tr/
 MoviesNow.in,Movies Now,,Times Network,The Times Group;Bennett Coleman and Company Limited (BCCL),IN,movies,FALSE,2010-12-19,,,
 MoviesNowPlus.in,Movies Now +,MN+,Times Network,The Times Group;Bennett Coleman and Company Limited (BCCL),IN,movies,FALSE,,,,
+MoviesOK.in,Movies OK,,,Star India Pvt. Ltd.,IN,movies,FALSE,2012-05-06,2020-02-01,StarGold2.in,
 MoviesonVerizon.us,Movies on Verizon,,Pluto TV,,US,movies,FALSE,,,,https://pluto.tv/en/live-tv/movies-on-verizon
 MovieSphere.us,MovieSphere,MovieSphere by Lionsgate,,Lionsgate Studios Corp.,US,movies,FALSE,2020-03-01,,,https://lionsgatechannels.com/movie-sphere
 MoviessatAsia.th,Movies & sat Asia,,,,TH,movies,FALSE,,,,
@@ -27563,6 +27570,7 @@ StarComedy.us,Star Comedy,,,,US,comedy,FALSE,,,,
 StarCrime.bg,Star Crime,Fox Crime,,The Walt Disney Company Bulgaria EOOD,BG,series,FALSE,,,,https://www.starchannel-bg.com/
 StarCrime.pt,Star Crime,,The Walt Disney Company Portugal,The Walt Disney Company Iberia S.L.,PT,lifestyle,FALSE,,,,https://www.startv.pt/programacao/starcrime
 StarCrime.si,Star Crime,,,The Walt Disney Company Bulgaria EOOD,SI,series,FALSE,,,,https://www.starchannel-si.com/
+StarEntertainment.in,Star Entertainment,,Star TV,Satellite Television Asian Region Ltd. (STAR),IN,entertainment,FALSE,1991-12-15,1992-02-21,StarPlus.in,
 StarEntertainmentChannel.hk,Star Entertainment Channel,SEC;星衛娛樂台,,The Walt Disney Company,HK,movies,FALSE,2012-12-01,,,https://www.dngtw.tw/sec/
 StarEPlus.tz,Star E +,,,,TZ,,FALSE,,,,
 StarFamily.ru,Star Family,,,Media Telecom,RU,movies,FALSE,2018-01-01,,,
@@ -27570,7 +27578,7 @@ StarFolkTV.mk,Star Folk TV,,,,MK,music,FALSE,,,,https://starfolk.net/
 StarFun.us,Star Fun,,,,US,,FALSE,,,,
 StarFunPlus3.us,Star Fun +3,,,,US,,FALSE,,,,
 StarGold.in,Star Gold,,JioStar,JioStar India Pvt. Ltd.;Reliance Industries(RIL);The Walt Disney Company,IN,movies,FALSE,1999-01-01,,,https://hotstar.com/
-StarGold2.in,Star Gold 2,Movies OK,JioStar,JioStar India Pvt. Ltd.;Reliance Industries(RIL);The Walt Disney Company,IN,movies,FALSE,2012-01-01,,,https://hotstar.com/
+StarGold2.in,Star Gold 2,,JioStar,JioStar India Pvt. Ltd.;Reliance Industries(RIL);The Walt Disney Company,IN,movies,FALSE,2020-02-01,,,https://hotstar.com/
 StarGoldRomance.in,Star Gold Romance,UTV Movies,JioStar,JioStar India Pvt. Ltd.;Reliance Industries(RIL);The Walt Disney Company,IN,movies,FALSE,2008-01-01,,,https://hotstar.com/
 StarGoldSelect.in,Star Gold Select,,JioStar,JioStar India Pvt. Ltd.;Reliance Industries(RIL);The Walt Disney Company,IN,movies,FALSE,2017-01-01,,,https://hotstar.com/
 StarGoldThrills.in,Star Gold Thrills,UTV Action;Bindass Movies,JioStar,JioStar India Pvt. Ltd.;Reliance Industries(RIL);The Walt Disney Company,IN,movies,FALSE,2007-01-01,,,https://hotstar.com/
@@ -27716,6 +27724,7 @@ StingrayCeltic.ca,Stingray Celtic,,,,CA,music,FALSE,,,,
 StingrayChamberMusic.ca,Stingray Chamber Music,,,,CA,music,FALSE,,,,
 StingrayChillLounge.ca,Stingray Chill Lounge,,,,CA,music,FALSE,,,,
 StingrayChristianPopRock.ca,Stingray Christian Pop & Rock,,,,CA,music,FALSE,,,,
+StingrayCityscapes.ca,Stingray Cityscapes,,,Stingray Group Inc.,CA,music,FALSE,2025-02-05,,,https://www.stingray.com/consumer/products/cityscapes/
 StingrayClassica.ca,Stingray Classica,,,,CA,music,FALSE,1995-01-01,,,https://classica.stingray.com/
 StingrayClassicMastersGrandsclassiques.ca,Stingray Classic Masters / Grands classiques,,,,CA,music,FALSE,,,,
 StingrayClassicRB.ca,Stingray Classic R&B,,,,CA,music,FALSE,,,,
@@ -27724,6 +27733,7 @@ StingrayCMT.ca,Stingray CMT,,,,CA,music,FALSE,,,,
 StingrayCMusic.ca,Stingray CMusic,C Music TV,,Stingray Group Inc.,CA,music,FALSE,2007-02-20,,,https://cmusic.stingray.com/
 StingrayCountry.ca,Stingray Country,,,Stingray Group Inc.,CA,music,FALSE,2019-05-13,,,https://country.stingray.com/
 StingrayCountryClassics.ca,Stingray Country Classics,,,,CA,music,FALSE,,,,
+StingrayCozyCafe.ca,Stingray Cozy Cafe,,,Stingray Group Inc.,CA,music,FALSE,2025-02-05,,,https://www.stingray.com/consumer/products/cozy-cafe/
 StingrayDanceClubbin.ca,Stingray Dance Clubbin',,,,CA,music,FALSE,,,,
 StingrayDJAZZ.ca,Stingray DJAZZ,,,Stingray Group Inc.,CA,music,FALSE,2012-06-22,,,https://djazz.stingray.com/
 StingrayEasyListening.ca,Stingray Easy Listening,,,,CA,music,FALSE,,,,
@@ -27752,6 +27762,7 @@ StingrayHitList.ca,Stingray Hit List,,,,CA,music,FALSE,,,,https://music.stingray
 StingrayHits.ca,Stingray Hits,,,,CA,music,FALSE,,,,https://hits.stingray.com/
 StingrayHolidayFavourites.ca,Stingray Holiday Favourites,,,,CA,music,FALSE,,,,
 StingrayHolidayHits.ca,Stingray Holiday Hits,,,,CA,music,FALSE,,,,
+StingrayHolidayscapes.ca,Stingray Holidayscapes,,,Stingray Group Inc.,CA,music,FALSE,2023-11-16,,,https://www.stingray.com/consumer/products/stingray-holidayscapes/
 StingrayHotCountry.ca,Stingray Hot Country,,,,CA,music,FALSE,,,,https://music.stingray.com/en/channels/008/hot-country
 StingrayiConcerts.ca,Stingray iConcerts,,,Stingray Group Inc.,CA,music,FALSE,,,,https://iconcerts.stingray.com/
 StingrayJammin.ca,Stingray Jammin',,,,CA,music,FALSE,,,,
@@ -27796,6 +27807,7 @@ StingraySmoothJazzChristmas.ca,Stingray Smooth Jazz Christmas,,,,CA,music,FALSE,
 StingraySoulnRB.ca,Stingray Souln R&B,,,,CA,music,FALSE,,,,
 StingraySoulStorm.ca,Stingray Soul Storm,,,,CA,music,FALSE,,,,https://music.stingray.com/en/channels/134/soul-storm
 StingraySouvenirs.ca,Stingray Souvenirs,,,,CA,music,FALSE,,,,
+StingrayStargaze.ca,Stingray Stargaze,,,Stingray Group Inc.,CA,music,FALSE,2025-02-05,,,https://www.stingray.com/consumer/products/stargaze/
 StingraySwinginStandards.ca,Stingray Swingin' Standards,,,,CA,music,FALSE,,,,
 StingrayTheBeat.ca,Stingray The Beat,,,,CA,music,FALSE,,,,
 StingrayTheBlues.ca,Stingray The Blues,,,,CA,music,FALSE,,,,
@@ -29849,6 +29861,7 @@ ToonamiAfrica.us,Toonami Africa,,,Warner Bros. Discovery EMEA,US,animation,FALSE
 ToonamiAftermath.us,Toonami Aftermath,,,,US,animation,FALSE,,,,https://www.toonamiaftermath.com/
 ToonAVision.ca,ToonAVision,,,,CA,animation;kids,FALSE,,,,http://www.toonavision.ca/
 Tooncast.us,Tooncast,,,Warner Bros. Discovery EMEA,US,animation;kids,FALSE,2008-12-01,,,http://www.tooncast.tv/
+ToonDisney.in,Toon Disney,,,Walt Disney Television International (India);Satellite Television Asian Region Ltd. (STAR),IN,animation;kids,FALSE,2004-12-17,2009-11-14,DisneyXD.in,
 Toonee.th,Toonee,,,,TH,animation;kids,FALSE,,,,https://toonee.tv/
 ToonGoggles.us,ToonGoggles,,,,US,kids,FALSE,,,,https://www.toongoggles.com/
 ToonGogglesenEspanol.us,Toon Goggles en Espanol,,,,US,animation;kids,FALSE,,,,https://www.toongoggles.com/linear/toon-goggles-en-espanol
@@ -32098,6 +32111,7 @@ UlaffTV.ng,Ulaff TV,,,,NG,,FALSE,,,,
 UlibkaRebyonka.ru,Ulibka Rebyonka,Улыбка ребёнка,,,RU,kids,FALSE,2007-09-01,2016-07-01,,http://smiletv.org/
 UlkeTV.tr,Ulke TV,Ülke TV,,,TR,,FALSE,,,,https://www.ulketv.com.tr/
 ULosLagosTV.cl,U Los Lagos TV,,,,CL,,FALSE,,,,http://medios.ulagos.cl/
+UltimateTriviabyStingray.ca,Ultimate Trivia by Stingray,,,Stingray Group Inc.,CA,interactive,FALSE,2023-03-31,,,https://www.stingray.com/consumer/products/ultimate-trivia/
 UltimateTV.in,Ultimate TV,UTV,,,IN,music,FALSE,,,,
 UltraCasanareTV.co,Ultra Casanare TV,,,,CO,entertainment,FALSE,,,,https://ultracasanare.com.co/
 UltraFamilia.us,Ultra Familia,,,,US,family,FALSE,,,,http://www.olympusat.com/networks/ultra-familia

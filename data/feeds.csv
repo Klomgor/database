@@ -3517,6 +3517,7 @@ BHTV.bg,SD,SD,,TRUE,c/BG,Europe/Sofia,bul,576i
 BHTV.pe,SD,SD,,TRUE,c/PE,America/Lima,spa,480i
 BHTV10.us,SD,SD,,TRUE,ct/USBVH,America/New_York,eng,480i
 BHTV35.us,SD,SD,,TRUE,ct/USBVH,America/New_York,eng,480i
+BialogardzkaTelewizjaKablowa.pl,HD,HD,,TRUE,c/PL,Europe/Warsaw,pol,1080p
 BibelTV.de,HD,HD,,FALSE,c/DE,Europe/Berlin,deu,1080i
 BibelTV.de,SD,SD,,TRUE,c/DE,Europe/Berlin,deu,576i
 BibelTVImpuls.de,SD,SD,,TRUE,c/DE,Europe/Berlin,deu,576i
@@ -7851,6 +7852,7 @@ DeLaFoiTV.cd,SD,SD,,TRUE,c/CD,Africa/Kinshasa,fra,576i
 DelEsteTV.uy,SD,SD,,TRUE,c/UY,America/Montevideo,spa,576i
 DelfiTV.lt,SD,SD,,TRUE,c/LT,Europe/Vilnius,est,576i
 DeliveranceTV.ke,SD,SD,,TRUE,c/KE,Africa/Nairobi,eng,576i
+DellaTV.it,HD,HD,,TRUE,c/IT,Europe/Rome,eng;jpn,720p
 DelPuebloTV.do,HD,HD,,TRUE,c/DO,America/Santo_Domingo,spa,720p
 DelReyTV.py,SD,SD,,TRUE,c/PY,America/Asuncion,spa,576i
 DeltaTV.am,SD,SD,,TRUE,c/AM,Asia/Yerevan,hye,576i
@@ -8310,6 +8312,7 @@ DisneyJuniorSouthAfrica.za,SD,SD,,TRUE,r/SSA,Africa/Johannesburg,eng,576i
 DisneyStories.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng,576i
 DisneyXD.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 DisneyXD.gr,SD,SD,,TRUE,c/GR;c/CY,Europe/Athens,ell,576i
+DisneyXD.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng;hin;tam;tel,576i
 DisneyXD.nl,SD,SD,,TRUE,c/NL,Europe/Amsterdam,nld,576i
 DisneyXD.pl,SD,SD,,TRUE,c/PL,Europe/Warsaw,pol,576i
 DisneyXD.us,East,East,,TRUE,c/US,America/New_York,eng;spa,480i
@@ -19966,6 +19969,7 @@ Life.ru,SD,SD,,TRUE,c/RU,Europe/Moscow,rus,576i
 Life120Channel.it,SD,SD,,TRUE,c/IT,Europe/Rome,ita,576i
 LifeCenterNetwork.ng,SD,SD,,TRUE,c/NG,Africa/Lagos,eng,576i
 LifeHDTV.cd,SD,SD,,TRUE,c/CD,Africa/Lubumbashi,fra,576i
+LifeOK.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
 LifeOK.np,SD,SD,,TRUE,c/NP,Asia/Kathmandu,nep,576i
 LifeSportsTV.kr,SD,SD,,TRUE,c/KR,Asia/Seoul,kor,480i
 LifeStyle.au,Plus2,+2,,FALSE,c/AU,Australia/Sydney,eng,576i
@@ -20712,6 +20716,7 @@ MaruayTV.th,SD,SD,,TRUE,c/TH,Asia/Bangkok,tha,576i
 MarutamMusic.in,SD,SD,,TRUE,c/IN;s/IN-TN;ct/INDPI,Asia/Kolkata,tam,576i
 MarutamTV.in,SD,SD,,TRUE,c/IN;s/IN-TN;ct/INDPI,Asia/Kolkata,tam,576i
 MARUTelevision.bw,SD,SD,,TRUE,c/BW,Africa/Gaborone,eng;tsn,576i
+MarvelHQ.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin;eng;tam;tel,576i
 MarvelHQ.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
 MarvisionTV.bo,SD,SD,,TRUE,c/BO,America/La_Paz,eng,480i
 Mas104Television.co,SD,SD,,TRUE,c/CO,America/Bogota,spa,576i
@@ -21669,6 +21674,7 @@ MovieMax.us,East,East,,TRUE,c/US,America/New_York,eng,480i
 MovieMax.us,West,West,,FALSE,c/US,America/Los_Angeles,eng,480i
 MovieMix.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
 MovieMovie.hk,SD,SD,,TRUE,c/HK,Asia/Hong_Kong,zho,576i
+MovieMusicbyStingray.ca,HD,HD,,TRUE,c/CA,America/Toronto,eng,1080p
 MovieonDemand1.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
 MovieonDemand2.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
 MovieonDemandNonStop.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
@@ -21691,6 +21697,7 @@ MovieSmartTurk.tr,SD,SD,,TRUE,c/TR,Europe/Istanbul,tur,576i
 MoviesNow.in,HD,HD,,FALSE,c/IN,Asia/Kolkata,eng;tam,1080p
 MoviesNow.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng;tam,576i
 MoviesNowPlus.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng;tam,576i
+MoviesOK.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
 MoviesonVerizon.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
 MovieSphere.us,AU,AU,NZ,FALSE,c/AU;c/NZ,Australia/Sydney,eng,1080p
 MovieSphere.us,BR,BR,PT,FALSE,c/BR,America/Sao_Paulo,por,1080p
@@ -30006,6 +30013,7 @@ StarCrime.bg,SD,SD,,TRUE,c/BG,Europe/Sofia,bul,576i
 StarCrime.pt,SD,SD,,TRUE,c/PT,Europe/Lisbon,por,576i
 StarCrime.si,HD,HD,,FALSE,c/SI,Europe/Ljubljana,slv,1080i
 StarCrime.si,SD,SD,,TRUE,c/SI,Europe/Ljubljana,slv,576i
+StarEntertainment.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng,576i
 StarEntertainmentChannel.hk,SD,SD,,TRUE,c/HK,Asia/Hong_Kong,zho,576i
 StarEPlus.tz,SD,SD,,TRUE,c/TZ,Africa/Dar_es_Salaam,eng,576i
 StarFamily.ru,SD,SD,,TRUE,c/RU,Europe/Moscow,rus,576i
@@ -30204,6 +30212,7 @@ StingrayCeltic.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingrayChamberMusic.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingrayChillLounge.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingrayChristianPopRock.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
+StingrayCityscapes.ca,HD,HD,,TRUE,c/CA,America/Toronto,eng,1080p
 StingrayClassica.ca,HD,HD,,FALSE,c/CA,America/Toronto,eng;deu;spa;fra,1080i
 StingrayClassica.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng;deu;spa;fra,480i
 StingrayClassicMastersGrandsclassiques.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
@@ -30213,6 +30222,7 @@ StingrayCMT.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingrayCMusic.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingrayCountry.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng;fra,480i
 StingrayCountryClassics.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
+StingrayCozyCafe.ca,HD,HD,,TRUE,c/CA,America/Toronto,eng,1080p
 StingrayDanceClubbin.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingrayDJAZZ.ca,SD,SD,,TRUE,c/CA;c/IN,America/Toronto,eng,480i
 StingrayEasyListening.ca,SD,SD,,TRUE,c/CA;c/IN,America/Toronto,eng,480i
@@ -30241,6 +30251,7 @@ StingrayHitList.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingrayHits.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingrayHolidayFavourites.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingrayHolidayHits.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
+StingrayHolidayscapes.ca,HD,HD,,TRUE,c/CA,America/Toronto,eng,1080p
 StingrayHotCountry.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingrayiConcerts.ca,HD,HD,,FALSE,c/CA,America/Toronto,eng;spa,1080i
 StingrayiConcerts.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng;spa,480i
@@ -30286,6 +30297,7 @@ StingraySmoothJazzChristmas.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingraySoulnRB.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingraySoulStorm.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingraySouvenirs.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
+StingrayStargaze.ca,HD,HD,,TRUE,c/CA,America/Toronto,eng,1080p
 StingraySwinginStandards.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingrayTheBeat.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 StingrayTheBlues.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
@@ -32496,6 +32508,7 @@ ToonamiAftermath.us,East,East,,TRUE,c/US,America/New_York,eng,480i
 ToonamiAftermath.us,West,West,,FALSE,c/US,America/Los_Angeles,eng,480i
 ToonAVision.ca,SD,SD,,TRUE,c/CA,America/Toronto,fra,480i
 Tooncast.us,SD,SD,,TRUE,c/US,America/New_York,spa;eng;por,480i
+ToonDisney.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng;hin;tam;tel,576i
 Toonee.th,SD,SD,,TRUE,c/TH,Asia/Bangkok,tha,576i
 ToonGoggles.us,SD,SD,,TRUE,c/US;c/AU,America/New_York,eng,480i
 ToonGogglesenEspanol.us,SD,SD,,TRUE,c/US,America/New_York,spa,480i
@@ -34867,6 +34880,7 @@ UlaffTV.ng,SD,SD,,TRUE,c/NG,Africa/Lagos,eng,576i
 UlibkaRebyonka.ru,SD,SD,,TRUE,c/RU,Europe/Moscow,rus,576i
 UlkeTV.tr,SD,SD,,TRUE,c/TR,Europe/Istanbul,tur,576i
 ULosLagosTV.cl,SD,SD,,TRUE,c/CL,America/Santiago,spa,480i
+UltimateTriviabyStingray.ca,HD,HD,,TRUE,c/CA,America/Toronto,eng,1080p
 UltimateTV.in,SD,SD,,TRUE,c/IN;s/IN-TN;ct/INTRI,Asia/Kolkata,tam,576i
 UltraCasanareTV.co,SD,SD,,TRUE,c/CO,America/Bogota,spa,576i
 UltraFamilia.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
