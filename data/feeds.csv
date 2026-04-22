@@ -8869,6 +8869,7 @@ EdailyTV.kr,SD,SD,,TRUE,c/KR,Asia/Seoul,kor,480i
 EDAN.fr,SD,SD,,TRUE,c/FR,Europe/Paris,fra,576i
 EdaPremiumInternational.ru,SD,SD,,TRUE,r/CIS,Europe/Moscow,rus,576i
 EDATV.es,SD,SD,,TRUE,c/ES,Europe/Madrid,spa,576i
+EddiesWonderland.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
 eden.nz,Plus1,+1,,FALSE,c/NZ,Pacific/Auckland,eng,576i
 eden.nz,SD,SD,,TRUE,c/NZ,Pacific/Auckland,eng,576i
 EdenCityTV.cd,SD,SD,,TRUE,c/CD,Africa/Kinshasa,fra,576i
@@ -23134,6 +23135,7 @@ NickelodeonScandinavia.nl,SD,SD,,TRUE,c/NO;c/FI;c/DK,Europe/Amsterdam,eng,576i
 NickelodeonTeen.fr,SD,SD,,TRUE,c/FR,Europe/Paris,fra,576i
 NickelodeonUkrainePlutoTV.ua,SD,SD,,TRUE,c/PT;c/PL;c/DE,Europe/Kyiv,eng,576i
 NickelodeonWallonia.be,SD,SD,,TRUE,c/BE;c/LU,Europe/Brussels,fra,576i
+NickelodeonWeb.br,SD,SD,,TRUE,c/BR,America/Sao_Paulo,por,576p
 NickenEspanol.us,SD,SD,,TRUE,c/US,America/New_York,spa,480i
 NickHDPlus.in,HD,HD,,TRUE,c/IN,Asia/Kolkata,eng,1080p
 NickJr.au,SD,SD,,TRUE,c/AU;c/NZ,America/Toronto,eng,576i
@@ -24959,6 +24961,7 @@ PirnaTV.de,SD,SD,,TRUE,c/DE,Europe/Berlin,deu,576i
 PistasdeBlue.us,Spain,Spain,,TRUE,c/ES,Europe/Madrid,spa,576i
 Pitaara.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,pan,576i
 PitaaraInternational.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,pan,576i
+PitufoTV.us,SD,SD,,TRUE,c/US,America/New_York,spa,480p
 PiuraTV.pe,SD,SD,,TRUE,c/PE,America/Lima,spa,480i
 PiwiPlus.fr,SD,SD,,TRUE,c/FR,Europe/Paris,fra,576i
 PixelChannel.ni,SD,SD,,TRUE,c/NI,America/Managua,spa,480i
@@ -30067,6 +30070,7 @@ StarMoviesSelect.in,HD,HD,,FALSE,c/IN,Asia/Kolkata,eng;hin;tam,1080i
 StarMoviesSelect.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,eng;hin;tam,576i
 Starnet.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,mal,576i
 StarNewsPakistan.pk,SD,SD,,TRUE,c/PK,Asia/Karachi,urd,576i
+StarOne.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
 StarPlus.al,SD,SD,,TRUE,c/AL,Europe/Tirane,sqi,576i
 StarPlus.in,HD,HD,,FALSE,c/IN,Asia/Kolkata,hin,1080i
 StarPlus.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
