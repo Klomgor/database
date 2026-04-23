@@ -185,16 +185,16 @@ function cacheData() {
     cities: data.cities.clone(),
     countries: data.countries.clone(),
     logos: data.logos.clone(),
-    citiesKeyByCode: data.citiesKeyByCode,
-    feedsGroupedByChannelId: data.feedsGroupedByChannelId,
-    feedsKeyByStreamId: data.feedsKeyByStreamId,
-    channelsKeyById: data.channelsKeyById,
-    countriesKeyByCode: data.countriesKeyByCode,
-    subdivisionsKeyByCode: data.subdivisionsKeyByCode,
-    categoriesKeyById: data.categoriesKeyById,
-    regionsKeyByCode: data.regionsKeyByCode,
-    timezonesKeyById: data.timezonesKeyById,
-    languagesKeyByCode: data.languagesKeyByCode
+    citiesKeyByCode: data.citiesKeyByCode.clone(),
+    feedsGroupedByChannelId: data.feedsGroupedByChannelId.clone(),
+    feedsKeyByStreamId: data.feedsKeyByStreamId.clone(),
+    channelsKeyById: data.channelsKeyById.clone(),
+    countriesKeyByCode: data.countriesKeyByCode.clone(),
+    subdivisionsKeyByCode: data.subdivisionsKeyByCode.clone(),
+    categoriesKeyById: data.categoriesKeyById.clone(),
+    regionsKeyByCode: data.regionsKeyByCode.clone(),
+    timezonesKeyById: data.timezonesKeyById.clone(),
+    languagesKeyByCode: data.languagesKeyByCode.clone()
   }
 }
 
