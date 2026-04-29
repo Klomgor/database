@@ -1327,6 +1327,7 @@ AllahdhahTV.ye,SD,SD,,TRUE,c/YE,Asia/Aden,ara,576i
 AllAnal.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
 AllAnalAllTheTime.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
 ALLBLKGems.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
+Allegro.id,HD,HD,,TRUE,c/ID,Asia/Jakarta,ind,1080p
 AllegroHD.ar,SD,SD,,TRUE,c/AR;r/LATAM,America/Argentina/Buenos_Aires,spa,576i
 AllegroWebTV.br,SD,SD,,TRUE,ct/BRDTA,America/Sao_Paulo,por,480i
 AllEliteWrestling.us,SD,SD,,TRUE,c/US,America/New_York,spa,480i
@@ -5042,6 +5043,7 @@ CanalPlusFamily.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 CanalPlusFamilyCentre.fr,SD,SD,,TRUE,c/FR,Europe/Paris,fra,576i
 CanalPlusFamilyOuest.fr,SD,SD,,TRUE,c/FR,Europe/Paris,fra,576i
 CanalPlusFilm.pl,SD,SD,,TRUE,c/PL,Europe/Warsaw,pol,576i
+CanalPlusFilm.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 CanalPlusFilm1.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 CanalPlusFilm3.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 CanalPlusFirst.at,SD,SD,,TRUE,c/AT,Europe/Vienna,deu,576i
@@ -5105,6 +5107,7 @@ CanalPlusSportReunion.fr,SD,SD,,TRUE,c/FR,Europe/Paris,fra,576i
 CanalPlusSportsMyanmar.fr,SD,SD,,TRUE,c/FR,Europe/Paris,mya,576i
 CanalPlusSuSann.mm,SD,SD,,TRUE,c/MM,Asia/Yangon,mya,480i
 CanalPlusTop14.fr,SD,SD,,TRUE,c/FR,Europe/Paris,fra,576i
+CanalPlusZap.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 CanalPlusZatLenn.mm,SD,SD,,TRUE,c/FR,Asia/Yangon,mya,480i
 CanalPortada.es,SD,SD,,TRUE,c/ES,Europe/Madrid,spa,576i
 CanalPro.py,SD,SD,,TRUE,c/PY,America/Asuncion,spa,576i
@@ -8205,6 +8208,7 @@ DiscoveryHomeHealthLatinAmerica.mx,Chile,Chile,,FALSE,c/CL;c/VE,America/Santiago
 DiscoveryHomeHealthLatinAmerica.mx,Mexico,Mexico,,FALSE,c/MX,America/Mexico_City,spa,480i
 DiscoveryHomeHealthLatinAmerica.mx,Panregional,Panregional,,TRUE,r/LATAM,America/Bogota;America/Guatemala,spa,480i
 DiscoveryHomeHealthLatinAmerica.mx,South,South,,FALSE,c/AR;c/PY;c/UY,America/Argentina/Buenos_Aires,spa,480i
+DiscoveryJeet.in,HD,HD,,FALSE,c/IN,Asia/Kolkata,hin,1080i
 DiscoveryJeet.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,hin,576i
 DiscoveryKids.au,SD,SD,,TRUE,c/AU,Australia/Sydney,eng,576i
 DiscoveryKids.ca,SD,SD,,TRUE,c/CA,America/Toronto,eng,480i
@@ -21055,6 +21059,7 @@ MediCOOLTV.ro,SD,SD,,TRUE,c/RO,Europe/Bucharest,ron,576i
 MedinaBayeTV.sn,SD,SD,,TRUE,c/SN,Africa/Dakar,fra,576i
 MedinaLive.bd,SD,SD,,TRUE,c/BD,Asia/Dhaka,ben,576i
 MediterraniaTV.it,SD,SD,,TRUE,c/IT,Europe/Rome,ita,576i
+Mediteve.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 MediTV.es,SD,SD,,TRUE,c/ES,Europe/Madrid,cat,576i
 MedjugorjeItaliaTV.it,SD,SD,,TRUE,c/IT,Europe/Rome,ita,576i
 MedMuzik.tr,SD,SD,,TRUE,c/TR,Europe/Istanbul,kur,576i
@@ -29821,6 +29826,7 @@ SpoonTV.lr,SD,SD,,TRUE,c/LR,Africa/Monrovia,eng,576i
 SporSmart.tr,SD,SD,,TRUE,c/TR,Europe/Istanbul,tur;eng,576i
 SporSmart2.tr,SD,SD,,TRUE,c/TR,Europe/Istanbul,tur,576i
 Sport.kg,SD,SD,,TRUE,r/CAS,Asia/Bishkek,kir;rus;eng,576i
+Sport.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 Sport.sk,SD,SD,,TRUE,c/SK,Europe/Bratislava,slk,576i
 Sport.ua,SD,SD,,TRUE,c/UA,Europe/Kyiv,ukr,576i
 Sport.uz,SD,SD,,TRUE,c/UZ,Asia/Tashkent,uzb,576i
@@ -30934,6 +30940,7 @@ SVBC3.in,SD,SD,,TRUE,c/IN;c/CA,Asia/Kolkata,kan,576i
 SVBC4.in,SD,SD,,TRUE,c/IN;c/CA,Asia/Kolkata,hin,576i
 SverigeKanalen.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 SverigeRadioTV1.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
+SverigesRadioTV.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 SverigesRadioTV2.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 SvetloeTV.by,SD,SD,,TRUE,c/BY,Europe/Minsk,bel,576i
 SVGTV.vc,SD,SD,,TRUE,c/VC,America/St_Vincent,eng;svc,480i
@@ -32100,6 +32107,8 @@ ThanhHoaTV.vn,SD,SD,,TRUE,c/VN,Asia/Ho_Chi_Minh,vie,576i
 ThanthiOne.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,tam,576i
 ThanthiTV.in,SD,SD,,TRUE,c/IN,Asia/Kolkata,tam,576i
 ThaqalaynTV.tr,SD,SD,,TRUE,c/TR,Europe/Istanbul,ara,576i
+Thats20thCentury.uk,MCRFreeview,MCRFreeview,,FALSE,c/UK,Europe/London,eng,576i
+Thats20thCentury.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
 Thats60s.uk,MCRFreeview,MCR Freeview,,FALSE,c/UK,Europe/London,eng,576i
 Thats60s.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
 Thats70s.uk,MCRFreeview,MCR Freeview,,FALSE,c/UK,Europe/London,eng,576i
@@ -32108,15 +32117,11 @@ Thats80s.uk,Freeview,Freeview,,FALSE,c/UK,Europe/London,eng,576i
 Thats80s.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
 Thats90s.uk,MCRFreeview,MCR Freeview,,FALSE,c/UK,Europe/London,eng,576i
 Thats90s.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
+ThatsClassics.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
+ThatsEntertainment.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
 ThatsMelody.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
 ThatsOldies.uk,MCRFreeview,MCRFreeview,,FALSE,c/UK,Europe/London,eng,576i
 ThatsOldies.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
-Thats20thCentury.uk,MCRFreeview,MCRFreeview,,FALSE,c/UK,Europe/London,eng,576i
-Thats20thCentury.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
-ThatsClassics.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
-ThatsEntertainment.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
-ThatsTV2.uk,MCRFreeview,MCRFreeview,,FALSE,c/UK,Europe/London,eng,576i
-ThatsTV2.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
 ThatsTV.uk,Aberdeen,Aberdeen,,FALSE,c/UK,Europe/London,eng,576i
 ThatsTV.uk,Ayrshire,Ayrshire,,FALSE,c/UK,Europe/London,eng,576i
 ThatsTV.uk,Belfast,Belfast,,FALSE,c/UK,Europe/London,eng,576i
@@ -32142,6 +32147,8 @@ ThatsTV.uk,ThamesValley,ThamesValley,,FALSE,c/UK,Europe/London,eng,576i
 ThatsTV.uk,UKManchester,UKManchester,,FALSE,c/UK,Europe/London,eng,576i
 ThatsTV.uk,Wiltshire,Wiltshire,,FALSE,c/UK,Europe/London,eng,576i
 ThatsTV.uk,York,York,,FALSE,c/UK,Europe/London,eng,576i
+ThatsTV2.uk,MCRFreeview,MCRFreeview,,FALSE,c/UK,Europe/London,eng,576i
+ThatsTV2.uk,SD,SD,,TRUE,c/UK,Europe/London,eng,576i
 TheAddamsFamily.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
 TheAfricaChannel.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
 TheAmazingRace.us,SD,SD,,TRUE,c/US,America/New_York,eng,480i
@@ -35581,6 +35588,7 @@ ViasatExplore.tr,SD,SD,,TRUE,c/TR,Europe/Istanbul,tur,576i
 ViasatExplore.ua,SD,SD,,TRUE,c/UA,Europe/Kyiv,ukr,576i
 ViasatExploreClassic.pl,SD,SD,,TRUE,c/PL;r/EU,Europe/Warsaw,pol,576i
 ViasatFilm.hu,SD,SD,,TRUE,c/HU,Europe/Budapest,hun;eng,576i
+ViasatFilm.se,HD,HD,,FALSE,c/SE,Europe/Stockholm,swe,1080i
 ViasatFilm.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 ViasatFilmAction.se,HD,HD,,FALSE,c/SE,Europe/Stockholm,swe,1080i
 ViasatFilmAction.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
@@ -35609,6 +35617,7 @@ ViasatHistory.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,eng,576i
 ViasatHistory.si,HD,HD,,TRUE,c/SI,Europe/Ljubljana,slv,1080i
 ViasatHistory.tr,SD,SD,,TRUE,c/TR,Europe/Istanbul,tur,576i
 ViasatHistory.ua,SD,SD,,TRUE,c/UA,Europe/Kyiv,ukr,576i
+ViasatHockey.se,HD,HD,,FALSE,c/SE,Europe/Stockholm,swe,1080i
 ViasatHockey.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 ViasatKino.ua,SD,SD,,TRUE,c/UA;c/LV;c/EE;c/LT,Europe/Kyiv,rus;eng;lat,576i
 ViasatKinoAction.ua,SD,SD,,TRUE,c/UA;c/LV;c/EE;c/LT,Europe/Kyiv,rus;eng;lat,576i
@@ -35635,7 +35644,12 @@ ViasatSport3.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 ViasatSportPremium.se,HD,HD,,TRUE,c/SE,Europe/Stockholm,swe,1080i
 ViasatTrueCrime.pl,Greece,Greece,,FALSE,c/GR,Europe/Athens,eng;ell,1080i
 ViasatTrueCrime.pl,HD,HD,,TRUE,c/PL;r/EUR,Europe/Warsaw,pol,1080i
+ViasatTV1000.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
+ViasatTV10003.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 ViasatTV1000Action.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
+ViasatTV1000CINEMA1.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
+ViasatTV1000CINEMA2.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
+ViasatTV1000CINEMA3.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 ViasatTV1000Classic.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 ViasatTV1000Drama.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
 ViasatTV1000Family.se,SD,SD,,TRUE,c/SE,Europe/Stockholm,swe,576i
